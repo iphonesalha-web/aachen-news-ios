@@ -51,28 +51,54 @@ def is_arabic(s):
     return len(re.findall(r"[؀-ۿ]", s)) > len(s) * 0.3
 
 
-_tcache = {}
+def _ms_translate(texts):
+    """مترجم Microsoft المجاني الذي يستعمله متصفح Edge — يقبل دفعة نصوص في طلب واحد."""
+    token = fetch("https://edge.microsoft.com/translate/auth", 15).decode().strip()
+    out = []
+    for i in range(0, len(texts), 50):
+        chunk = texts[i:i + 50]
+        req = urllib.request.Request(
+            "https://api-edge.cognitive.microsofttranslator.com/translate?api-version=3.0&to=ar",
+            data=json.dumps([{"Text": t[:1000]} for t in chunk]).encode(),
+            headers={**UA, "Authorization": "Bearer " + token, "Content-Type": "application/json"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            res = json.loads(r.read())
+        out += [x["translations"][0]["text"] for x in res]
+        time.sleep(1)
+    return out
 
 
-def translate(text):
-    text = (text or "").strip()
-    if not text or is_arabic(text):
-        return text
-    if text in _tcache:
-        return _tcache[text]
+def _google_translate(text):
     url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ar&dt=t&q="
            + urllib.parse.quote(text[:1500]))
-    for attempt in range(3):
+    data = json.loads(fetch(url, 15))
+    return "".join(part[0] for part in data[0] if part and part[0])
+
+
+def translate_many(texts):
+    """يعيد قاموس {النص: الترجمة}. ما يفشل يبقى بلا ترجمة ويُعاد في المرة القادمة."""
+    todo = [t for t in dict.fromkeys(texts) if t and not is_arabic(t)]
+    done = {t: t for t in texts if t and is_arabic(t)}
+    if not todo:
+        return done
+    try:
+        done.update(zip(todo, _ms_translate(todo)))
+        print(f"translated {len(todo)} via Microsoft")
+        return done
+    except Exception as e:
+        print("microsoft translate failed:", e, file=sys.stderr)
+    fails = 0
+    for t in todo:
         try:
-            data = json.loads(fetch(url, 15))
-            out = "".join(part[0] for part in data[0] if part and part[0])
-            _tcache[text] = out
-            time.sleep(0.3)
-            return out
+            done[t] = _google_translate(t)
+            fails = 0
+            time.sleep(0.5)
         except Exception as e:
-            print("translate failed:", e, file=sys.stderr)
-            time.sleep(2 * (attempt + 1))
-    return text
+            fails += 1
+            print("google translate failed:", e, file=sys.stderr)
+            if fails >= 2:
+                break
+    return done
 
 
 def norm_title(t):
@@ -125,20 +151,25 @@ def main():
             seen_urls.add(it["url"]); seen_titles.add(key)
             counts[cat] = counts.get(cat, 0) + 1
             prev = old.get(it["url"])
-            if prev and prev.get("title_orig") == it["title_de"]:
-                title, summary = prev["title"], prev.get("summary", "")
-            else:
-                title = translate(it["title_de"])
-                summary = translate(it["summary_de"]) if it["summary_de"] else ""
+            cached = (prev and prev.get("title_orig") == it["title_de"]
+                      and is_arabic(prev.get("title", "")))
             result.append({
                 "cat": cat,
-                "title": title,
-                "summary": summary,
+                "title": prev["title"] if cached else it["title_de"],
+                "summary": prev.get("summary", "") if cached else it["summary_de"],
                 "title_orig": it["title_de"],
                 "source": it["source"],
                 "url": it["url"],
                 "time": datetime.fromtimestamp(it["ts"], timezone.utc).isoformat() if it["ts"] else None,
+                "_new": not cached,
             })
+
+    fresh = [r for r in result if r["_new"]]
+    tr = translate_many([r["title"] for r in fresh] + [r["summary"] for r in fresh if r["summary"]])
+    for r in result:
+        if r.pop("_new"):
+            r["title"] = tr.get(r["title"], r["title"])
+            r["summary"] = tr.get(r["summary"], r["summary"]) if r["summary"] else ""
 
     result.sort(key=lambda i: i["time"] or "", reverse=True)
     if not result and old:
