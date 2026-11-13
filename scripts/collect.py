@@ -28,6 +28,10 @@ FEEDS = [
     # ألمانيا: أهم العناوين الألمانية (تُترجم) + أخبار عربية عن ألمانيا
     ("germany", None, "https://news.google.com/rss?hl=de&gl=DE&ceid=DE:de"),
     ("germany", None, gnews("ألمانيا", "ar")),
+    # التقنية والذكاء الاصطناعي
+    ("tech", None, gnews('"الذكاء الاصطناعي" OR ChatGPT OR OpenAI OR Claude OR Gemini', "ar")),
+    ("tech", None, gnews('"künstliche Intelligenz" OR KI-Modell OR OpenAI OR Anthropic OR "Google Gemini" OR ChatGPT')),
+    ("tech", None, gnews('iPhone OR Apple OR Android OR Samsung OR Smartphone OR Tech')),
     # لبنان: أهم العناوين في لبنان بالعربية
     ("lebanon", None, "https://news.google.com/rss?hl=ar&gl=LB&ceid=LB:ar"),
     ("lebanon", None, gnews("لبنان", "ar", "LB")),
