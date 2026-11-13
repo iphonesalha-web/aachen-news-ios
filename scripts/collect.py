@@ -51,53 +51,74 @@ def is_arabic(s):
     return len(re.findall(r"[؀-ۿ]", s)) > len(s) * 0.3
 
 
-def _ms_translate(texts):
-    """مترجم Microsoft المجاني الذي يستعمله متصفح Edge — يقبل دفعة نصوص في طلب واحد."""
-    token = fetch("https://edge.microsoft.com/translate/auth", 15).decode().strip()
-    out = []
-    for i in range(0, len(texts), 50):
-        chunk = texts[i:i + 50]
-        req = urllib.request.Request(
-            "https://api-edge.cognitive.microsofttranslator.com/translate?api-version=3.0&to=ar",
-            data=json.dumps([{"Text": t[:1000]} for t in chunk]).encode(),
-            headers={**UA, "Authorization": "Bearer " + token, "Content-Type": "application/json"})
-        with urllib.request.urlopen(req, timeout=30) as r:
-            res = json.loads(r.read())
-        out += [x["translations"][0]["text"] for x in res]
-        time.sleep(1)
-    return out
+def _post(url, form, timeout=30):
+    req = urllib.request.Request(url, data=urllib.parse.urlencode(form).encode(),
+                                 headers={**UA, "Content-Type": "application/x-www-form-urlencoded;charset=utf-8"})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read().decode("utf-8")
 
 
-def _google_translate(text):
-    url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ar&dt=t&q="
-           + urllib.parse.quote(text[:1500]))
-    data = json.loads(fetch(url, 15))
+def _g_api(text):
+    data = json.loads(_post("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ar&dt=t",
+                            {"q": text}))
     return "".join(part[0] for part in data[0] if part and part[0])
 
 
+def _g_dict(text):
+    data = json.loads(_post("https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=auto&tl=ar",
+                            {"q": text}))
+    first = data[0]
+    return first[0] if isinstance(first, list) else first
+
+
+def _g_mobile(text):
+    page = fetch("https://translate.google.com/m?sl=auto&tl=ar&hl=ar&q=" + urllib.parse.quote(text), 30).decode()
+    m = re.search(r'class="result-container">(.*?)</div>', page, re.S)
+    if not m:
+        raise ValueError("no result")
+    return html.unescape(m.group(1))
+
+
+ENGINES = [("google-api", _g_api), ("google-dict", _g_dict), ("google-mobile", _g_mobile)]
+
+
+def _chunks(texts, limit=1800):
+    cur, size = [], 0
+    for t in texts:
+        if cur and size + len(t) + 1 > limit:
+            yield cur
+            cur, size = [], 0
+        cur.append(t)
+        size += len(t) + 1
+    if cur:
+        yield cur
+
+
 def translate_many(texts):
-    """يعيد قاموس {النص: الترجمة}. ما يفشل يبقى بلا ترجمة ويُعاد في المرة القادمة."""
-    todo = [t for t in dict.fromkeys(texts) if t and not is_arabic(t)]
+    """يعيد قاموس {النص: الترجمة}. يرسل النصوص دفعات (سطر لكل نص) لتقليل الطلبات.
+    ما يفشل يبقى بلا ترجمة ويُعاد في المرة القادمة."""
+    todo = [t.replace("\n", " ") for t in dict.fromkeys(texts) if t and not is_arabic(t)]
     done = {t: t for t in texts if t and is_arabic(t)}
-    if not todo:
-        return done
-    try:
-        done.update(zip(todo, _ms_translate(todo)))
-        print(f"translated {len(todo)} via Microsoft")
-        return done
-    except Exception as e:
-        print("microsoft translate failed:", e, file=sys.stderr)
-    fails = 0
-    for t in todo:
-        try:
-            done[t] = _google_translate(t)
-            fails = 0
-            time.sleep(0.5)
-        except Exception as e:
-            fails += 1
-            print("google translate failed:", e, file=sys.stderr)
-            if fails >= 2:
+    engines = list(ENGINES)
+    for chunk in _chunks(todo):
+        while engines:
+            name, fn = engines[0]
+            try:
+                lines = fn("\n".join(chunk)).split("\n")
+                if len(lines) == len(chunk):
+                    done.update(zip(chunk, (l.strip() for l in lines)))
+                else:  # لم يحافظ على الأسطر — نترجم واحداً واحداً
+                    for t in chunk:
+                        done[t] = fn(t).strip()
+                        time.sleep(0.4)
+                print(f"translated {len(chunk)} via {name}")
+                time.sleep(1.5)
                 break
+            except Exception as e:
+                print(f"{name} failed:", e, file=sys.stderr)
+                engines.pop(0)
+        if not engines:
+            break
     return done
 
 
