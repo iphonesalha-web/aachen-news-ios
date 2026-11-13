@@ -35,6 +35,7 @@ jobs:
             build 2>&1 | grep -E "error:|BUILD (SUCCEEDED|FAILED)|\*\*" || true
           test -d build/Release-iphoneos/AachenNews.app
           test -f build/Release-iphoneos/AachenNews.app/web/index.html
+          test -f build/Release-iphoneos/AachenNews.app/Assets.car
 
       - name: Package IPA
         run: |
