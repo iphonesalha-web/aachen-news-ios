@@ -9,6 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data", "news.json")
 MAX_AGE = 4 * 24 * 3600      # أخبار آخر 4 أيام
 MAX_PER_CAT = 30
+MAX_PER_FEED = 12      # حتى لا يطغى مصدر واحد على القسم
 UA = {"User-Agent": "Mozilla/5.0 (AachenNews; +https://github.com/iphonesalha-web/aachen-news-ios)"}
 
 
@@ -185,7 +186,10 @@ def main():
     seen_titles, seen_urls, result = set(), set(), []
     counts = {}
     for cat, src, url in FEEDS:
+        taken = 0
         for it in read_feed(cat, src, url):
+            if taken >= MAX_PER_FEED:
+                break
             if it["ts"] and now - it["ts"] > MAX_AGE:
                 continue
             key = norm_title(it["title_de"])
@@ -201,6 +205,7 @@ def main():
                 continue
             seen_urls.add(it["url"]); seen_titles.add(key)
             counts[cat] = counts.get(cat, 0) + 1
+            taken += 1
             prev = old.get(it["url"])
             cached = (prev and prev.get("title_orig") == it["title_de"]
                       and is_arabic(prev.get("title", "")))
