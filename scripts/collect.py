@@ -122,6 +122,21 @@ def translate_many(texts):
     return done
 
 
+STOP = {"aachen", "aachener", "nach", "eine", "einer", "einem", "einen", "der", "die", "das", "und",
+        "mit", "von", "für", "auf", "dem", "den", "ist", "sind", "wird", "werden", "nicht", "auch",
+        "über", "beim", "bei", "aus", "was", "wie", "noch", "bislang", "bekannt", "heute"}
+
+
+def words(t):
+    return {w for w in re.findall(r"\w{4,}", t.lower()) if w not in STOP}
+
+
+def similar(a, b):
+    if len(a) < 2 or len(b) < 2:
+        return False
+    return len(a & b) / min(len(a), len(b)) >= 0.5
+
+
 def norm_title(t):
     return re.sub(r"[^\w]+", "", t.lower())[:80]
 
@@ -167,6 +182,12 @@ def main():
             key = norm_title(it["title_de"])
             if it["url"] in seen_urls or key in seen_titles:
                 continue
+            w = words(it["title_de"])
+            dup = next((r for r in result if similar(w, r["_w"])), None)
+            if dup:  # نفس الخبر من مصدر آخر
+                dup["more"] = dup.get("more", 0) + 1
+                seen_urls.add(it["url"]); seen_titles.add(key)
+                continue
             if counts.get(cat, 0) >= MAX_PER_CAT:
                 continue
             seen_urls.add(it["url"]); seen_titles.add(key)
@@ -183,11 +204,13 @@ def main():
                 "url": it["url"],
                 "time": datetime.fromtimestamp(it["ts"], timezone.utc).isoformat() if it["ts"] else None,
                 "_new": not cached,
+                "_w": w,
             })
 
     fresh = [r for r in result if r["_new"]]
     tr = translate_many([r["title"] for r in fresh] + [r["summary"] for r in fresh if r["summary"]])
     for r in result:
+        r.pop("_w", None)
         if r.pop("_new"):
             r["title"] = tr.get(r["title"], r["title"])
             r["summary"] = tr.get(r["summary"], r["summary"]) if r["summary"] else ""

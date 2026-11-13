@@ -87,7 +87,7 @@ function renderList() {
     c.querySelector("p").textContent = i.summary || "";
     const a = c.querySelector(".src");
     a.href = i.url || "#";
-    a.textContent = "المصدر: " + (i.source || "رابط");
+    a.textContent = "المصدر: " + (i.source || "رابط") + (i.more ? `  (+${i.more} مصادر أخرى)` : "");
     list.appendChild(c);
   });
 }
