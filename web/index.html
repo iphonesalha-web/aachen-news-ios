@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>أخبار آخن</title>
+<style>
+  :root { --bg:#f5f7fb; --card:#fff; --ink:#1b2333; --muted:#6b7385; --accent:#1f5fbf; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0e1420; --card:#18202f; --ink:#e8edf7; --muted:#97a2b8; --accent:#6aa3ff; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family:-apple-system, system-ui, "Segoe UI", sans-serif; background:var(--bg); color:var(--ink); padding-top:env(safe-area-inset-top); }
+  header { position:sticky; top:0; background:var(--bg); padding:14px 16px 8px; z-index:2; }
+  h1 { margin:0 0 10px; font-size:22px; }
+  .tabs { display:flex; gap:8px; overflow-x:auto; }
+  .tab { border:0; border-radius:20px; padding:7px 14px; background:var(--card); color:var(--ink); font-size:14px; white-space:nowrap; }
+  .tab.on { background:var(--accent); color:#fff; }
+  main { padding:8px 16px 40px; }
+  .meta { color:var(--muted); font-size:13px; margin:4px 0 12px; }
+  .card { background:var(--card); border-radius:14px; padding:14px; margin-bottom:12px; box-shadow:0 1px 3px rgba(0,0,0,.06); }
+  .tag { font-size:12px; color:var(--accent); font-weight:600; }
+  .card h2 { font-size:17px; margin:6px 0; line-height:1.5; }
+  .card p { margin:0 0 8px; font-size:15px; line-height:1.7; color:var(--ink); opacity:.9; }
+  .src { font-size:13px; color:var(--muted); text-decoration:none; }
+  .empty { text-align:center; color:var(--muted); padding:40px 0; }
+  .refresh { border:0; background:none; color:var(--accent); font-size:14px; padding:4px 0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>أخبار آخن 📰</h1>
+  <div class="tabs" id="tabs"></div>
+</header>
+<main>
+  <div class="meta" id="meta"></div>
+  <div id="list"></div>
+  <div style="text-align:center"><button class="refresh" id="refresh">تحديث</button></div>
+</main>
+<script>
+const NEWS_URL = "https://raw.githubusercontent.com/iphonesalha-web/aachen-news-ios/main/data/news.json";
+const CATS = [
+  { id: "all", name: "الكل" },
+  { id: "city", name: "المدينة" },
+  { id: "security", name: "الأمن والحوادث" },
+  { id: "community", name: "الجالية العربية" }
+];
+let data = { updated: null, items: [] };
+let current = "all";
+
+function fmt(iso) {
+  if (!iso) return "";
+  const d = new Date(iso);
+  return isNaN(d) ? "" : d.toLocaleString("ar", { dateStyle: "medium", timeStyle: "short" });
+}
+
+function renderTabs() {
+  const t = document.getElementById("tabs");
+  t.innerHTML = "";
+  CATS.forEach(c => {
+    const b = document.createElement("button");
+    b.className = "tab" + (c.id === current ? " on" : "");
+    b.textContent = c.name;
+    b.onclick = () => { current = c.id; renderTabs(); renderList(); };
+    t.appendChild(b);
+  });
+}
+
+function renderList() {
+  const list = document.getElementById("list");
+  list.innerHTML = "";
+  const items = data.items.filter(i => current === "all" || i.cat === current);
+  if (!items.length) {
+    const e = document.createElement("div");
+    e.className = "empty";
+    e.textContent = "لا توجد أخبار في هذا القسم حالياً";
+    list.appendChild(e);
+    return;
+  }
+  items.forEach(i => {
+    const c = document.createElement("article");
+    c.className = "card";
+    const cat = CATS.find(x => x.id === i.cat);
+    c.innerHTML = `<div class="tag"></div><h2></h2><p></p><a class="src" target="_blank"></a>`;
+    c.querySelector(".tag").textContent = (cat ? cat.name : "") + (i.time ? " · " + fmt(i.time) : "");
+    c.querySelector("h2").textContent = i.title || "";
+    c.querySelector("p").textContent = i.summary || "";
+    const a = c.querySelector(".src");
+    a.href = i.url || "#";
+    a.textContent = "المصدر: " + (i.source || "رابط");
+    list.appendChild(c);
+  });
+}
+
+async function load() {
+  document.getElementById("meta").textContent = "جارٍ التحميل…";
+  try {
+    const r = await fetch(NEWS_URL + "?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    data = await r.json();
+    localStorage.setItem("news", JSON.stringify(data));
+  } catch (e) {
+    try { data = JSON.parse(localStorage.getItem("news")) || data; } catch (_) {}
+  }
+  document.getElementById("meta").textContent = data.updated
+    ? "آخر تحديث: " + fmt(data.updated)
+    : "";
+  renderList();
+}
+
+document.getElementById("refresh").onclick = load;
+renderTabs();
+load();
+</script>
+</body>
+</html>
