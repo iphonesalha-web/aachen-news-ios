@@ -12,8 +12,7 @@ MAX_PER_CAT = 30
 UA = {"User-Agent": "Mozilla/5.0 (AachenNews; +https://github.com/iphonesalha-web/aachen-news-ios)"}
 
 
-def gnews(q, lang="de"):
-    gl = "DE"
+def gnews(q, lang="de", gl="DE"):
     return ("https://news.google.com/rss/search?q=" + urllib.parse.quote(q + " when:4d")
             + f"&hl={lang}&gl={gl}&ceid={gl}:{lang}")
 
@@ -26,6 +25,12 @@ FEEDS = [
     ("community", None, gnews('Aachen (Syrer OR Araber OR arabisch OR Moschee OR Geflüchtete OR Migranten OR Libanon OR Ausländerbehörde)')),
     ("city", None, gnews('Aachen')),
     ("city", None, gnews('"Städteregion Aachen" OR Alsdorf OR Würselen OR Herzogenrath OR Eschweiler OR Stolberg')),
+    # ألمانيا: أهم العناوين الألمانية (تُترجم) + أخبار عربية عن ألمانيا
+    ("germany", None, "https://news.google.com/rss?hl=de&gl=DE&ceid=DE:de"),
+    ("germany", None, gnews("ألمانيا", "ar")),
+    # لبنان: أهم العناوين في لبنان بالعربية
+    ("lebanon", None, "https://news.google.com/rss?hl=ar&gl=LB&ceid=LB:ar"),
+    ("lebanon", None, gnews("لبنان", "ar", "LB")),
 ]
 
 

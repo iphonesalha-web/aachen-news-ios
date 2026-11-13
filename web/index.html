@@ -40,13 +40,15 @@
 <script>
 const NEWS_URL = "https://raw.githubusercontent.com/iphonesalha-web/aachen-news-ios/main/data/news.json";
 const CATS = [
-  { id: "all", name: "الكل" },
+  { id: "aachen", name: "آخن", group: ["city", "security", "community"] },
   { id: "city", name: "المدينة" },
   { id: "security", name: "الأمن والحوادث" },
-  { id: "community", name: "الجالية العربية" }
+  { id: "community", name: "الجالية العربية" },
+  { id: "germany", name: "ألمانيا 🇩🇪" },
+  { id: "lebanon", name: "لبنان 🇱🇧" }
 ];
 let data = { updated: null, items: [] };
-let current = "all";
+let current = "aachen";
 
 function fmt(iso) {
   if (!iso) return "";
@@ -69,7 +71,9 @@ function renderTabs() {
 function renderList() {
   const list = document.getElementById("list");
   list.innerHTML = "";
-  const items = data.items.filter(i => current === "all" || i.cat === current);
+  const tab = CATS.find(c => c.id === current);
+  const cats = tab.group || [tab.id];
+  const items = data.items.filter(i => cats.includes(i.cat));
   if (!items.length) {
     const e = document.createElement("div");
     e.className = "empty";
