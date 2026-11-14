@@ -10,6 +10,8 @@ OUT = os.path.join(ROOT, "data", "news.json")
 MAX_AGE = 4 * 24 * 3600      # أخبار آخر 4 أيام
 MAX_PER_CAT = 30
 MAX_PER_FEED = 12      # حتى لا يطغى مصدر واحد على القسم
+CAT_LIMIT = {"papers": 48}   # الصحف: 6 أخبار من كل صحيفة
+FEED_LIMIT = {"papers": 6}
 UA = {"User-Agent": "Mozilla/5.0 (AachenNews; +https://github.com/iphonesalha-web/aachen-news-ios)"}
 
 
@@ -33,6 +35,15 @@ FEEDS = [
     ("tech", None, gnews('"الذكاء الاصطناعي" OR ChatGPT OR OpenAI OR Claude OR Gemini', "ar")),
     ("tech", None, gnews('"künstliche Intelligenz" OR KI-Modell OR OpenAI OR Anthropic OR "Google Gemini" OR ChatGPT')),
     ("tech", None, gnews('iPhone OR Apple OR Android OR Samsung OR Smartphone OR Tech')),
+    # الصحف الألمانية الكبرى (عناوينها الرئيسية مع ملخص، تُترجم)
+    ("papers", "Tagesschau", "https://www.tagesschau.de/index~rss2.xml"),
+    ("papers", "Spiegel", "https://www.spiegel.de/schlagzeilen/index.rss"),
+    ("papers", "Zeit", "https://newsfeed.zeit.de/index"),
+    ("papers", "FAZ", "https://www.faz.net/rss/aktuell/"),
+    ("papers", "Süddeutsche", "https://rss.sueddeutsche.de/rss/Topthemen"),
+    ("papers", "WELT", "https://www.welt.de/feeds/topnews.rss"),
+    ("papers", "n-tv", "https://www.n-tv.de/rss"),
+    ("papers", "Bild", "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2.bild.xml"),
     # لبنان: أهم العناوين في لبنان بالعربية
     ("lebanon", None, "https://news.google.com/rss?hl=ar&gl=LB&ceid=LB:ar"),
     ("lebanon", None, gnews("لبنان", "ar", "LB")),
@@ -188,7 +199,7 @@ def main():
     for cat, src, url in FEEDS:
         taken = 0
         for it in read_feed(cat, src, url):
-            if taken >= MAX_PER_FEED:
+            if taken >= FEED_LIMIT.get(cat, MAX_PER_FEED):
                 break
             if it["ts"] and now - it["ts"] > MAX_AGE:
                 continue
@@ -201,7 +212,7 @@ def main():
                 dup["more"] = dup.get("more", 0) + 1
                 seen_urls.add(it["url"]); seen_titles.add(key)
                 continue
-            if counts.get(cat, 0) >= MAX_PER_CAT:
+            if counts.get(cat, 0) >= CAT_LIMIT.get(cat, MAX_PER_CAT):
                 continue
             seen_urls.add(it["url"]); seen_titles.add(key)
             counts[cat] = counts.get(cat, 0) + 1
@@ -248,11 +259,12 @@ NOTIFY_CATS = {
     "community": "👥 آخن — الجالية العربية",
     "city": "🏙️ آخن — المدينة",
     "germany": "🇩🇪 ألمانيا",
+    "papers": "📰 الصحف الألمانية",
     "lebanon": "🇱🇧 لبنان",
     "tech": "🤖 تقنية وذكاء اصطناعي",
 }
 # أقصى عدد رسائل لكل قسم في كل تشغيل (كل ساعة) حتى لا تمتلئ المحادثة
-NOTIFY_LIMIT = {"security": 6, "community": 4, "city": 4, "germany": 3, "lebanon": 3, "tech": 3}
+NOTIFY_LIMIT = {"security": 6, "community": 4, "city": 4, "germany": 3, "papers": 4, "lebanon": 3, "tech": 3}
 NOTIFY_MAX_AGE = 12 * 3600     # لا ننبّه عن خبر أقدم من 12 ساعة
 
 
