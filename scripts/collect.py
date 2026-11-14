@@ -238,6 +238,72 @@ def main():
         json.dump({"updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
                    "items": result}, f, ensure_ascii=False, indent=1)
     print("items:", counts)
+    notify(result)
+
+
+# ---------- تنبيهات تيليجرام للأخبار المهمة ----------
+NOTIFIED = os.path.join(ROOT, "data", "notified.json")
+NOTIFY_CATS = {"security": "🚨 أمن وحوادث — آخن", "community": "👥 الجالية العربية — آخن"}
+NOTIFY_MAX_AGE = 12 * 3600     # لا ننبّه عن خبر أقدم من 12 ساعة
+NOTIFY_PER_RUN = 6
+
+
+def tg_send(token, chat, text):
+    data = urllib.parse.urlencode({"chat_id": chat, "text": text,
+                                   "disable_web_page_preview": "true"}).encode()
+    with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=data, timeout=20) as r:
+        return json.loads(r.read()).get("ok")
+
+
+def notify(items):
+    token = os.environ.get("TG_BOT_TOKEN", "").strip()
+    chat = os.environ.get("TG_CHAT_ID", "").strip()
+    if not token or not chat:
+        print("telegram: no secrets — skipped")
+        return
+    first_run = not os.path.exists(NOTIFIED)
+    try:
+        with open(NOTIFIED) as f:
+            sent = json.load(f)
+    except Exception:
+        sent = []
+    sent_words = [set(x.get("w", [])) for x in sent]
+    sent_urls = {x.get("url") for x in sent}
+    now = time.time()
+    fresh = []
+    for it in items:
+        if it["cat"] not in NOTIFY_CATS or it["url"] in sent_urls:
+            continue
+        w = words(it.get("title_orig") or it["title"])
+        if any(similar(w, sw) for sw in sent_words):
+            continue
+        sent.append({"url": it["url"], "w": sorted(w), "at": int(now)})
+        sent_words.append(w)
+        sent_urls.add(it["url"])
+        try:
+            age = now - datetime.fromisoformat(it["time"]).timestamp() if it.get("time") else 0
+        except ValueError:
+            age = 0
+        if age <= NOTIFY_MAX_AGE:
+            fresh.append(it)
+
+    try:
+        if first_run:
+            tg_send(token, chat, "✅ تم ربط تطبيق أخبار آخن بهذا البوت.\n"
+                                 "ستصلك هنا الأخبار الأمنية وأخبار الجالية العربية في آخن فور نشرها.")
+        else:
+            for it in sorted(fresh, key=lambda i: i.get("time") or "")[-NOTIFY_PER_RUN:]:
+                more = f" (+{it['more']} مصادر)" if it.get("more") else ""
+                tg_send(token, chat, f"{NOTIFY_CATS[it['cat']]}\n\n{it['title']}\n\n"
+                                     f"📰 {it['source']}{more}\n{it['url']}")
+                time.sleep(1)
+        print(f"telegram: sent {0 if first_run else min(len(fresh), NOTIFY_PER_RUN)}")
+    except Exception as e:
+        print("telegram failed:", e, file=sys.stderr)
+        return   # لا نحفظ — نحاول في المرة القادمة
+
+    with open(NOTIFIED, "w") as f:
+        json.dump(sent[-400:], f, ensure_ascii=False)
 
 
 if __name__ == "__main__":
