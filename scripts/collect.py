@@ -267,9 +267,11 @@ NOTIFY_LIMIT = {"security": 6, "community": 4, "city": 4, "germany": 3, "papers"
 NOTIFY_MAX_AGE = 12 * 3600     # لا ننبّه عن خبر أقدم من 12 ساعة
 
 
-def tg_send(token, chat, text):
-    data = urllib.parse.urlencode({"chat_id": chat, "text": text,
-                                   "disable_web_page_preview": "true"}).encode()
+def tg_send(token, chat, text, parse_mode=None):
+    params = {"chat_id": chat, "text": text, "disable_web_page_preview": "true"}
+    if parse_mode:
+        params["parse_mode"] = parse_mode
+    data = urllib.parse.urlencode(params).encode()
     with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=data, timeout=20) as r:
         return json.loads(r.read()).get("ok")
 
@@ -322,8 +324,13 @@ def notify(items):
         for cat in NOTIFY_CATS:
             for it in sorted(fresh.get(cat, []), key=lambda i: i.get("time") or "")[-NOTIFY_LIMIT[cat]:]:
                 more = f" (+{it['more']} مصادر)" if it.get("more") else ""
-                tg_send(token, chat, f"{NOTIFY_CATS[cat]}\n\n{it['title']}\n\n"
-                                     f"📰 {it['source']}{more}\n{it['url']}")
+                esc = lambda x: html.escape(str(x or ""), quote=False)
+                # الرابط مخفي خلف كلمة «اقرأ الخبر» بدل عرضه كاملاً (روابط Google News طويلة جداً)
+                tg_send(token, chat,
+                        f"<b>{esc(NOTIFY_CATS[cat])}</b>\n\n{esc(it['title'])}\n\n"
+                        f"📰 {esc(it['source'])}{esc(more)} · "
+                        f"<a href=\"{html.escape(it['url'], quote=True)}\">اقرأ الخبر</a>",
+                        parse_mode="HTML")
                 count += 1
                 time.sleep(1.1)
         print(f"telegram: sent {count}")
