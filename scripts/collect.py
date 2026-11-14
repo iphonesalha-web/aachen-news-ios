@@ -43,7 +43,6 @@ FEEDS = [
     ("papers", "Süddeutsche", "https://rss.sueddeutsche.de/rss/Topthemen"),
     ("papers", "WELT", "https://www.welt.de/feeds/topnews.rss"),
     ("papers", "n-tv", "https://www.n-tv.de/rss"),
-    ("papers", "Bild", "https://www.bild.de/rssfeeds/vw-alles/vw-alles-26970192,dzbildplus=true,sort=1,teaserbildmobil=false,view=rss2.bild.xml"),
     # لبنان: أهم العناوين في لبنان بالعربية
     ("lebanon", None, "https://news.google.com/rss?hl=ar&gl=LB&ceid=LB:ar"),
     ("lebanon", None, gnews("لبنان", "ar", "LB")),
