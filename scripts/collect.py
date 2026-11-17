@@ -342,5 +342,190 @@ def notify(items):
         json.dump({"cats": sorted(set(NOTIFY_CATS)), "sent": sent[-1500:]}, f, ensure_ascii=False)
 
 
+# ---------- الطقس: تقرير صباحي + تحذيرات رسمية (Open-Meteo و DWD عبر Bright Sky — مجانية بلا مفاتيح) ----------
+WEATHER_STATE = os.path.join(ROOT, "data", "weather_state.json")
+LAT, LON = 50.7753, 6.0839            # آخن
+REPORT_FROM_HOUR = 7                  # أول تقرير يومي بعد الساعة 7 صباحاً بتوقيت ألمانيا
+ALERT_HOURS = range(6, 23)            # لا تنبيهات ليلاً
+MIN_SEVERITY = {"moderate", "severe", "extreme"}
+AR_DAYS = ["الاثنين", "الثلاثاء", "الأربعاء", "الخميس", "الجمعة", "السبت", "الأحد"]
+WMO = {
+    0: ("صافٍ", "☀️"), 1: ("غالباً صافٍ", "🌤️"), 2: ("غائم جزئياً", "⛅"), 3: ("غائم", "☁️"),
+    45: ("ضباب", "🌫️"), 48: ("ضباب متجمد", "🌫️"),
+    51: ("رذاذ خفيف", "🌦️"), 53: ("رذاذ", "🌦️"), 55: ("رذاذ كثيف", "🌧️"),
+    56: ("رذاذ متجمد", "🌧️"), 57: ("رذاذ متجمد كثيف", "🌧️"),
+    61: ("مطر خفيف", "🌧️"), 63: ("مطر متوسط", "🌧️"), 65: ("مطر غزير", "🌧️"),
+    66: ("مطر متجمد", "🌧️"), 67: ("مطر متجمد غزير", "🌧️"),
+    71: ("ثلج خفيف", "🌨️"), 73: ("ثلج متوسط", "🌨️"), 75: ("ثلج كثيف", "❄️"), 77: ("حبيبات ثلج", "❄️"),
+    80: ("زخات مطر خفيفة", "🌦️"), 81: ("زخات مطر", "🌧️"), 82: ("زخات مطر غزيرة", "⛈️"),
+    85: ("زخات ثلج", "🌨️"), 86: ("زخات ثلج كثيفة", "❄️"),
+    95: ("عاصفة رعدية", "⛈️"), 96: ("عاصفة رعدية مع برَد", "⛈️"), 99: ("عاصفة رعدية قوية مع برَد", "⛈️"),
+}
+
+
+def ltr(x):
+    """يعزل الأرقام والوحدات حتى لا ينقلب ترتيبها داخل النص العربي."""
+    return "⁦" + str(x) + "⁩"
+
+
+def wmo(code):
+    return WMO.get(code, ("غير معروف", "🌡️"))
+
+
+def berlin_now():
+    from zoneinfo import ZoneInfo
+    return datetime.now(ZoneInfo("Europe/Berlin"))
+
+
+def fetch_forecast():
+    url = ("https://api.open-meteo.com/v1/forecast?latitude=%s&longitude=%s"
+           "&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m"
+           "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,"
+           "precipitation_sum,wind_gusts_10m_max,sunrise,sunset"
+           "&timezone=Europe%%2FBerlin&forecast_days=3" % (LAT, LON))
+    return json.loads(fetch(url))
+
+
+def fetch_dwd_alerts():
+    url = "https://api.brightsky.dev/alerts?lat=%s&lon=%s" % (LAT, LON)
+    return json.loads(fetch(url)).get("alerts", [])
+
+
+def day_line(d, i, label):
+    code = d["weather_code"][i]
+    desc, icon = wmo(code)
+    rain = d["precipitation_probability_max"][i]
+    mm = d["precipitation_sum"][i]
+    gust = d["wind_gusts_10m_max"][i]
+    parts = [f"{icon} <b>{label}:</b> {desc}",
+             f"العظمى {ltr(round(d['temperature_2m_max'][i]))}° · الصغرى {ltr(round(d['temperature_2m_min'][i]))}°"]
+    if rain is not None and rain >= 20:
+        extra = f" (≈{ltr(round(mm, 1))} mm)" if mm and mm >= 0.5 else ""
+        parts.append(f"☔ احتمال المطر {ltr(str(rain) + '%')}{extra}")
+    if gust is not None and gust >= 50:
+        parts.append(f"💨 هبّات رياح حتى {ltr(str(round(gust)) + ' km/h')}")
+    return "\n".join(parts)
+
+
+def build_report(fc, now):
+    cur, d = fc["current"], fc["daily"]
+    desc, icon = wmo(cur["weather_code"])
+    wd = AR_DAYS[now.weekday()]
+    lines = [f"🌤️ <b>طقس آخن — {wd} {ltr(now.strftime('%d/%m'))}</b>", "",
+             f"{icon} الآن: {ltr(str(round(cur['temperature_2m'])) + '°C')} "
+             f"(المحسوس {ltr(str(round(cur['apparent_temperature'])) + '°C')}) — {desc}", "",
+             day_line(d, 0, "اليوم"), "", day_line(d, 1, "غداً")]
+    try:
+        sr, ss = d["sunrise"][0][-5:], d["sunset"][0][-5:]
+        lines += ["", f"🌅 الشروق {ltr(sr)} · 🌇 الغروب {ltr(ss)}"]
+    except Exception:
+        pass
+    return "\n".join(lines)
+
+
+def forecast_alerts(fc):
+    """تنبيهات من التوقعات نفسها (احتياط إذا لم تصدر تحذيرات رسمية): يُعاد [(مفتاح, نص)]"""
+    d, out = fc["daily"], []
+    for i, label in ((0, "اليوم"), (1, "غداً")):
+        date = d["time"][i]
+        code = d["weather_code"][i]
+        gust = d["wind_gusts_10m_max"][i] or 0
+        lo, hi = d["temperature_2m_min"][i], d["temperature_2m_max"][i]
+        if code in (95, 96, 99):
+            out.append((f"{date}:storm", f"⛈️ {label}: عاصفة رعدية متوقعة في آخن"))
+        if code in (56, 57, 66, 67):
+            out.append((f"{date}:freezing-rain", f"🧊 {label}: مطر متجمد — خطر انزلاق على الطرقات"))
+        if code in (75, 86) or (code in (73, 85) and (d["precipitation_sum"][i] or 0) >= 5):
+            out.append((f"{date}:snow", f"❄️ {label}: ثلوج كثيفة متوقعة"))
+        if code in (65, 82) or (d["precipitation_sum"][i] or 0) >= 20:
+            out.append((f"{date}:heavy-rain", f"🌧️ {label}: أمطار غزيرة متوقعة"))
+        if gust >= 75:
+            out.append((f"{date}:wind", f"💨 {label}: رياح عاصفة — هبّات حتى {ltr(str(round(gust)) + ' km/h')}"))
+        if lo is not None and lo <= -3:
+            out.append((f"{date}:frost", f"🥶 {label}: صقيع — الصغرى {ltr(round(lo))}°"))
+        if hi is not None and hi >= 32:
+            out.append((f"{date}:heat", f"🥵 {label}: حرّ شديد — العظمى {ltr(round(hi))}°"))
+    return out
+
+
+def weather_report():
+    token = os.environ.get("TG_BOT_TOKEN", "").strip()
+    chat = os.environ.get("TG_CHAT_ID", "").strip()
+    if not token or not chat:
+        print("weather: no telegram secrets — skipped")
+        return
+    try:
+        now = berlin_now()
+        try:
+            with open(WEATHER_STATE) as f:
+                st = json.load(f)
+        except Exception:
+            st = {}
+        today = now.strftime("%Y-%m-%d")
+        sent_alerts = st.get("alerts", [])
+        changed = False
+        fc = None
+
+        # 1) التقرير اليومي
+        if st.get("daily") != today and now.hour >= REPORT_FROM_HOUR:
+            fc = fetch_forecast()
+            if tg_send(token, chat, build_report(fc, now), parse_mode="HTML"):
+                st["daily"] = today
+                changed = True
+                print("weather: daily report sent")
+            time.sleep(1.1)
+
+        # 2) التنبيهات (نهاراً فقط)
+        if now.hour in ALERT_HOURS:
+            esc = lambda x: html.escape(str(x or ""), quote=False)
+            # أ) تحذيرات الخدمة الألمانية للأرصاد (DWD)
+            try:
+                alerts = [a for a in fetch_dwd_alerts()
+                          if str(a.get("severity", "")).lower() in MIN_SEVERITY]
+            except Exception as e:
+                print("weather: dwd alerts failed:", e, file=sys.stderr)
+                alerts = []
+            new = [a for a in alerts if f"dwd:{a.get('alert_id') or a.get('id')}" not in sent_alerts]
+            if new:
+                tr = translate_many([a.get("event_de") or a.get("headline_de") or "" for a in new])
+                for a in new:
+                    key = f"dwd:{a.get('alert_id') or a.get('id')}"
+                    ev = a.get("event_de") or a.get("headline_de") or "تحذير جوي"
+                    ev_ar = tr.get(ev.replace("\n", " "), ev)
+                    sev = {"moderate": "🟠 تحذير", "severe": "🔴 تحذير شديد", "extreme": "🟣 تحذير بالغ الخطورة"}.get(
+                        str(a.get("severity", "")).lower(), "⚠️ تحذير")
+                    until = ""
+                    try:
+                        from zoneinfo import ZoneInfo
+                        e = datetime.fromisoformat(a["expires"]).astimezone(ZoneInfo("Europe/Berlin"))
+                        until = f"\n⏳ حتى {ltr(e.strftime('%d/%m %H:%M'))}"
+                    except Exception:
+                        pass
+                    if tg_send(token, chat, f"{sev} من خدمة الأرصاد الألمانية (DWD)\n\n<b>{esc(ev_ar)}</b>{until}",
+                               parse_mode="HTML"):
+                        sent_alerts.append(key)
+                        changed = True
+                    time.sleep(1.1)
+            # ب) تنبيهات من التوقعات
+            fc = fc or fetch_forecast()
+            for key, text in forecast_alerts(fc):
+                if key in sent_alerts:
+                    continue
+                if tg_send(token, chat, f"⚠️ {text}", parse_mode=None):
+                    sent_alerts.append(key)
+                    changed = True
+                time.sleep(1.1)
+
+        if changed:
+            st["alerts"] = sent_alerts[-60:]
+            with open(WEATHER_STATE, "w") as f:
+                json.dump(st, f, ensure_ascii=False)
+    except Exception as e:
+        print("weather failed:", e, file=sys.stderr)
+
+
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    finally:
+        weather_report()
