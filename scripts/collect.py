@@ -377,18 +377,30 @@ def berlin_now():
     return datetime.now(ZoneInfo("Europe/Berlin"))
 
 
+def fetch_retry(url, tries=4):
+    """إعادة محاولة عند أعطال الشبكة العابرة (مثل انتهاء مهلة SSL)."""
+    for i in range(tries):
+        try:
+            return fetch(url, 40)
+        except Exception as e:
+            print(f"weather fetch retry {i + 1}: {e}", file=sys.stderr)
+            if i == tries - 1:
+                raise
+            time.sleep(4 * (i + 1))
+
+
 def fetch_forecast():
     url = ("https://api.open-meteo.com/v1/forecast?latitude=%s&longitude=%s"
            "&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m"
            "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,"
            "precipitation_sum,wind_gusts_10m_max,sunrise,sunset"
            "&timezone=Europe%%2FBerlin&forecast_days=3" % (LAT, LON))
-    return json.loads(fetch(url))
+    return json.loads(fetch_retry(url))
 
 
 def fetch_dwd_alerts():
     url = "https://api.brightsky.dev/alerts?lat=%s&lon=%s" % (LAT, LON)
-    return json.loads(fetch(url)).get("alerts", [])
+    return json.loads(fetch_retry(url)).get("alerts", [])
 
 
 def day_line(d, i, label):
