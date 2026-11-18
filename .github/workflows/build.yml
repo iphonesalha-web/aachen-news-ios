@@ -6,6 +6,7 @@ on:
     paths-ignore:
       - "data/**"
       - "scripts/**"
+      - "pi/**"
       - ".github/workflows/news.yml"
       - "README.md"
   workflow_dispatch:
