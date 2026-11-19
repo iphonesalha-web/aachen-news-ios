@@ -3,7 +3,7 @@
 # يعمل على GitHub Actions كل ساعة — بلا مفاتيح ولا اشتراكات.
 import email.utils, html, json, os, re, sys, time, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data", "news.json")
@@ -389,13 +389,60 @@ def fetch_retry(url, tries=4):
             time.sleep(4 * (i + 1))
 
 
-def fetch_forecast():
+def fetch_forecast_openmeteo():
     url = ("https://api.open-meteo.com/v1/forecast?latitude=%s&longitude=%s"
            "&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m"
            "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,"
            "precipitation_sum,wind_gusts_10m_max,sunrise,sunset"
            "&timezone=Europe%%2FBerlin&forecast_days=3" % (LAT, LON))
-    return json.loads(fetch_retry(url))
+    return json.loads(fetch_retry(url, tries=2))
+
+
+# أيقونات Bright Sky (DWD) ← رموز WMO المستعملة في التقرير، مرتبة من الأخف إلى الأشد
+BS_ICON = {"clear-day": 0, "clear-night": 0, "partly-cloudy-day": 2, "partly-cloudy-night": 2,
+           "cloudy": 3, "wind": 3, "fog": 45, "rain": 63, "sleet": 66, "snow": 73,
+           "hail": 96, "thunderstorm": 95}
+BS_RANK = {0: 0, 2: 1, 3: 2, 45: 3, 63: 4, 66: 5, 73: 6, 96: 7, 95: 8}
+
+
+def fetch_forecast_brightsky():
+    """احتياطي مجاني (بيانات DWD) إذا رفض Open-Meteo الطلب. لا يوفّر احتمال المطر ولا الشروق/الغروب."""
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo("Europe/Berlin")
+    start = berlin_now().date()
+    end = start + timedelta(days=2)
+    cur = json.loads(fetch_retry("https://api.brightsky.dev/current_weather?lat=%s&lon=%s" % (LAT, LON)))["weather"]
+    rows = json.loads(fetch_retry("https://api.brightsky.dev/weather?lat=%s&lon=%s&date=%s&last_date=%s&tz=Europe/Berlin"
+                                  % (LAT, LON, start.isoformat(), (end + timedelta(days=1)).isoformat())))["weather"]
+    days = {}
+    for r in rows:
+        d = datetime.fromisoformat(r["timestamp"]).astimezone(tz).date().isoformat()
+        days.setdefault(d, []).append(r)
+    daily = {k: [] for k in ("time", "weather_code", "temperature_2m_max", "temperature_2m_min",
+                             "precipitation_probability_max", "precipitation_sum", "wind_gusts_10m_max")}
+    for i in range(3):
+        d = (start + timedelta(days=i)).isoformat()
+        rs = days.get(d, [])
+        temps = [r["temperature"] for r in rs if r.get("temperature") is not None]
+        codes = [BS_ICON.get(r.get("icon"), 3) for r in rs]
+        daily["time"].append(d)
+        daily["weather_code"].append(max(codes, key=lambda c: BS_RANK.get(c, 0)) if codes else 3)
+        daily["temperature_2m_max"].append(max(temps) if temps else 0)
+        daily["temperature_2m_min"].append(min(temps) if temps else 0)
+        daily["precipitation_probability_max"].append(None)
+        daily["precipitation_sum"].append(sum(r.get("precipitation") or 0 for r in rs))
+        daily["wind_gusts_10m_max"].append(max([r.get("wind_gust_speed") or 0 for r in rs] or [0]))
+    return {"current": {"temperature_2m": cur.get("temperature") or 0, "apparent_temperature": None,
+                        "weather_code": BS_ICON.get(cur.get("icon"), 3), "wind_speed_10m": cur.get("wind_speed_10")},
+            "daily": daily}
+
+
+def fetch_forecast():
+    try:
+        return fetch_forecast_openmeteo()
+    except Exception as e:
+        print("weather: open-meteo failed, using brightsky:", e, file=sys.stderr)
+        return fetch_forecast_brightsky()
 
 
 def fetch_dwd_alerts():
@@ -424,8 +471,9 @@ def build_report(fc, now):
     desc, icon = wmo(cur["weather_code"])
     wd = AR_DAYS[now.weekday()]
     lines = [f"🌤️ <b>طقس آخن — {wd} {ltr(now.strftime('%d/%m'))}</b>", "",
-             f"{icon} الآن: {ltr(str(round(cur['temperature_2m'])) + '°C')} "
-             f"(المحسوس {ltr(str(round(cur['apparent_temperature'])) + '°C')}) — {desc}", "",
+             f"{icon} الآن: {ltr(str(round(cur['temperature_2m'])) + '°C')}"
+             + (f" (المحسوس {ltr(str(round(cur['apparent_temperature'])) + '°C')})"
+                if cur.get("apparent_temperature") is not None else "") + f" — {desc}", "",
              day_line(d, 0, "اليوم"), "", day_line(d, 1, "غداً")]
     try:
         sr, ss = d["sunrise"][0][-5:], d["sunset"][0][-5:]
