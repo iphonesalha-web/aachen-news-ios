@@ -1,0 +1,18 @@
+name: Probe sources
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe
+        run: |
+          UA="Mozilla/5.0 (compatible; AachenNews/1.0)"
+          for u in \
+            "https://www.reddit.com/r/AppHookup/new/.rss" \
+            "https://old.reddit.com/r/AppHookup/new/.rss" \
+            "https://www.reddit.com/r/AppHookup/new.json?limit=5" \
+            "https://appshopper.com/feed/?mode=ios&filter=free" \
+            "https://appshopper.com/mobile/" \
+            "https://rss.applemarketingtools.com/api/v2/de/apps/top-free/5/apps.json" \
+            "https://itunes.apple.com/lookup?id=389801252&country=de" ; do
+            code=$(curl -s -m 25 -A "$UA" -o /tmp/o -w '%{http_code}' "$u"); echo "$code $(wc -c </tmp/o)B $u"; head -c 200 /tmp/o | tr '\n' ' '; echo; done
