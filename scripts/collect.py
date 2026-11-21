@@ -585,7 +585,7 @@ def weather_report():
 
 
 NEWS_STAMP = "data/news_last_run.txt"
-NEWS_EVERY_H = 4
+NEWS_EVERY_H = 1
 
 
 def news_due():
