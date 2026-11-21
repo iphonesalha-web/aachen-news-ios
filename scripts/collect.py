@@ -584,8 +584,25 @@ def weather_report():
         print("weather failed:", e, file=sys.stderr)
 
 
+NEWS_STAMP = "data/news_last_run.txt"
+NEWS_EVERY_H = 4
+
+
+def news_due():
+    try:
+        last = float(open(NEWS_STAMP).read().strip())
+    except Exception:
+        return True
+    return time.time() - last >= (NEWS_EVERY_H * 3600 - 20 * 60)
+
+
 if __name__ == "__main__":
     try:
-        main()
+        if news_due():
+            main()
+            os.makedirs("data", exist_ok=True)
+            open(NEWS_STAMP, "w").write(str(time.time()))
+        else:
+            print("news: not due yet")
     finally:
         weather_report()
