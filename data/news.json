@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-21T02:07:28+00:00",
+ "updated": "2026-11-21T02:24:47+00:00",
  "items": [
+  {
+   "cat": "papers",
+   "title": "تحليل Verivox: أصبحت الكهرباء والغاز أكثر تكلفة بالنسبة لملايين الأسر",
+   "summary": "",
+   "title_orig": "Verivox-Analyse: Strom und Gas wird für Millionen Haushalte teurer",
+   "source": "Zeit",
+   "url": "https://www.zeit.de/news/2026-11/21/strom-und-gas-wird-fuer-millionen-haushalte-teurer",
+   "time": "2026-11-21T02:01:04+00:00"
+  },
   {
    "cat": "lebanon",
    "title": "أكبر تهديد للسّلم الأهلي في لبنان هو عدم تطبيق قرار سحب سلاح 'حزب الله'",
@@ -54,6 +63,15 @@
    "source": "Zeit",
    "url": "https://www.zeit.de/news/2026-11/21/autofahrer-stirbt-nach-unfall-im-krankenhaus",
    "time": "2026-11-21T01:50:40+00:00"
+  },
+  {
+   "cat": "security",
+   "title": "حادث على الطريق الأوروبي في ستولبرغ: إصابة ثلاثة أشخاص بجروح طفيفة",
+   "summary": "",
+   "title_orig": "Unfall auf der Europastraße in Stolberg: Drei Personen leichtverletzt",
+   "source": "Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQzRrdXJJOXhiYnlSdXB3NnlqU3FCOTFBQm0yUFlmMGdTSVYyY1hSekdGUWM3eUg2VWZfd3dpRHVuYnh1ZUFadkNOdzluLVo2aEFYa3JLLTlscXpiQzRXLTNhanV6QXZFMUFMOWN0eUlkbHM5M1dsbWEwd3pNbW9XajVOTEZxcWJWRk1ZdG9PVnFqQ1FySTgyWDNrZHBCYjN5WTNsRFdVVkJnbG1jOV8xeHdlMlJWREw4NHg1OUdIWGdfSGRvUVhsQndxblVjaTNPdmpvRk9ES3lyem5QVzBVaA?oc=5",
+   "time": "2026-11-21T01:48:59+00:00"
   },
   {
    "cat": "city",
@@ -139,23 +157,13 @@
    "time": "2026-11-21T01:01:28+00:00"
   },
   {
-   "cat": "tech",
-   "title": "الهاتف الخلوي Black Friday: أفضل عروض الهواتف الذكية لشركة Samsung وGoogle Pixel & Co.",
-   "summary": "",
-   "title_orig": "Black Friday Handy: Die besten Smartphone-Deals für Samsung, Google Pixel & Co.",
-   "source": "WELT",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOTJoR0k1MGZyclZRUk8xUnJRV0FBY1FGUUl3bXBsQVB6Tk5wdmpDZ09lWEpoZjJIWDVmSGN1aTk2a0p6eEE2cVZDOEhIMW13eF9RTW1UNWQtVDdzV2oxanNMWGc4a19EUFhBS2FpU1FMbXladDR0dmxZR3NlbEpZQnJZZkk1NTVxNzQ4NklTdFl6Sk1CY2dMZU9XR09ncGR3emdwWXVjek80OTZqcTVaclluV0xmSnZXY3JoaTZ2al9OaXpiSlo2THJRYlB0SFNPN0xnV21jRHRuQ2M?oc=5",
-   "time": "2026-11-21T00:51:37+00:00",
-   "more": 3
-  },
-  {
    "cat": "germany",
-   "title": "ذعر في البرلمان: زلزال شديد في البيرو",
+   "title": "ويتكوف وكوشنر التقيا بمسؤولين قطريين في ألمانيا.. ومصدر يوضح لـCNN السبب",
    "summary": "",
-   "title_orig": "Panik im Parlament: Schweres Erdbeben in Peru",
-   "source": "T-Online",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUS1FeW1WM0xITXBRc1Y2b0dxbVJ4Vk9RRWRCV0JHMVhwcC1rUEFQZXdjckNNVFdyU0F1MjhtcHFaTTRCWFpUU2psN04zYkdKYUhQVGsxc3dEY0ZMZDlSYUxFZkY1RG5fQ2c1TkEtT2FwZE9GNjlKMGtNaW9QVHN6dDJIcnhxOEROeGJTNS0ybnZOZW9LanRHZVlhMlBWUmV0ZXB3S3RubnpjZExzeHRzNEFvTEVpU0U?oc=5",
-   "time": "2026-11-21T00:50:23+00:00"
+   "title_orig": "ويتكوف وكوشنر التقيا بمسؤولين قطريين في ألمانيا.. ومصدر يوضح لـCNN السبب",
+   "source": "CNN Arabic",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzNnWWFpMVVKNWh0MzhxMF9CdTdfMXJCU1FYclVnQnlfcmhvY0NqXzNvNjJ3WU1EMkc5bVZpOWczYzhUQzlCSFgwb3otRFY4MlBaU29ITF9OZzFnZ2NsRlRmcGRFZGl3aEk5b1hZS2ZzRU5GckljclQ4Mkp0OG9GS0pwN3Z2WkNVOGRabEhXUVhOMUxIRWhDbUp3NjBQaEZOMFVVUGg3MjRteXJZVkVCc3ZGaE5wNjA?oc=5",
+   "time": "2026-11-21T00:58:36+00:00"
   },
   {
    "cat": "papers",
@@ -195,12 +203,13 @@
   },
   {
    "cat": "germany",
-   "title": "ويتكوف وكوشنر التقيا بمسؤولين قطريين في ألمانيا.. ومصدر يوضح لـCNN السبب",
+   "title": "يورغن كلوب: لن يشكك أحد في منتخب ألمانيا بعد سحق هولندا",
    "summary": "",
-   "title_orig": "ويتكوف وكوشنر التقيا بمسؤولين قطريين في ألمانيا.. ومصدر يوضح لـCNN السبب",
-   "source": "CNN Arabic",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzNnWWFpMVVKNWh0MzhxMF9CdTdfMXJCU1FYclVnQnlfcmhvY0NqXzNvNjJ3WU1EMkc5bVZpOWczYzhUQzlCSFgwb3otRFY4MlBaU29ITF9OZzFnZ2NsRlRmcGRFZGl3aEk5b1hZS2ZzRU5GckljclQ4Mkp0OG9GS0pwN3Z2WkNVOGRabEhXUVhOMUxIRWhDbUp3NjBQaEZOMFVVUGg3MjRteXJZVkVCc3ZGaE5wNjA?oc=5",
-   "time": "2026-11-21T00:16:36+00:00"
+   "title_orig": "يورغن كلوب: لن يشكك أحد في منتخب ألمانيا بعد سحق هولندا",
+   "source": "الشرق الأوسط",
+   "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPSmNlNkZjbVNJeE1FTll2LWNyV0RFamZja1BLaDN6eUtiYTlfY201WC1RVkc0aWQtSFQtMG1kaEM1eVh3aUN6Q2tXVG85N0VqV0JXSTFDU3pXYzRjTEg0dWhTWnIyZFl3dDNJODIzU2tPaDNfcmxVUE5ObE1lZ2hKVWtYbHdHeEpNSlkxVXN5TTNiWm5FVEtPM2owaTJwSHZsQXZVc1hZeGlNYmtTbWRfTllBdnRfaW1sNml5WVBvRHZWSkhTb2M3c2lVUXNpandIMGFsQW9zVE1kTlVZQ2ZEU3hfQnZMQm42SWxFVFBkQUI2bmVfbVBMaXFpQ3ZhaUs2bEJBWTM5RFVKYzZFMk80S1RnOXBvdGZ4OTNUa2N2Mk1IV2daQlFpcGVhVlM2Qlc0ZE9oOE5yVm1oVTJkeldrdHdhVldDWVlwQjdPMjBMR2FURHc5WGh0VTdWMGhqRmctanlCeE5Wa0QySzJoeDJ2RkFYM1NIa0xuZ0tleGQyNjRxM0pRRXRzYkd3ZVhCZnJ2cUZDc2hHYldBM1BqR1hhVUdLZHRaZ2NGdURJVElWam95bEd6VXVHbE1fU2xPN3NlU3h4OHhqWmxWcWdHRFNJcUkxTjhwUF8takliVWxlNjZmalhLd3hLTVFHMzdON1k4SmNBOXlIV0Mya1V5blBKckZXUTMtamRWV0ZxZFE2aFhPTzh6cVJvSGthRTVyTXE5Nm5vSl9qNmwxRmVUamhlQ2FveTFGRVIxNEdPNVRlSVBudw?oc=5",
+   "time": "2026-11-21T00:22:47+00:00",
+   "more": 1
   },
   {
    "cat": "germany",
@@ -219,7 +228,7 @@
    "source": "Zeit",
    "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/gen-z-proteste-schueler-berlin-leipzig-frankfurt",
    "time": "2026-11-21T00:09:18+00:00",
-   "more": 3
+   "more": 2
   },
   {
    "cat": "papers",
@@ -240,6 +249,16 @@
    "time": "2026-11-21T00:04:12+00:00"
   },
   {
+   "cat": "tech",
+   "title": "الهاتف الخلوي Black Friday: أفضل عروض الهواتف الذكية لشركة Samsung وGoogle Pixel & Co.",
+   "summary": "",
+   "title_orig": "Black Friday Handy: Die besten Smartphone-Deals für Samsung, Google Pixel & Co.",
+   "source": "WELT",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOTJoR0k1MGZyclZRUk8xUnJRV0FBY1FGUUl3bXBsQVB6Tk5wdmpDZ09lWEpoZjJIWDVmSGN1aTk2a0p6eEE2cVZDOEhIMW13eF9RTW1UNWQtVDdzV2oxanNMWGc4a19EUFhBS2FpU1FMbXladDR0dmxZR3NlbEpZQnJZZkk1NTVxNzQ4NklTdFl6Sk1CY2dMZU9XR09ncGR3emdwWXVjek80OTZqcTVaclluV0xmSnZXY3JoaTZ2al9OaXpiSlo2THJRYlB0SFNPN0xnV21jRHRuQ2M?oc=5",
+   "time": "2026-11-21T00:03:06+00:00",
+   "more": 3
+  },
+  {
    "cat": "papers",
    "title": "\"علينا أن نكون سعداء عندما تتاجر معنا الدول الأخرى\"",
    "summary": "يدعو رئيس تجارة الجملة ديرك جاندورا إلى أن تكون سياسة المواد الخام أكثر توافقًا مع المصالح الاقتصادية الألمانية. وتأتي استراتيجية الحكومة الفيدرالية متأخرة وتظل غامضة للغاية.",
@@ -247,15 +266,6 @@
    "source": "WELT",
    "url": "https://www.welt.de/wirtschaft/article6b0063e739a3e8110f0e44db/dirk-jandura-wir-muessen-froh-sein-wenn-andere-laender-mit-uns-handel-treiben.html",
    "time": "2026-11-21T00:01:38+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "البيئة: حظر تصدير النفايات البلاستيكية من الاتحاد الأوروبي إلى العديد من البلدان",
-   "summary": "",
-   "title_orig": "Umwelt: Ausfuhrstopp für Plastikmüll aus der EU in viele Länder",
-   "source": "Zeit",
-   "url": "https://www.zeit.de/news/2026-11/21/ausfuhrstopp-fuer-plastikmuell-aus-der-eu-in-viele-laender",
-   "time": "2026-11-21T00:00:06+00:00"
   },
   {
    "cat": "tech",
@@ -292,7 +302,7 @@
    "title_orig": "Philipp Türmer: Juso-Chef stellt Bedingungen an die neue SPD-Spitze – und empfiehlt „Klassenkampf“",
    "source": "WELT",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWXh6WHpMemRZNjd0ckVPYTlFZ1hHWVlLTFhwd0lHQjV0aVNvNmEydV9mWE5Yb3lTYVdId3ZOaktrZEg2bDl1cVI5aDhTRmZsWkpNa2RnaUFKTV9yRzRkWjlqVFVUS2NIeWxydnQzeU5ncnZzQVdwYkZhRDZoLVc2akV0QWhyTHVKaEpsOXVyUTQwWWZBVXVKWDRqMkh2LWFnTkVQYkkybDNwb01mVVlzZ2k3ZDJUQVNEMm95S1EyOE9zbjRRVGVWQ0lJQnlUODZTQzBXWG5uZVhPV0I3dmtJTm1GVEp0elBfbWJ1Z1B4a0lObVNXTUU5QWxNaVo0Y0ZW?oc=5",
-   "time": "2026-11-20T23:23:24+00:00"
+   "time": "2026-11-20T23:26:22+00:00"
   },
   {
    "cat": "tech",
@@ -346,7 +356,8 @@
    "title_orig": "الجيش الإسرائيلي يواصل اعتداءاته على جنوب لبنان",
    "source": "Fana News -",
    "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQRm53VFJnb01XZjZjbFJNamx0dzN1OG5OSDFJZ3NNdVRjdTlJWGVoSFU0SWIxdGpOblFsVV9TdWNxbFpaLXp3REFGdE9vMmlKMkUxWThlZ1UzS0p2QVFtRExtXy16M1QxdzI0YlY4bWxxZlA0NURzMl9xaklJNVBlbFRGeDBMX3NLdDhPSnpzdC0zNVRESVIwbkpobzFkRkR0ODFKUi1RZWhEek1OVkhjNmVFVDU0UEhjRHFucXlaTk1zSkZYRjFyOWw4Z01FWGV6b3Y0NVlFODhzX2VGLUFKaEJ0dlBNOWZzbWdndTJlX0p3a0lJQzRHeW9KTHdxc3R5RnhGLU9JbHZGcnlLMUVFcmJVLUhTTm5XNlJqQ3E0ZnFjNElOS1pNWmdwM0FubG5qYWRkd1FUeVJaN1hoN3lvUnA5NWJELUk?oc=5",
-   "time": "2026-11-20T22:57:41+00:00"
+   "time": "2026-11-20T22:57:41+00:00",
+   "more": 1
   },
   {
    "cat": "tech",
@@ -495,15 +506,6 @@
    "more": 1
   },
   {
-   "cat": "security",
-   "title": "حادث على الطريق الأوروبي في ستولبرغ: إصابة ثلاثة أشخاص بجروح طفيفة",
-   "summary": "",
-   "title_orig": "Unfall auf der Europastraße in Stolberg: Drei Personen leichtverletzt",
-   "source": "Aachener Zeitung",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQzRrdXJJOXhiYnlSdXB3NnlqU3FCOTFBQm0yUFlmMGdTSVYyY1hSekdGUWM3eUg2VWZfd3dpRHVuYnh1ZUFadkNOdzluLVo2aEFYa3JLLTlscXpiQzRXLTNhanV6QXZFMUFMOWN0eUlkbHM5M1dsbWEwd3pNbW9XajVOTEZxcWJWRk1ZdG9PVnFqQ1FySTgyWDNrZHBCYjN5WTNsRFdVVkJnbG1jOV8xeHdlMlJWREw4NHg1OUdIWGdfSGRvUVhsQndxblVjaTNPdmpvRk9ES3lyem5QVzBVaA?oc=5",
-   "time": "2026-11-20T21:32:49+00:00"
-  },
-  {
    "cat": "tech",
    "title": "الاصطناعي: المقطع الدعائي للفيلم حول OpenAI موجود هنا",
    "summary": "",
@@ -520,24 +522,6 @@
    "source": "Süddeutsche",
    "url": "https://www.sueddeutsche.de/politik/ki-newsblog-nvidia-huang-china-anthropic-verlust-li.3566658",
    "time": "2026-11-20T21:23:29+00:00"
-  },
-  {
-   "cat": "germany",
-   "title": "بعد 20 دقيقة.. إصابة هاري كين أمام كولن في الدوري الألماني",
-   "summary": "",
-   "title_orig": "بعد 20 دقيقة.. إصابة هاري كين أمام كولن في الدوري الألماني",
-   "source": "قناة الغد",
-   "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPODRwUHJ5VzlKbk9RVkVreXJRNVhQMnRsYlhJaTZOZmF4NHgwaEhDTEdncjF0WHhrQmVFYkpBdWhYczNoNWF5TWlKS0V6dkxFeXVWNWt3MkZwQ01GVHRtd2QyVUhvNjJlNlQySXJyaHl2WjV0X1JBWWhLZFU1N1JoMjVzaURnYXRRRkdUUjliX1FkS29CdURKdnFfeC0wZWdXS0M1cmR2NTkteUNTOHFyeTFRQUZ5QmRmM213eFhnVndzSmE4MS1YWU1Pc0x5YjNPdEtnOWh2Y3hsYS1rdmxUOE1VLU5lX2pXbTBJVG5seHppRXZ4RmRSandDcTVmSThDVFhqeVJMSV83SXNjeXdKeWdfQl84N19NRnBSWEZVemk5Z2x6Y0lEMmxmMlpiMkZuSFA4NXNXV2dveU82dEFlVldJd2RqbEZscEpOVE9sbEQ2VDlLZFR4X0pkVG0wdTZSNWNaYzZ6UVF0VW9heG9nTTVQRXZ5LXdmRGlZT05YRUlQLWphYzJYNjhmUmY0SXVzRlVhbDZ4aVg5WGRETGc5TnlKWUZ5M2RCVjFnUUI1MmM2Si1XZVFlei1Sc1hrMGdjZDQtTlJ6OVFlWFBUWHlMRHNVai1uWEpuRFRybnJldU1MRHM0cTZPMm1sQVpwekFoNXk5RDZaN3lfLXM?oc=5",
-   "time": "2026-11-20T21:19:38+00:00"
-  },
-  {
-   "cat": "germany",
-   "title": "تابع ألمانيا ضد هولندا",
-   "summary": "",
-   "title_orig": "تابع ألمانيا ضد هولندا",
-   "source": "TOD",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGMzeUpZaDl1a2NURlV0SUFxbTJjbU5FVTJpUDVnd0s0aldSTWRjWXhvSDdRYTY5TWcyN1pDWk91Yy1QZ2phMVpGdWtBSUxNa3JlTTZTN0t4MF9UQmwtZm9UQlBucXROT2NkX3lQaVdFMFllRmh2TEQzazVCd3JWNnRoN3JYTWNrRFFpckUtUkd5ZjRRTTNQeURHdnZSQQ?oc=5",
-   "time": "2026-11-20T21:15:16+00:00"
   },
   {
    "cat": "papers",
@@ -575,15 +559,6 @@
    "source": "Tagesschau",
    "url": "https://www.tagesschau.de/tagesthemen/video-1687350.html",
    "time": "2026-11-20T21:02:02+00:00"
-  },
-  {
-   "cat": "germany",
-   "title": "استثمارات قطرية جديدة في ألمانيا.. 15 مليار يورو وتقارب سياسي متزايد",
-   "summary": "",
-   "title_orig": "استثمارات قطرية جديدة في ألمانيا.. 15 مليار يورو وتقارب سياسي متزايد",
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOaU9aQnV2NEFmcWlKSWQ5eHJTcDdXc05CUUlpZ2lPOEZoUTBSYkNvNjM4WDRDcmo3bkoteEtIVUlvSmRLUFI4X2toanJjWDhyN1AzaHA5RzRYWnMyYnlDaGJaM0d4T1BoejItZUlKb2RLWVR5b1A0cE16cWZiZjEzZjBnQ3NzbW9fVEpHaHhmN3QySWU4cC1NdU8yZGxSNVFvQTdCd05fZU45ZzNZYUFVYUUxWXMydU1mV1ZwSFE3TzdRUVcxTnN3RWM5VGFTVHRrOEZoY0ZkYWFhLS1YcGtyTG13VlBuZy02MXI0Y1IxVGY1cURwOEJONzRhSFlDNC1GXzlqQllVVEFkNUl1M21mZFVkSS1NS2VIV2k1ZjhGMm5odF8xU0ctMHB6WWZGSEV2Z3RVaHFLRGp5T1RfRVdmY1R1cWhVd2ZXTWVLU050bkZDbXlkUmFsUDIzTjVtek9JaFFkYUlkanBqRElpTjZnVXZYN1UxMnA3eFl1WkZaS1dqR1MyTWdTalBkZVp6TF85OHBPRkh2bUdzeTllXzlMbVRHaWlnZEw1TkRPdGFzdmF2MVRmLUg0M21IUVUwek5wSDRZSWx3ZUNtRlRuRGk4ZW5jTFNGMXdiaU4xQnBnS2dUWmZwOFZnUDNETEwzNUJsTld0VlRHeUJHVHc1cjBMUkRzWkdUTy0x0gGIBEFVX3lxTE1oYmk5Ym9nOE1jLTFSVXhQQzMyd29jQWRtWmQ4U1lKVFVFQXVZNWs0bm15ZFptOU9mRy1mSDcwdnFXVHRJNGRkNWRWMUVvcDN4b08xUFpiQU9uYmF5bDNLNHlSbWJka2wwZjRYZ0RGT2p4ODlXMzRXam5YOUpsVXd1TjdRM2FkeURMLU1FTG9WbEtscDMyOTdXS21PUGNncUZ0TjFGS004Um9MQVJrOVk5YmpkMThob0ZVbjE3NTUzOF9MYXRPVXVVU21kU1Y1TjBHUGNraHpWVUtRY3UzQXBsNl9MU3otemhxVGJ2MzctN3Y2aldDcGRUZ25KSFY0YkRicXNBRVpuMTdhYmF6WE9VeWlpRGdTalppdGFCTWRUNzBacko5ZFpfVGhaTTVKOF83MVNiUnlQMThKY1RZRXVlTTdoLWU3bjBCOXB1Vl85bm9saVRSVHBlTFlNd3lMbTVZMk80VFAydkZCbFdMTm5iQ0dUbmJ0cjhOQjlpTzJOUjVSdGYzams0STlnQUVNNHZaVGo2YTRuR044bmdKM20wdi1LajlhMmw0Z3R6YkxxR1JVck11SlNSUjhIRFk5WHYxRjZJUm10VFR1b1p6c0lWTVA1MkJuY19jdEZ2a1lZM0ZDTnA5VkNtQ1RxRGhJWWZXcnB5UVRoVUNCWlFSTWdJNm1jYVlseG4?oc=5",
-   "time": "2026-11-20T20:57:45+00:00"
   },
   {
    "cat": "papers",
@@ -633,12 +608,13 @@
   },
   {
    "cat": "germany",
-   "title": "بطولة ألمانيا: كاين يغادر مواجهة كولن بسبب الإصابة",
+   "title": "بطولة ألمانيا: كاين وأوليسيه يغادران مواجهة كولن بسبب الإصابة",
    "summary": "",
-   "title_orig": "بطولة ألمانيا: كاين يغادر مواجهة كولن بسبب الإصابة",
-   "source": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxQSXNiT2F2d2pQUTRUeU1fcFFGUFZkMWNZVkRRVTlPbDN0Z0V2WThROUpUU1AxQjhlM1pPV3pxWWxqU1lSTUk1bm1BMXh1NGdYOGZBQmV1NnVKb2dqRUROX1JaM05mNTZSMjE3SXo0NklMaU8wVEpZd1czMGNISnZ4S2tMczdxUDFyeVNHR2NiOVQyamRWRjN5cGltejN0dzFoSkZqX0xYYlNUR2k2Yll4WVQwNEo2UmhHejI1TWdkUFFoSVE4WDhpUVppSU5iLVgwTWFMWk9ROURKeENOaGlYT1BWVk5OV3NqeXdveHBtM1Y0Z2hTNjVKaDBQN0E5a2tuV21QSjF5LU9yN1ZSSUhWVndzYTFpMG5Gc3hSZHFzbC1Ud0FYcW9wWUpMMFhVZU5WMWZDQ0hUbnI4WjhBVWdQMERoSEgxQ0doRF9RQ2hYYWVISWpFd1FWNVFJa1JQSG1Fc3h1dDNBNnAzMklrQ1paRldsaGdIYXh2aVBpRlBlVUZDYW5pTGVocHJiRDlNS282R3VHNnJITTZ1SHdRb3p3dGJyZi1GdUxoZVUwQ3k4cDZPVWZpeUd2aHctV19BeFZyeUJzSmVTbDV5LVdadENUc3c0VUtLOXNPVWQ5elpIdlA2R3hOQTdGb09hSTFOZFBOblF3OEJHUVlISW9KYThZa28wazZSODVzSFEzWUZBeXEtTks4Y2V1YVFvMzFTZ0lj?oc=5",
-   "time": "2026-11-20T20:26:10+00:00"
+   "title_orig": "بطولة ألمانيا: كاين وأوليسيه يغادران مواجهة كولن بسبب الإصابة",
+   "source": "مونت كارلو الدولية",
+   "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxQRmFFS2hkeTBoSkI2ekRSb21oaktjaDlwUGxJQUlqN29yWVpZNWQyeHd2Znk2bHpELXVUeF9CTnlkTl9XSnd0S2hPUk9LbFpYbHNJVWZPRnJPLW43dlI2d1dyWFRRSm9qSUZ6RFc4NGNTcXdub01teUExRF84RUlycVdEeHh3R3U0d1RXTm5Yb3BzUzZtNHlUUTZqR0ZkYkZvMHp6Ymlyc0hISlBpM1ExZ0FKdjhGWmZHU0JrRFJMVDNsMWpfalBRT3dIS09PeXZ3a1NsYTlYa1BpWVVkUW1Xak9ycTZDbEJxWDQtSEJwWkVpTThocWk2TTFGXzFmeXNjYllmYU1Iem10TU9TQlJnQkRyZFhzVjhZUG5wdWh6MGVMdUc1SkczVVJQM3JXZVdja1JHRUhqOWJiUGtlVjJZTFBoTDVVRW5ObEZma1p3cDNMR19sZkwwcTJTQTRJdTJBZlNFMFBvNENSb1hkanpsYndKODdYZjFSajBMMjFyZl9qZzl6UUk4d1ZaeER1ZWlFTjg5Z1VxU19ORDJNM0g0dTE3TnVTbHptNHNZV1gwZEtULXREM3g1eTd4czdJUXRtaWJmWmtSSUZ2Q0U3SU4yVjZGMjBzYVlBb003Y1prYjhQQ1JWdnBMcW9ERlhZclBZZnFpX3ZoWDM4WG5sYm9HSm1IdFREbnRvZHJkeEJtQUFaS0tpRG5hUFZCYzBlUGYx?oc=5",
+   "time": "2026-11-20T20:24:33+00:00",
+   "more": 1
   },
   {
    "cat": "security",
@@ -660,21 +636,21 @@
   },
   {
    "cat": "lebanon",
-   "title": "مسؤول إسرائيلي رفيع: ترامب لم يتخذ بعد القرار بمهاجمة إيران",
-   "summary": "",
-   "title_orig": "مسؤول إسرائيلي رفيع: ترامب لم يتخذ بعد القرار بمهاجمة إيران",
-   "source": "Elnashra",
-   "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxPQncxODhOSEJaLWZZZUl0ZXhrNEJsY0I3c0hHM2hCWGN2LXIwMnVWWDRLbHBpQUpXRXUzSTVTTU54cTFpaGxZanNxbWFPVThsdDB3LUNOQ2kxdy1JNWRkMGFaVUV0VGR3c0xMQ3dUWjNUNkREZlc2ZW9OczlNVmVnLTNUa1ktMHBsWHRXSUNPMHBRQi1XbFJIbXFBV0xlUXRFQWRFSkxZdTlSWVhKNExIOEk3bFBIM09SMGQ0aUtKckc4TURuX21od09QODNBcHdOaXFndGZkb1ZDOVIzU3ZrcDZCcHFFNDBxUEpFNVBuZFYzRExoSjRXTnhHN2FhV3JWbTV1bFo3Z2h5UFJxdXJQanhGVTAwVWtwOWk1VUpsZnpBYkxUN054V3lEbGUwLXdRT1ZZZ09TaVpSUWh4WWUwV0d5UGltTzVfSkt1Xy1mWmJyY19xMk5oLUQ1Z2FzYlM4X3dNalhRdzdVVTV4c1d2eGMyNFAwbUdTYy1DR0Y5X2d4cFVxTEdSUFYtczF0UmJaeDV1UDRNNVd4Vm8xUklBY0xfTUIzZVRDMkVyNlUtUW8?oc=5",
-   "time": "2026-11-20T20:14:33+00:00"
-  },
-  {
-   "cat": "lebanon",
    "title": "سوريا تعلن إحباط محاولة تهريب شحنة أسلحة إلى لبنان",
    "summary": "",
    "title_orig": "سوريا تعلن إحباط محاولة تهريب شحنة أسلحة إلى لبنان",
    "source": "الجزيرة نت",
    "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxORVdWaEpSR3FqX25wcmdYWnRWX1NGNGdEVEZCdkswcTdsQjBpaU42QVA0akJnc1JEaW1NR3hHY2VBNFNtbGVpeDcwcVU1b2ZBSkpJcXhHYkk2dGYwaTVnSFFTRDQ3SjNHMmZuZ0dxTXUzSUVLLXVwTTE2NEdURFV4eThIZEc2dk9yYlI4c0NVX1hPcmtVc013aFFUaHRfOHB0cFdkeEIydEdNcGtCSlNvVE56MkZCUGFHSk5hSnpVYkpvRi1ia1E2ektiTWEtUXlFcG15VWxLX1NpUUN6Z0JXTG9UbmxvcWl0SVUzSGxHSW5MWk1GZVNlWlE5X2lDSkdja1QtempBVEV2Q1JXZmRhbUFULVpyRUhuZzdqRll1eFlaaVZnT0JiUlpMVVVNREQ0RFRxV0RlbUxfcWZTSFhxRkRwMA?oc=5",
    "time": "2026-11-20T19:57:50+00:00"
+  },
+  {
+   "cat": "germany",
+   "title": "ألمانيا لم تعد الفريق الذي كانت تخشاه جميع المنتخبات في كأس العالم",
+   "summary": "",
+   "title_orig": "ألمانيا لم تعد الفريق الذي كانت تخشاه جميع المنتخبات في كأس العالم",
+   "source": "الشرق الأوسط",
+   "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxOdVhOWElTMDh4eGdlV1dOQkdtMW16Vmo1WF9CTGdUOXoxRlY4VnlUV0JuWjVBNnl2VEJtT0kwSlZNTjY3bXUtX2ZjeDRpb25LMXhndm0tR1BLcnJsYUQ1SHlnVEhrckxodFZNSnFWem1jd0xKZFhFbG1obzB1NWstaVpUVEt2bFRRRGdfTlo4eVdiQjFnTF9JeEF5cmNod1dNZFhDb1dOUzdLelN0Rk1wb1ZMbHQ2ckt1dzJ6VFB2MEVmQWpoU1VCdUplTWRZOWRhSUpjYWpicy05SWh1eTc1eWQxbXN0VUdMb3FTQW5oQUNWODVTeDI3U3N1VFQ4MlJmT1RiN19qRFB0eUM0RFdTNUcxY1V4ajRtaG1UTWRuSEdBRTZBLVVvVEFOSG1LU0JwM3V4UndHVm9yWW9VUHZiNEsyM0tFeFNNX1dvQUZ4dl9IUWE3UTRoeWhHQk1LSi1SMzFsZzQzSGV1bERaRlNKNVVQSkdycmtHV1BHRDgtYUhwcEVRUHZ0cnRQMWtVWVVoY25iT3RBb3A0akRadktwcmxabXBiWEhydURlU3Z1SjhlQ1NZaW9KdndHMm9JZGdPSDJPMV9nSDg1ZDhyZUpnY3ZzanliV09nVjRQTENOcEVBdy1qVFNtWk02NXpqRkVfcEx6blA0VU5GRm5iUDdHVTRuN2xoYVBJY19EYXFMYkpOd1pMb0tMU1U2LWZGRGItdTMxcFRUeXp6NFBzNDAxTnFpdHN5VEdqOE9yS1ZubWNHV3haT2taWE1iaWw0NGlyem84VWhSOERXN3VoYTJiVm1nVlU0Sk15NFY4WDFETTZpYl8yLWo1amJZQTQtRS01UmJ0X1JwZ3RTZFFpR0p0a0VKcG9OU3pzZkV3?oc=5",
+   "time": "2026-11-20T19:57:23+00:00"
   },
   {
    "cat": "papers",
@@ -776,6 +752,15 @@
    "time": "2026-11-20T19:09:13+00:00"
   },
   {
+   "cat": "germany",
+   "title": "زيارة تميم لبرلين.. ماذا تكسب قطر وماذا تريد ألمانيا؟",
+   "summary": "",
+   "title_orig": "زيارة تميم لبرلين.. ماذا تكسب قطر وماذا تريد ألمانيا؟",
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNWGhJMktueHB6VzJlT0VSMXJNcXpIM2UtQWJMbmM0ZnFaeFRjQ3hkeGx1cDlraFFJSEZKUnJ0MkY1b2h5SklzWFZKMUJ6QTV2NUJrejctN2t4SmxkVHhKSjQ4UlJkSExVN1B1Nnpha1NBSDYzdlhFRWRqSWRORGMwa3ZSUEZ4QU9FRmY3c3V5LUlmZFJsYzNxYko3QkxwUmJmM3FJVTFfSW41Nllpd2J1eUNWWEtWQnYwNVgwUUFfZExxQVBSb1JRSkYySGNjVU9QNmFscUw0NWdxbk96eFJlQ2lTWWpPSG1jTm1IS0JUSnhmZC1BMWZOWTRhYVNzYWNJNDBWMXhPbW5UWi0zNkxNb2xBVlllbGgxcDROVTlUWFFOa0J2Q0FCZV9aZGpJeDRJRzZlOHo1bEtsSS1neFRyamNxUVJYck4zLU92eGgtcWdsN1pjclJ6bnhXSGtaZ1Rvc0F2YzYzSnFCdms3LTJRUU9BU2U5RGo4SUZuWmNqd3lla2Y0ajdfbF94WEhvOU51Z3hNNHRuNVd3NE1lRW9fU21vbnBRY3o1?oc=5",
+   "time": "2026-11-20T19:08:37+00:00"
+  },
+  {
    "cat": "papers",
    "title": "يعد إمداد شبه الجزيرة أكثر صعوبة: فبدون جسر كيرتش، ستكون شبه جزيرة القرم وحيدة",
    "summary": "وبينما يلعب بوتين دور الرجل القوي في الاجتماع مع ترامب وشي، فإن مشروع هيبته ينهار تحت الضربات الجوية الأوكرانية: حيث أصبح جسر كيرتش مقيدا بشدة بشكل دائم فيما يتعلق بقابليته للاستخدام. وهذا يعني أكثر بكثير من مجرد نجاح دعائي لأوكرانيا.",
@@ -847,6 +832,15 @@
    "source": "Süddeutsche",
    "url": "https://www.sueddeutsche.de/politik/usa-news-liveblog-trump-rechenzentren-li.3578585",
    "time": "2026-11-20T18:23:00+00:00"
+  },
+  {
+   "cat": "germany",
+   "title": "كوبنهاغن: جهاز المخابرات الدنماركي يحبط مؤامرة قتل محتملة ضد مغنيي الراب",
+   "summary": "",
+   "title_orig": "Kopenhagen: Dänischer Geheimdienst vereitelt mögliches Mordkomplott gegen Rapper",
+   "source": "DIE ZEIT",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVF9LLVlBOUxYd1dGVDEzVlpnWUpIS09RT0dYZkRsLWtyN0tvdEFTUy1CUTVSMFZBOUhyeGQwUGV5Q0t4ZnpDRFNQVUhva0FlMUF6bkVJX2JwcnoyN3NtLUFIMWlmTmhKWFU3ZGNQZFU3RERHN0M3YUJwMGh3R1o3eHdUbUNrVXBLbFpOb1Z4V0hmTGt5UHJ4ZTZpSTY2dmlLNVJJY2pOREptLXh1Nm1EV19WRTFIV2V0akcyZVAtRTk3UlZCZ1E?oc=5",
+   "time": "2026-11-20T18:11:23+00:00"
   },
   {
    "cat": "city",
@@ -940,6 +934,15 @@
    "time": "2026-11-20T17:14:00+00:00"
   },
   {
+   "cat": "germany",
+   "title": "اشتباه في مخطط لاستهداف مسجد في ألمانيا بأسلحة من طابعة ثلاثية الأبعاد",
+   "summary": "",
+   "title_orig": "اشتباه في مخطط لاستهداف مسجد في ألمانيا بأسلحة من طابعة ثلاثية الأبعاد",
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPaW4xbkx0V3VsTXREYmlBamhCeE5jRXEtZzI4cExfeXN4enZIaXM1UF9ySjQ4ekNoallZemN1YVBFdG1PcUxTUjFKa3JSaF93OUUtREJjMmptY0lHOTZhNlFUOFJJbDlmUTVOXzBBc2xxT1NfaWFsa0hjam5KLUlZSTVBYnBTNEtsZlZPTXlRMjR3OHluY2xBd3dmZGNXbVl5Z09ycVItcnNOcXFVQ0NRUUVVRHRDazlXcTMtdVN1QlBXWUlieENBelVrbXlLUGdVLUlaTDRacDUyZTlpQnlWLVFwT2ZVZmRtdEs3c195QzdOdFlma01RbkJOaVBhMm5aRTFxbDlVQ0c5bFI4LXN4ZlE0UFFhZE1ELXBhbExsdW9wREYtU1VOR2Q1b2NVMmRxX2RYTGQxb1FqYUs0TEJLTEd4TEtwWXk3ZVYxUjVYb2xvZ1R5Q1B2RW9NN1pGNXk4Zno1cE1FUGx6bHhmeVgyU1UzVUpCMFAwN3l6bVhjN1dEbFgyel9kZEJiR1pFREduMkdRdHFNektZLUN6ZDc5OWRUQi1NcjVWTGhTNDlhTWRZQ09hWFZ5eUp5WkNmZFQzWEVXNFRYcThfNE1EbzdwR2UyVGpuc3d1NkxCSGNaTzZPYlpTWTVrZVg5U21aMXFybHdpV3AxQm1TY0Zh0gH8A0FVX3lxTE9pbjFuTHRXdWxNdERiaUFqaEJ4TmNFcS1nMjhwTF95c3h6dkhpczVQX3JKNDh6Q2hqWVl6Y3VhUEV0bU9xTFNSMUprclJoX3c5RS1EQmMyam1jSUc5NmE2UVQ4UklsOWZRNU5fMEFzbHFPU19pYWxrSGNqbkotSVlJNUFicFM0S2xmVk9NeVEyNHc4eW5jbEF3d2ZkY1dtWXlnT3JxUi1yc05xcVVDQ1FRRVVEdENrOVdxMy11U3VCUFdZSWJ4Q0F6VWtteUtQZ1UtSVpMNFpwNTJlOWlCeVYtUXBPZlVmZG10SzdzX3lDN050WWZrTVFuQk5pUGEyblpFMXFsOVVDRzlsUjgtc3hmUTRQUWFkTUQtcGFsTGx1b3BERi1TVU5HZDVvY1UyZHFfZFhMZDFvUWphSzRMQktMR3hMS3BZeTdlVjFSNVhvbG9nVHlDUHZFb003WkY1eThmejVwTUVQbHpseGZ5WDJTVTNVSkIwUDA3eXptWGM3V0RsWDJ6X2RkQmJHWkVER24yR1F0cU16S1ktQ3pkNzk5ZFRCLU1yNVZMaFM0OWFNZFlDT2FYVnl5SnlaQ2ZkVDNYRVc0VFhxOF80TURvN3BHZTJUam5zd3U2TEJIY1pPNk9iWlNZNWtlWDlTbVoxcXJsd2lXcDFCbVNjRmE?oc=5",
+   "time": "2026-11-20T17:05:23+00:00"
+  },
+  {
    "cat": "tech",
    "title": "تم إثبات تخمين ريمان: يبدو أن الذكاء الاصطناعي يحل المشكلة الأكثر أهمية في الرياضيات",
    "summary": "",
@@ -1030,6 +1033,15 @@
    "source": "STERN.de",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnhzVW9PaldvNnlRVU16c2JVTHE5WVUxemNONFFxRGFvZGc4MDNKWkJrMkl4WldsRk1YNl9JNWtTeE9pNXZMb0xiTDA1Q1hyZVpOYlAxSVpDM01WdlJfS1VkYXFvWDduWWNDR3JSRzlKejlPdGhTanp3NUNlNWF3dmRNaUw1QkJ3QV8zS216bjJZRkFnR0VCM1dxWGxPMHp4em1uakRkcXVCQXFSRHJ4ZjRkOHpKQQ?oc=5",
    "time": "2026-11-20T15:07:00+00:00"
+  },
+  {
+   "cat": "lebanon",
+   "title": "حرب جديدة على إيران تلوح في الأفق.. قائد عسكري إسرائيلي سابق يكشف موعد الهجوم المحتمل وأبرز أهدافه",
+   "summary": "",
+   "title_orig": "حرب جديدة على إيران تلوح في الأفق.. قائد عسكري إسرائيلي سابق يكشف موعد الهجوم المحتمل وأبرز أهدافه",
+   "source": "Euronews",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZHhnLVNoOVVYNjZVdlFKbm43UDAyTnRFdEFOYVJyWTlPa25LeUFyVEtiNXJBWmdOMXJjMjRZV1JnM1NBZHJ4SnhwUTVJQkpsMWhkTmIzWnp6cEhic25kN0FQR0NDdzB3OUdsYWt1R1ZLRTVTdG5mNDhaWlN2TFNsNDBBUl80eDZnUzZuQkk4cklBNWV0RDhMb0dIVXhsbXJFbkR2c0NPVHpLang3c1U0?oc=5",
+   "time": "2026-11-20T15:05:51+00:00"
   },
   {
    "cat": "papers",
@@ -1149,15 +1161,6 @@
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHB1Wkw0U2xLaFo0b2pnZVdaRUoyb3VCYXdPRDMxdjBYN1o3UFRYSGNMY2VJOVE4aEFudm1qSnIzbUxsa1JBSi12bTh2ZS02clU0VnNtSXZ2V0VNTlVoQ0RFQWsxWi02d282VENjRGl6MmF4R1JyYkNnM3lwWTF5LTU4VjQzdklyNHZWUWJGa0RweXhEMkE5dVpkNzNfU0E2bmMwUkQxWVdndFdKRUg5X0hBZVVYYWlKejFfbHhUa1M5NTJnNE9DSnZWZFJhR3ZNQ1pxWXd5QQ?oc=5",
    "time": "2026-11-20T13:51:00+00:00",
    "more": 1
-  },
-  {
-   "cat": "germany",
-   "title": "ألمانيا تطلب إسقاط دعوى بحقها أمام «العدل الدولية» في قضية إبادة جماعية بغزة",
-   "summary": "",
-   "title_orig": "ألمانيا تطلب إسقاط دعوى بحقها أمام «العدل الدولية» في قضية إبادة جماعية بغزة",
-   "source": "الشرق الأوسط",
-   "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxPakNaR0pyQUZ0M0EteWdlSW9Ec056TnVWSWxxbnhyTU13NDFjZGtwVV9wY0RZQTJGb1V1VDdsSTVqTGtSajdrRjVQQ1BaZF9nU01TYXluRC14WW84ZUFhQlRrakdCcUI4ekhaWWFHX0dYdTh3UlowYi1wdGJWRUZEX3VWTnh1TWI3bkEwUHNWXzFRR1dhamJOVkVHeVRodnREN0tRb0MwcjZvdXFXajc1NEZTd2pTaEZnQVhpRVVvT3BRQU1GNTlER1lITzNGQXFXa1ZTNVNKNXgxR2pyd2JsZXBfZy14c2lUY3VYVjJJMFNkajBmQ2tRRGR6bXBhdldoOVNjdWhmUEc5NlpBZHk0WE80X2hhUkkwQ205VGFQcUszMHNrZ25kbWRjOWhreHVjT3k1bll5QTBtYVZKM2tOWVdzZEJ1NjJxLTQ3a01JZENOaWN0eTZuYm5NV2xvQjBvVzJuMTM4WE9LQXYyVU10NV9CejlRLXpKbVR6bnhMWGl0WEVINFk0X1phUFVRZFk0Qll0VUQxY21hZWhSN1c3SzVPb2tWXzdvaUlHMlJzczNNME5BQ1dvZWQ5cnhWWEpFNkhRZE1yTGV3MjZHNFJuVzJVb3pVdDcybGthQk8zZEpFNWRZa3o2MndPbTYzYlQzS0JsZzNVM096Sm81RHRoMjJFeUtHVVpvS25DYzJ1b0NSd3lQYWJkZmwxNEh6UUhWNWxEMl9telkwdUtfSWtnNEhvdTJNWUVJY1RsbGxIX3NqaVNvdG9PMzI5XzJkNWFGamtIcWlMcjhLaTR2UThfbzhOT3VybWVTbG1WLWlfNTI4QWplNFhOZ3ZYekxNcFN3Z254STNySjJGN01RaEN2X3RFMFJOeUN0OXJMOEpFaGViWG8?oc=5",
-   "time": "2026-11-20T13:46:18+00:00"
   },
   {
    "cat": "security",
