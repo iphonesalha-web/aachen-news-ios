@@ -1,14 +1,515 @@
 {
- "updated": "2026-11-24T19:08:06+00:00",
+ "updated": "2026-11-24T23:07:52+00:00",
  "items": [
   {
-   "cat": "lebanon",
-   "title": "حنكش اجتمع مع سفير لبنان في كندا: نوّهت بالجهود في متابعة شؤون اللبنانيين",
+   "cat": "city",
+   "title": "تحذير من الصقيع لمنطقة مدينة آخن ومنطقة أويسكيرشن ومناطق أخرى",
    "summary": "",
-   "title_orig": "حنكش اجتمع مع سفير لبنان في كندا: نوّهت بالجهود في متابعة شؤون اللبنانيين",
-   "source": "MTV Lebanon",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wbGlwZkJCQTlCWHVlWkUzc1g1RG9PeTZLWGlyYy1UQ3F1SlZYNEVSOFdTZWo5MEhPWExQakZ3R2UzallBSnZObXczcw?oc=5",
-   "time": "2026-11-24T18:57:07+00:00"
+   "title_orig": "Frostwarnung für StädteRegion Aachen, den Kreis Euskirchen und weitere Gebiete",
+   "source": "tixio - Nachrichten",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSDdtMXMyWFBZYTBrUEVUNWNsa2JkTnV4WXlpckZvbmRMcDhpUXE5dXdDa08xbGZoWG5HTVBmWFE4dmVTbGJKU0w0d0V1amxTTkNqLUpJQWIzeVhUYkhXUEpQMW5tc3BEeWdyOEFkR2x4Tk9lNUVpNEQxY0JSU0MxNDNVX0ZxbFNrLS14T0l2b1dzajZsVVBPd1dieGREMi1WQlV4aFNXUVd1bk12Y3FlMUdWYw?oc=5",
+   "time": "2026-11-24T23:04:52+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "الهجمات السيبرانية: يبدو أن المتسللين يهاجمون وكالة المخابرات المركزية",
+   "summary": "وفقا لتقارير وسائل الإعلام، تعرضت وكالة المخابرات الخارجية الأمريكية CIA لهجوم من قبل قراصنة. ولم يلتقطوا أي معلومات سرية.",
+   "title_orig": "Cyberangriffe: Hacker greifen offenbar die CIA an",
+   "source": "Zeit",
+   "url": "https://www.zeit.de/politik/2026-11/cia-hackerangriff-cyberangriff-odni-fbi",
+   "time": "2026-11-24T23:04:29+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "انتخاب رئيس الوزراء: اليسار: حتى الآن لا يوجد مرشح مشترك في ولاية ساكسونيا أنهالت",
+   "summary": "",
+   "title_orig": "Wahl zum Ministerpräsidenten: Linke: Bisher kein gemeinsamer Kandidat in Sachsen-Anhalt",
+   "source": "Zeit",
+   "url": "https://www.zeit.de/news/2026-11/25/linke-bisher-kein-gemeinsamer-kandidat-in-sachsen-anhalt",
+   "time": "2026-11-24T23:02:04+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "يريد الزعيم اليساري بانتيسانو طرد ضاربي الزوجات من منازلهم بشكل دائم",
+   "summary": "يدعو الزعيم اليساري لويجي بانتيسانو إلى تغيير القانون الخاص بضحايا عنف الشريك الحميم. وينبغي أن يكونوا قادرين على الاستيلاء على عقود الإيجار من الجناة، حتى بدون موافقة المالك.",
+   "title_orig": "Linken-Chef Pantisano will Frauenschläger dauerhaft aus ihren Wohnungen werfen",
+   "source": "WELT",
+   "url": "https://www.welt.de/politik/deutschland/article6b059071cd4642ba2eb16460/gewaltschutz-linken-chef-pantisano-will-frauenschlaeger-dauerhaft-aus-ihren-wohnungen-werfen.html",
+   "time": "2026-11-24T23:01:31+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "يعتبر رايشينيك أن التخفيضات الأعلى في المعاشات التقاعدية غير دستورية",
+   "summary": "ويريد الائتلاف زيادة الاستقطاعات للتقاعد المبكر بشكل كبير. تحذر زعيمة الكتلة البرلمانية اليسارية هايدي رايشينك من الفقر في سن الشيخوخة وتعتبر الخطط معرضة للخطر من الناحية القانونية.",
+   "title_orig": "Reichinnek hält höhere Rentenabschläge für verfassungswidrig",
+   "source": "WELT",
+   "url": "https://www.welt.de/politik/deutschland/article6b05bf4caabf9675c80f42f6/schwarz-rote-plaene-reichinnek-haelt-hoehere-rentenabschlaege-fuer-verfassungswidrig.html",
+   "time": "2026-11-24T23:01:24+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "ورقة التقويم: ماذا حدث في 25 نوفمبر؟",
+   "summary": "",
+   "title_orig": "Kalenderblatt: Was geschah am 25. November?",
+   "source": "Zeit",
+   "url": "https://www.zeit.de/news/2026-11/24/was-geschah-am-25-november",
+   "time": "2026-11-24T22:55:04+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "اسم الشارع المثير للجدل: بيرشتسجادن يلتصق بـ Von-Hindenburg-Allee",
+   "summary": "",
+   "title_orig": "Umstrittener Straßenname: Berchtesgaden hält an Von-Hindenburg-Allee fest",
+   "source": "Zeit",
+   "url": "https://www.zeit.de/news/2026-11/24/berchtesgaden-haelt-an-von-hindenburg-allee-fest",
+   "time": "2026-11-24T22:49:27+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "حادث بعد مطاردة: إهمال حق المرور: انتهاء الجدال مع الشخص المتضرر",
+   "summary": "",
+   "title_orig": "Unfall nach Verfolgungsfahrt: Vorfahrt missachtet: Streit endet mit Verletztem",
+   "source": "Zeit",
+   "url": "https://www.zeit.de/news/2026-11/24/vorfahrt-missachtet-streit-endet-mit-verletztem",
+   "time": "2026-11-24T22:49:11+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "الجوائز: يمنح YouTube جائزتين مزدوجتين للأغنية واسعة الانتشار \"Good Enough\".",
+   "summary": "",
+   "title_orig": "Auszeichnungen: YouTube zeichnet viralen Song «Gut genug» doppelt aus",
+   "source": "Zeit",
+   "url": "https://www.zeit.de/news/2026-11/24/youtube-zeichnet-viralen-song-gut-genug-doppelt-aus",
+   "time": "2026-11-24T22:47:29+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "دوري أبطال أوروبا: دورتموند يسجل في مرمى أرسنال، ماكسيميليان بيير يسجل",
+   "summary": "ما مدى صعوبة هذا BVB؟ يعود فريق بوروسيا بقيادة نيكو كوفاتش أمام متصدر الدوري الإنجليزي الممتاز بفضل ماكسي بيير، الذي رفضه الاتحاد الألماني لكرة القدم. شاب الدفاع جوان جادو لديه أيضًا زملائه وهم يهتفون به.",
+   "title_orig": "Champions League: Dortmund punktet beim FC Arsenal, Maximilian Beier trifft",
+   "source": "Spiegel",
+   "url": "https://www.spiegel.de/sport/fussball/champions-league-dortmund-punktet-beim-fc-arsenal-maximilian-beier-trifft-a-e5d9487d-3b7e-4256-a911-c5e89b58c0cf#ref=rss",
+   "time": "2026-11-24T22:43:00+00:00",
+   "more": 1
+  },
+  {
+   "cat": "lebanon",
+   "title": "عبد الرحمن الصلح.. إرث عائلة حملت عروبة لبنان ونصرة فلسطين",
+   "summary": "",
+   "title_orig": "عبد الرحمن الصلح.. إرث عائلة حملت عروبة لبنان ونصرة فلسطين",
+   "source": "جريدة اللواء",
+   "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxQMjBLTDF6MERwdU56Mmw0YWdzcGRFbWNMV0U4Y3lCU2RqOEM1WV91dWZ1UHZ4LVZ5ZFM2US04Y0liaER6R1piR0hWTEllWVdfQThMTV81UGVMZEFuTWJkUUVyRUZMTmVHNjBqeURZSWMtN0w3Zm5nWnJ1Vk4xVDl5OEVMSDRlWk1LRF9xbFpNZzJUM3pPYzZDeGNtSzJCa1FpelFDUDN5dnlVOEJERkFBc2xXUm92cGlidG1UMWVGLWMwVEx1bUJuNnBoTTg5RXRsT2w5NjRVMm9wWHI1WjVFdExIRTBsRHFQVlFhSm5xaDJrb3pRMHpYYk1uS3NVYmhPSW40c2NFMFpnYmpMSmlaYVphOFk4b3FsUVlhdEtrZExmck9DYUJWZmxpc3YtZkVVQkxJTC1jdWpUM1F3WUV5OU5kOUdmMlFTdzFiakExZnZBbV9TZEFRNFMySmJIcDNfc0Q5b28xMTBmR09jWE1ZMUFERUFIczdIQkdKcGZHMWFpY0dCYU9mNlp2eVJjSko1NnJvQzNOVTRyU2dsZEFvT0tLVC1mbm9vYkViYkJNOWMtR28tX0ZEUXluUElQczhxZG1HOVJXYkphOVh4V0ROTWhCOEdxYkJKbmpRZ1Bfc1AtZXlocV9xMC1CQ25JNENRbkdiRmpTeXZBQTk4bFhMMW1rcUkyRVBEWjh6UnhpTC1Tc0VxX2F6bHdKWC1vYXp3QU5RVkt5QnJpTHBXYjRaelEzRjBWUW1Lb0hjTmQwZGVPcnRhS0QycGdVV3A5T3JuQTdwcUlWTDlHZw?oc=5",
+   "time": "2026-11-24T22:41:00+00:00"
+  },
+  {
+   "cat": "lebanon",
+   "title": "دعوات داخلية إلى مضاعفة «ألم الحرب»: إيران تتمسّك بشروطها وتصعّد بحرياً",
+   "summary": "",
+   "title_orig": "دعوات داخلية إلى مضاعفة «ألم الحرب»: إيران تتمسّك بشروطها وتصعّد بحرياً",
+   "source": "Al Akhbar",
+   "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxOd0xURzJVS3BiSzVZalB0c1BEX2gyaDhvRkxzQkpsdXJ4YktmTEJrUFA3ZTVacndhMDByQzA5MGl0TThxdWFpR1l4dWlnN0E5ZTl2MzZad0YxdXhhRnRGVjI0akFLeHFBX2R6SHR2ZnlrNnhiZk5vT0dWSjE3VG0yZ1hZYW44THU3UkFfRGQxMEtoQ25qR2ZTSUY5LXlkbXBxb3VsR1MxWXNuT2xzaHJvOWctRzdlTWJkdWJsamhtNjI1dEloWHlPWktPOVpGdFpqa1AxME9UYVFJdHRlN0x4dk8xZGV2UTZua3A5cW1qQzFEaVp0aGJ5a3NWUTF0MEVhUmpxWkNvdjVRRUg1OE45YkpIOUNJVHhobnFQWXhSTm51RUxISFY5ZXk4MEkydnZnVkZjZC1vSlFPWlp0QUwwS3NHY0NfZGE0MXZxU0VjRzl5U3ptczV4bmZZNF9jdUg3VE9zdFFrcFNmVjVNRWdZcFpRak1YQy1LclNxUW10bjNRWWl3ZDJHR1dKby1Db21JQzZXUjg5cEU5U3VJd0p4aFllSzc1V1BtZllrUHhBVW1Sb3pVX1Y2WFowbTE2VUU0dGZaVXpydTFkTk1WQWJCRVlnMm1ONG03bWRpYXFEVzh2YlJIY2RZSTZvTGZfQTYta3NNOG5Zcks5X2pKWm0yampOdnI?oc=5",
+   "time": "2026-11-24T22:30:00+00:00"
+  },
+  {
+   "cat": "lebanon",
+   "title": "عن أركان السلطة وعلاقتهم بأسيادهم في واشنطن والرياض [1]: مشروع قرار دولي يشبه 1559 هدفه «تأهيل الجنوبيين»!",
+   "summary": "",
+   "title_orig": "عن أركان السلطة وعلاقتهم بأسيادهم في واشنطن والرياض [1]: مشروع قرار دولي يشبه 1559 هدفه «تأهيل الجنوبيين»!",
+   "source": "Al Akhbar",
+   "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxPT012bXRTdU1mdlE1YVVlM3NzYU5xdm1QeVBrcGZFTkxEeVlsUEg4ZGJLWTJmNXJTa01iVnhCN0lnTkpLSXBmekQ2WUVVSGNucGdpaXU5blFHVnMzOWpGVGo1emx4OElPVGRndkpRdkM1UkdtUlZWTk9YdWhCUE1TYmNsdVdYSnNsOUhoN0dEMm05ZW9PeXU2TVJQcTlsQUNZTmdNZVZLUzZlUHUtbThzX0N6Y0hMbU5EVmtNUXlTZUM4S1RLaUtTN09DQ1RiLVdKdFhWMlNPODZ4T18xM2JHM0VIOG10OUJKZ09jbGtsSTdabmRBb0FNMG5EYjZDemg4M0VONjFqbDFaLWZpdXNhU0puUEJoaUZLaE1yUUxrSGR1ZEc5YVZYOGp5cUs1cWJiaFdyLUJ1QzJ6MDBVc0twdHBDQW1nQ200Tm9QSkw2c212WUlXaVhCODZGWGJuQnVOMUt1Wm1lLW9POHd6YTMybkszTGNTWUZIb0x4cW1odHJubEVqMlhIeTRMcWZXVzRMa3U5TGxHbUlvc2gxU25sS2VmN3hjazhjMnFZc3lnT1hnRFJJRm9Yd2VXX2JiT2hMbG5reHRDMnF1MnMyeHBUN1BLVFJ1c3NIQVJkQW9vMG4weGhGNGVsS1JzcEF3TUgyOTcyLUd3QWRXb3l6cm9paQ?oc=5",
+   "time": "2026-11-24T22:30:00+00:00"
+  },
+  {
+   "cat": "tech",
+   "title": "الجرس الأخير: إنفيديا تطوي، أنثروبيك تراهن على أرباح الاكتتاب العام",
+   "summary": "",
+   "title_orig": "Schlussglocke: Nvidia knickt ein, Anthropic verspielt IPO-Gewinne",
+   "source": "Der Aktionär",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR3lUdHNqZjNQbFZxTW9PVnlORzE1T2F3RXBqbjFlM3p3SlBtTUJYZGNfYmNPbHREYTc4cmd4ZFBuSEl0eklXTUgwNmh0QV9TN3lBdi16RWg3OTZkUlM4cEV5OTdrSVkwRmoybl9vQnNVQ0pBbVlkeEVZY3hHcGM1MzF3cWlsdE9hV3lGMm40QkVFMnNBUjgwN2NnSjNialpYaWZmMmFGWXNMMjRkYUM2Z0JodExJbGY0Y3R3YWd3?oc=5",
+   "time": "2026-11-24T22:21:32+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "لماذا يعتبر هينو في الواقع مرشحًا أخضر للمستشار؟",
+   "summary": "حضر حفله الأول عندما كان في الخامسة من عمره: ظهر فريدريش ميرز كمعجب منذ عقود لمغني البوب ​​هينو. وفي حفل، قام المستشار بتقريب المغني من حزب الخضر وشكره على شجاعته في غناء النشيد الوطني.",
+   "title_orig": "Warum Heino für den Kanzler eigentlich ein Grüner ist",
+   "source": "Spiegel",
+   "url": "https://www.spiegel.de/panorama/warum-heino-fuer-den-kanzler-eigentlich-ein-gruener-ist-a-84f3c67c-48c5-4a4c-bec3-64df374f4215#ref=rss",
+   "time": "2026-11-24T22:21:00+00:00"
+  },
+  {
+   "cat": "tech",
+   "title": "التقدم الأميركي المستتر في الذكاء الاصطناعي",
+   "summary": "",
+   "title_orig": "التقدم الأميركي المستتر في الذكاء الاصطناعي",
+   "source": "اندبندنت عربية",
+   "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNdXRBZ08wQlFZWGstVEFrUFcxVlE4SWJlelVJTGxXbTl4cjdwX0hBanV2RkdTdEFUd2daa0lRWjNBaEJCMlVYVTNUQWVEcDdOSTRqMHItWG9YTk5zSHQ1VUVIajZCcHJWcHJhWWZmQmQyTFdac3lTb2ZGU3hiSWdKVGVKa1hydGdlTnF0cFBiNTB6c0xSVElRUlNCaEFZc1Q2d3V4dTJzbzNZVkF1bUV6ZHZlU085Y2Z5S3F5amp1emFDNzJLU2RCbHVpcnEtX2xsdUpXM2pFRXFBN0dsWDZEWjZWQjEtRU9kRkw5dlEtNnRET2tOYm1QdGJYVUh0MTh2OWZzbW5VNXF6UUJzeGtaQWc0SGxQSUVDTmRKRFplTG9CbUxIcjdBM1c1amlvN2Q3VExQd1dXVFJhNjl3X0FDZkY1TFBudHQxRVlYYTRFeVF1bkN4dGhnYmNGenc1Y285eUFYZC1xU0tMek56VmhYelpkU1QyTm9BUTBHQnItc2VpQ0ZVbVhOeDZTY2ZISU9PR3dpMUs2bGVJUWcxbDgwYVJMeEQ0MFdXXzBTdExQSVVhZw?oc=5",
+   "time": "2026-11-24T22:20:30+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "لم يتم التخطيط لخطة خلافة: سيذهب رئيس Nvidia Huang إلى جلسات العلاج اليومية بعد عودته",
+   "summary": "بعد أحد عشر يومًا فقط، يعود Jensen Huang إلى المركز الأول في Nvidia. ووفقا لتصريحاته الخاصة، فهو يعمل على نفسه في جلسات علاجية مدتها 90 دقيقة. العشرات من المديرين في الشركة المصنعة للرقائق يقدمون تقاريرهم مباشرة إلى هوانغ. إنه يتمسك بهذا الهيكل الهرمي.",
+   "title_orig": "Keine Nachfolgeregelung geplant: Nvidia-Chef Huang geht nach Rückkehr in tägliche Therapiesitzungen",
+   "source": "n-tv",
+   "url": "https://www.n-tv.de/wirtschaft/Nvidia-Chef-Huang-geht-nach-Rueckkehr-in-taegliche-Therapiesitzungen-id31573699.html",
+   "time": "2026-11-24T22:19:00+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "جنسن هوانغ: \"أقوم بساعة ونصف من العلاج كل يوم\"",
+   "summary": "يعقد الرئيس التنفيذي القديم والجديد لشركة Nvidia أول اجتماع للموظفين منذ عودته. يبدو وديعًا ومقاتلًا في نفس الوقت.",
+   "title_orig": "Jensen Huang: „Ich mache täglich eineinhalb Stunden Therapie“",
+   "source": "FAZ",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kleinlaut-und-kaempferisch-nvidia-chef-jensen-huang-entschuldigt-sich-bei-mitarbeitern-201714458.html",
+   "time": "2026-11-24T22:16:43+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "دوري أبطال أوروبا: لايبزيج يهزم آر سي لينس، وريال مدريد يهزم آيندهوفن",
+   "summary": "حافظ ريال مدريد على سجله النظيف في الجولة الخامسة من دوري أبطال أوروبا. يقلب الظهير الأيمن لايبزيج الأمور من جديد أمام لينس، فيما يعاني مانشستر سيتي من انتكاسة غير متوقعة.",
+   "title_orig": "Champions League: RB Leipzig besiegt RC Lens, Real Madrid bezwingt PSV Eindhoven",
+   "source": "Spiegel",
+   "url": "https://www.spiegel.de/sport/fussball/champions-league-rb-leipzig-besiegt-rc-lens-real-madrid-bezwingt-psv-eindhoven-a-3c7f16ab-4fc8-4707-9228-16e41ebf9a22#ref=rss",
+   "time": "2026-11-24T22:06:00+00:00"
+  },
+  {
+   "cat": "tech",
+   "title": "تحليل إخبارى: «إنفيديا».. ورقة ترامب الرابحة فى معركة الاقتصاد والذكاء الاصطناعى",
+   "summary": "",
+   "title_orig": "تحليل إخبارى: «إنفيديا».. ورقة ترامب الرابحة فى معركة الاقتصاد والذكاء الاصطناعى",
+   "source": "بوابة الأهرام",
+   "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxPbDEySlJhaUNvOTNZRFNndVlKYzBQaWNSeXNhY21ta2JRUFBmbWVjMVZ0Nkx1dXQtb3Boc2dZNWZwbmQ3RVBMX0l0ZUkzcXFGVVFReU1yNzhuZl93QWo5MnRGOGhZLXVkRXdnbmYzQmxOc29qNndwbHNJUExmSFIyd0JuM2dmSVdwV3EyUW1lRTh3cHNwWkJYdmd3RDlJWUlaYXZGX3p2a0MtajV6TmpadlRYOWxLd2JneFVoMGVkYkhaMUZiU2l4a1hKb01jRzd1a0FKeHFKOGxrdmVsTlFCVnpjSEVfdTY1UzRtaElGVkh6RGVjZW1UVVhDZ2djT2VqOXg3R0JaME4zMTh5Qml1d0pJNzdHNVlFdTZzYW1xb0FLMERnOWEtYTJzS0VTOXRzeW5QZTVxWXM5NWxJTE5LckpBUlN3NFhYRC1nVnRRei1yOU1XS3ZNUmNaakZmY0dBVDZuRkxSSVFBd3ZKTmpWTVIwNGtVN1JscVQxMkEyY0ZOejVzOFJ3SWFPZFJoazd1MF92VnRCNWl4U01SbmowVU16SzMzOWFUOWlyN0pmR18xbzNOdTFhalAzeUVYY1MxZDA5dGQtaklSMkJQVTZ6SzhYZXhyTE5WbEt5cDZIelNVODdRd2d4V0FZdFo0N2p6RElEZDB2cFRhRTZscG9MWGFReTJ4NnQzdlhCTDRBalAxMXJtSklzRnJyRERZYTlyYlB6S05rN2dWQUFoQ3ByU0NaUlNSQlJWRDd6MFdYRzl0NHZ6UWY3MUxraDlqSFRxaGVkeG8tb2ZTQQ?oc=5",
+   "time": "2026-11-24T22:05:27+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "هواوي: محكمة أمريكية تدين شركة اتصالات بالتجسس الصناعي",
+   "summary": "الاحتيال المصرفي، وانتهاكات العقوبات، والتجسس الصناعي: وجدت محكمة أمريكية أن شركة الاتصالات الصينية هواوي مذنبة بكل هذه التهم. وتعتبر تكنولوجيا المجموعة أيضًا خطرًا أمنيًا في ألمانيا.",
+   "title_orig": "Huawei: US-Gericht verurteilt Telekommunikationskonzern wegen Industriespionage",
+   "source": "Spiegel",
+   "url": "https://www.spiegel.de/ausland/huawei-us-gericht-verurteilt-telekommunikationskonzern-wegen-industriespionage-a-df491d81-9b94-430e-a73c-575ff81e9eba#ref=rss",
+   "time": "2026-11-24T22:04:00+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "الفوز الإلزامي يمنح لايبزيج الأمل في التقدم",
+   "summary": "يتحسن فريق RB Leipzig أيضًا في دوري أبطال أوروبا. فاز الساكسونيون على RC Lens ويمكنهم أن يأملوا في التصفيات بعد الفوز الإلزامي.",
+   "title_orig": "Pflichtsieg macht Leipzig Hoffnung aufs Weiterkommen",
+   "source": "WELT",
+   "url": "https://www.welt.de/sport/fussball/article6b05f2b5d4a4a3142c5723b0/champions-league-pflichtsieg-macht-leipzig-hoffnung-aufs-weiterkommen.html",
+   "time": "2026-11-24T22:02:44+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "لن يستخدم معهد جوته بعد الآن العلامات النجمية الخاصة بالجنس في الاتصالات",
+   "summary": "لا مزيد من العلامات النجمية بين الجنسين في اتصالات معهد جوته: اتفاقية إطارية جديدة دخلت حيز التنفيذ مؤخرًا تنص على أنه سيتم الاستغناء عنها في المستقبل. وقد تسبب هذا بالفعل في عدم الرضا داخليا.",
+   "title_orig": "Goethe-Institut nutzt künftig keine Gendersternchen mehr in Kommunikation",
+   "source": "WELT",
+   "url": "https://www.welt.de/politik/deutschland/article6b05fffb6197c358f99fc6d4/goethe-institut-nutzt-kuenftig-keine-gendersternchen-mehr-in-kommunikation.html",
+   "time": "2026-11-24T21:45:15+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "كتلة اليسار في برلين تستبعد النائبة المثيرة للجدل فانيسا إيمدي",
+   "summary": "كتلة اليسار في برلين تستبعد النائبة المثيرة للجدل فانيسا إيمدي",
+   "title_orig": "Linksfraktion in Berlin schließt umstrittene Abgeordnete Vanessa Emde aus",
+   "source": "Tagesschau",
+   "url": "https://www.tagesschau.de/tagesthemen/video-1689336.html",
+   "time": "2026-11-24T21:25:58+00:00",
+   "more": 2
+  },
+  {
+   "cat": "tech",
+   "title": "شكوك الذكاء الاصطناعي تعيد الضغوط على أسهم التكنولوجيا الأميركية",
+   "summary": "",
+   "title_orig": "شكوك الذكاء الاصطناعي تعيد الضغوط على أسهم التكنولوجيا الأميركية",
+   "source": "الشرق بلومبرغ",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOYlpjWEVZc3Zqc1YzajhOU1ZDSUNHU2luR0VBbGdkbndqTG9wRldtZ0dLV0xRNFJldzZBdElYcEJUUXdGcjBKRVhreE5uRlFQbzBTaGM3Y01mTE9rX1F1NWJ5YWNMYmVwbVV3ck5oOWJydXQtUkNXNHVKMFlBNHBvRGVvbkl6U2tfRUZPdHpKbzlGUkR1bDRNVEJmYlZfS0Z6d1pmcXRXczBMa2JvRkdvenRiVWxLN1F4VTZuMXFJUVNua1p2Um51WlM3dGl0V0F0ZnJPZzZDM2MyX1FJZzdYMUdheTVka1hDMXpHbHBBdkxYeVFPU3JXTGpvZm9JMjVaRk13aGFlM1hTcVl3YkhSZTlaQUtrdWptMklVbDNhaW5uNGFIS3pRaG1DUjdCN3BlX2c?oc=5",
+   "time": "2026-11-24T21:24:03+00:00"
+  },
+  {
+   "cat": "tech",
+   "title": "\"مايكروسوفت\" تحذر من تسارع الهجمات السيبرانية بفعل الذكاء الاصطناعي",
+   "summary": "",
+   "title_orig": "\"مايكروسوفت\" تحذر من تسارع الهجمات السيبرانية بفعل الذكاء الاصطناعي",
+   "source": "Masrawy",
+   "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxQYWkzWnQyQmdtRExhNXBVcDJ4Zjl3Y080Zk54dHFzZGc4VHRyYkp5WGYySlhpeWpkZTN1UVM1eHdsZ0l2NTI3Qm54ZXdrWWxNaGs4RzlPMXVMY3BBY2V0TThGTkh5S1Q0QzU3UkpCTW5MMERnYTBaeEtVYmZudEVhYTNaVnRYMEJISFk5V2dTekY2UmdFWkZVNXhQMGxKNl83WHVWRTJBMjVTSmdKSVBCQ3ltcGxDa1RFS2piNk9JemFkRUZvOU53Qnc5aDJOSExCa3hLOV9Odk5FSDFrUUJza0FRUjFadG4tV3VadjhaZ1NLNWlzVFJ0d1k0MDVWbmhjcjZFaFpaencxNUwtQ09zYThjemFTRWx4ZVVZZGhRc0RwTUJxRkVTcUhTWkF6cFRsbmJCWjRaX2tRWUh0UHRmVFphMWtBYlJ3N2JIV0tpOHpPRWZCQkJsMUgxMDFpWlpNYmJ5TG9neFF2cW84MUo5YUpZVFQwbFc0bEFHTUpSMUloeVk2aUV0b0Y4TWFpQXZlOVJxRldUYVJiQktfZXk1bWU5YVVlSGVVYXpYTDRGRk9TQTJIU09GaEZHTm45T0xlUWRwZU1Zc0FLeEUxQ1dYSGdrTHF6aktxcXJCbWFfWXhyUHhBSnFDYktyNzFuMGQ2RXNVd3hKMy1FWlMtZVo2VkxsUHY0azlCeDJuVUJGclRtRGx0NERZU3lETlh5cko4ZXR5bjdvWXQ2UEZmbWtnbTA2SHRVdThJOURxRTNmMzhLUXl1SGNnTnVQLVBnQi1NV0xYNdIB2gRBVV95cUxOeG5XLXRrSm9BZ3lweEFYdklGV252UEljQmVGaldsWmwwdHVwT3pwQzZhRUVEWGNzWUwtd3ZUWEF4cDhrTUQ1Qk0ybXpWc1p3aGJtT2o5VEQ3cDZGb3BqeXo1SzBlbXBXMnZTTUR2NU1ZZU1nSWtVSTkxdEpaN3FIdVNSWHRvaF9SRXBJYkZ6TlpSSUxrMS1hM0ZyN1hPaHR3M2Z6MkNxV2RiS1B2dG52enQxRl9jR1BRamd1dWx4dHpDSzNRUERRblJyNUM4akVRMlI0Vk9pUHhJQ21EREs3bm92dWFhSVVaN0MyOUpYa0hPZnJDM0JMUW5jOWw1OVFBdEdRZzFIUVBOZ2FBMWhNZkZZdWlnTGtwbzBTcEpjVTNDeloyeWhLOUhNd1hlZnh2QlNZa09xNFJMeDcxRmpaaEcxQ1hDWGxjaWREd1pTMVVBWnNEanpWeFRCNU44R3hxM0dHOHllZU9IVHNQQk1qdXpEMHhWOEdTT1F6d1RDaVNuMG9JMEJsLTRKb25YZ1VWWTA5ZTlucnVqaGphcmhSZVo2MW9RT0pSUnhxSlV4OExmNGlUOGtqdzEzWnVTMWluWjhqSkpYaWp3S3ZFLU5ic2tQWFB6WmNTWWFfTkdJYTI0UFdFa3VfQ0M3V2U2d3BOUEhRTko4dVJrd1JCekVoc1E2eXhQc19lUnBQbE9RUjVDa2dYMzhPaEFaTXcyNGd1R0o1dDVzbmpHM2lEbGZJWjdmZ0lpRU5Lb0dLMS1lTnhiUVJVR21aanBCRVE0Vl9UV1dxV3gzNWljZw?oc=5",
+   "time": "2026-11-24T21:21:39+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "رودي جولياني: ترامب يمنح عمدة نيويورك السابق جولياني وسام الحرية",
+   "summary": "أصبح بطلاً أمريكيًا في 11 سبتمبر ونشر لاحقًا كذبة ترامب بشأن خسارة انتخابات 2020: حصل عمدة نيويورك السابق رودي جولياني على أعلى وسام مدني في الولايات المتحدة من الرئيس.",
+   "title_orig": "Rudy Giuliani: Trump zeichnet früheren New Yorker Bürgermeister Giuliani mit »Medal of Freedom« aus",
+   "source": "Spiegel",
+   "url": "https://www.spiegel.de/ausland/rudy-giuliani-trump-zeichnet-frueheren-new-yorker-buergermeister-giuliani-mit-medal-of-freedom-aus-a-696c53ba-4efd-4206-97f7-886b4dc1ec2f#ref=rss",
+   "time": "2026-11-24T21:17:00+00:00"
+  },
+  {
+   "cat": "lebanon",
+   "title": "لبنان أمام إضراب نقل بري غداً… عشرات النقاط على خريطة التحركات من السادسة صباحاً",
+   "summary": "",
+   "title_orig": "لبنان أمام إضراب نقل بري غداً… عشرات النقاط على خريطة التحركات من السادسة صباحاً",
+   "source": "جنوبية",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOYzVXNU1ITnRBb01RZG1BbGtDMWU3Y2phcVVucUFGcnFxUEU5WTdEUHBYYUtSS1gtX29ERC1XaXNPYTFvajlrdUpaOFJweDB3Uk91VmFiUGVBZlBnQ0k4Y01sSUxiNEcxa2pqX3ZjemdwOGtHbkk5b2lKY2dDajBnV1ZZSUpXRFJMMllZSVdmdFRPZFRpUFd3WWRqLU5uYWRSZzZPcXF1djViNjJMeXp4MkJRZ3pwRDlSMjdWV004a29ZRU1LdDRGRXNkTm84V0N3ZW1UYzBHbzN1c3NYVzlibF9UWnhYMkhSdU00Yjg1a08zUVNWeG1waWMyUkpaam5WTWZ3Sm9CWE0wVndFZnJ4czR4M3VhUFlTRlFIb2N0T2w0QWZycVVSVDNWMnU5eXg3M1B4MkpfemFmRkdqWDZ1azZQY0ZGTzhTWWc?oc=5",
+   "time": "2026-11-24T21:15:48+00:00"
+  },
+  {
+   "cat": "tech",
+   "title": "الأسهم البشرية أقل من سعر الإصدار: لا يزال Canaccord يرى مجالًا للتحسين بنسبة تزيد عن 50 بالمائة",
+   "summary": "",
+   "title_orig": "Anthropic-Aktie unter Ausgabepreis: Canaccord sieht trotzdem über 50 Prozent Luft",
+   "source": "Finanzen.net",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeVJoN05nNFVJVUZ2UGpBdHJiNVhzY2tkdFVlMWV2RWRjZVYzNFF4aEc3bUVpQnlZR2tuclhKMjd1a2txU1FpVDMydTlwc3ZBOHc3Q3JnMXJIbVNtQ190dkhSb0xWZERnUG00cElJdm0xVnFSeUZXbVlyYUt2bHpldngzYkoyM1hLbkc5ZlhleG51MkhqNHBRZURnbGZsclZwWUg2Z1g5aWRJdVJjclNXb2I3QkUzSjN4aDM3dnRGVTNpaVJPUUV2bTJnS0dSODJrYXZsRDdzYnBkbDZrbmg4ZGkydjRSSkFqSmhHdzNCajBUN1c5?oc=5",
+   "time": "2026-11-24T21:05:00+00:00",
+   "more": 5
+  },
+  {
+   "cat": "germany",
+   "title": "هيئة محلفين أمريكية تدين شركة هواوي العملاقة للتكنولوجيا في عشر تهم",
+   "summary": "",
+   "title_orig": "US-Jury spricht Tech-Gigant Huawei in zehn Punkten schuldig",
+   "source": "BILD",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSnNXM2lnaFNnUURaOUJSZERwRzBsWThkZnM3MUJVZlFhWjk5WGQwYXh0Q3V5ZldEQ2ZLbmNGdmdJWGZKSjVvSVp3R2ZoTTVBRjBrUVRTUkI0VzhYdk1zMEZoMzBUSW1MNTZlVUF5WGhXYUtydktvTG82c2EyXzlCWkFzZk9Pb25tWE1WMFlPdGVQS21DRHhoMy12NUlaVUoxZEdaSFlVNFJxVzFheTlBSkdsMGJyQVFfeWZ6T29xLXpNb2NrNGdSekZLdHpqV0Nvall0eF9QOA?oc=5",
+   "time": "2026-11-24T21:02:16+00:00"
+  },
+  {
+   "cat": "tech",
+   "title": "OpenAI توسع إتاحة GPT-6.2 Sol داخل ChatGPT وتحدد موعد إيقاف نموذجين قديمين",
+   "summary": "",
+   "title_orig": "OpenAI توسع إتاحة GPT-6.2 Sol داخل ChatGPT وتحدد موعد إيقاف نموذجين قديمين",
+   "source": "اليوم السابع",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOS3JJTlhfOXRmeG9Venhud1MxZHhaTVlZUENpWS1qdTdOaGppMDF4NUNvT3JlbDEybGlWRGNhMTh4U2IxZW81dEtTenlfdU0yRFVfbjZxdENWT2FaRmFrWldtVmFBNGo0aWRGbUw3cW1UcTRtbFRMWnpXejR4cGxtVzdiYzAxQ19ZWVIxdjFOUUw2VFFKSDBhNjFEaXhwWTNrTl9kQ3pqTUxsY1RYM1Iwek1tVi1kYmliV1l3XzIySkE5eC1NTFNNcHlFY1BBSjNSV1RlWHZ2dzRpdmFwdE1Qc1dUa2RfcmViZFlnNWxQTS02UzQ2dUdOWjYxMWNubXlPZXpIY2FEMVBNSnN3Zl94WTUtb9IBjgJBVV95cUxOeERZbDVaSHd4bEhnM29TQkJRX2ZYcy1WM3FidEhZTkFzUTZIMGVpUnBUcVNDMTVqTW1TdnhfTUJDMWF4U21ucDhJVVlvckpwOHhkdEVzeEJzeDZvUlVRYTNUWS1LdU4xcnY5dlVGMXlXejYzX2ctWmplRHJTX0pFanp6WFM0bXkwcWlkQTRuaU9mNi14RWZhQWZ5Skloc19HVDZlWVpWVERZN3lkMzJRY09zMXc2NzZmUF9CeUVxbkhvTXo4cnNzM0VsaDJ2OGRlamx0MTRNRmprcF82ZjhHX2l4SU4yZjZCbXdLUmtISmkzbFVMQ0djVHJFNElfWFhvZllYbjBMTHVQcTFlcmc?oc=5",
+   "time": "2026-11-24T21:00:00+00:00",
+   "more": 1
+  },
+  {
+   "cat": "lebanon",
+   "title": "لبنان... إصابة 10 سوريين إثر سقوط سيارة في وادٍ في عكار",
+   "summary": "",
+   "title_orig": "لبنان... إصابة 10 سوريين إثر سقوط سيارة في وادٍ في عكار",
+   "source": "annahar.com",
+   "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPdHN2V0xob1lZT2VwU1JlOWh2eUdPeWhBNkxvWTlOSnI4alVCTG9Cd3g2UUg0dS1haC1rcWREV1U4c2I1aEwyUzBMbE1LaEVrLXc2RktSWDctRTdUSG1raGZITkt4bnd0ZHVRcHlhd3A1cDFEWDdIOEluLU5EcjhHdlI3cERNdkxHXzhEbFhIT2dJNlMwVE5TNEhnX051MlMtTWRuS1N0ME1vbjR1c0tpeTRhNXNhQ3kzX3VQcVVxMmk1X081TkoxRl9kTk1ldDFtOVFkVlJvcjRsTjdUODdrVTV5TTFBX0ZFNEUxRW9TUDZPSGh4TXhFRVNzeU9mSV8yY1lIYm5waFM1YmhqMTFKUGRmRDc2enJRbi1TVmliaHJDYklSYktqaVg3Mm55MGZ0WW5YMXZyUnFQaWhRQ09qMUN4UVhPZ0pMd3BKcUI5bUtJRzl4Z3ZWWU56ajU3bUlsNmZjMU5CdlJUZEhxU3pUWGpVZ2dZSS1FRkswa0lmaGtnZlE0d1dLNnhLb2xmV296SXVJVS03Q2E?oc=5",
+   "time": "2026-11-24T20:58:00+00:00"
+  },
+  {
+   "cat": "lebanon",
+   "title": "البطريرك الماروني: نرفع صلاتنا من أجل وطننا لبنان",
+   "summary": "",
+   "title_orig": "البطريرك الماروني: نرفع صلاتنا من أجل وطننا لبنان",
+   "source": "Vatican News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakRWeUE2blV1UVFQbVdueTNXcEc2ZUpaRG1xd1k2Q29ySTRWcTVyRm1oRzJkNlh1RW9zUVFHeFpvQU9yZ2xIbG43UFZUT2lLQXlfemM0Z195T21nNVJwVDY1UDZYdF9nSnNkbFJxcTcwdjdmM2pYX3BUSHlkaUpzNnF4Z1NPYkVobmpLcFZzOEs1YmVJTmNnRHBIcnpzNmVNaFhWbg?oc=5",
+   "time": "2026-11-24T20:50:00+00:00"
+  },
+  {
+   "cat": "lebanon",
+   "title": "آيزنكوت في مواجهة نتنياهو.. هل تنجح المعارضة في انتزاع الحكومة؟",
+   "summary": "",
+   "title_orig": "آيزنكوت في مواجهة نتنياهو.. هل تنجح المعارضة في انتزاع الحكومة؟",
+   "source": "الجزيرة نت",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVkZJUFFaSHpiWWl3OHBlUWEwQ2VQeHJRblFtODVVeTlCMHduSjlEdWFkUk5SSE5CZWY0RlVKcVVyLTZBSjMtMExrREVaNnozcWJOR1E0a2JZdUx6aDFCLUZPRHBVMTZ4cHpiOWl6NDBPdUJleURETVVJcm5Ea1hjbDlIaFJud0kwVXZuekFWamtrb0c2SWlLYlRBYjR3a1lrWmQ4QW1nUzhDMUJOMXhNdFc3UHJQQnI2TTlHMlpLM3psdkdIYkktTHBHX0JWUmFkdzlXNWFGSzZLU1ltR2R5TTRoVDZPaXpyR19ILXZpbzgxYVBUWDV3dUR2UlNrZnJSQ0FWTERGR0FFU3ZsOWxONmkxMkQ1LUtHUDctTGJ1WHA5cmtzVC1VczV4eEJDdzF0ZUtXSHB0Z1Q1bEhiajhSQg?oc=5",
+   "time": "2026-11-24T20:38:11+00:00"
+  },
+  {
+   "cat": "lebanon",
+   "title": "اللواء رضائي: عازمون على كسر الحصار",
+   "summary": "",
+   "title_orig": "اللواء رضائي: عازمون على كسر الحصار",
+   "source": "تسنیم",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPZk02Nkx5eDF1cUpySzFCTkJ6dUlsWVd5T21XdHc0SWc0VUNHeUdCS0t4aXVNLTJLYk9QRHptWTdTXzRNMlVCOERoUGZuSDdIWHN4MGF0UXFWSmJYdHNRUEJfcjZVekl1UUJJRVZfOFh6Q3h3cFRocGhBOXdGa0FtYUpSajR0WUhKaTlJcWlIRDNzUHhzblMtRUs5VDdHLW03RmxLLURMbzdzZk5yaFVEbW1CQmhpaXdmejlyM1ZETEd0RVNFa0VGRzc3NDVISDNYMndZaVJ0ZERVMXJCTkIyZ2xOaTNaY3U5ZUF6RXRKY2x2S1hFYWxndmxTZ2dZeEg3MUlJVGJ0aDhaZzJFZ0pyRlRFMkdOeHQzVXN2ZzR1M2ZFel90RWczYkROeFFYYllfSXZGeGRkX0ZoWWxGRkNUZDMwbFNuS2tTVkQyQ0kyOU8wd9IB1wJBVV95cUxOYTJMUUtHbkZVeWZ6eGgzYW1aaGJrYXBfYVBJTGY1WVRsa1k3cHdzc0J1NV9oVU55NlhVQUZkZ3AyZXl4d0Q0QkJVYVJxU3B5MFlkSlFRQlRxODRCYmZVTzlhekhZQy1pVFhaUjdiN1Vzc19MQnZJM0VaV3BiQ29aN25iVmQ1cTJoSHNaazBJWHVOVXZkVW5mbWVhb1dRajFQQUVBNFZpdHJmOElKMUMtaEU0amp4N2RwMjRZc21rRG5ESEE3dzJiV2gzZGRVbjVQSTM5TDliVm1BNFg3ZC16cmdKamVxY0cyTDdQU2RRT1dNbnFka3RzYUZzUmxuYWZ4VVVGaUdVMGhOdV91UHAxSkNFZlBWTGpfczZEcHQ2cW5XSEFBMEVxVHdMcm1EdXpoOFFiTENndzN4RzdQOE5XNFpFOE5PdXdHVmR1dUN6bE1MQmo0UWd3?oc=5",
+   "time": "2026-11-24T20:35:27+00:00"
+  },
+  {
+   "cat": "city",
+   "title": "الحرم التكنولوجي في آخن على حافة الهاوية: ما هي الخطوة التالية للمشروع؟",
+   "summary": "",
+   "title_orig": "Technikcampus Aachen auf der Kippe: Wie geht es weiter mit dem Projekt?",
+   "source": "WDR",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWRtLUh5T1hHWXpDYUV4WUZmN0NpZjNjbW1jVGVwM2p0VTB5X0tNc21tVWZMMlBsOEw2ajM0TmRydEJ6NHd6VUpGMmlaQ1JQVUwxcnNWNkcwRGRrRFA3OFExSzNCWXh2X3RqRTM4MlBnOERvWXJ5TC1rbkpxbzk4QVhVejJEbjVWcGMyN0xCYWNBQdIBkAFBVV95cUxPbHR6SENuWENrMjJ1a2FBQ1dYaGJseE1kTVZwZHROZWU5X1ZOY05FSHRfNTdtRU1XVTllSUxPdENxRmVDYzhBMl80aktLanlHUmZtbDJrVHJHajNTV3ZZUnowYk1sbzBQYUZzVnR3Z3JGNkpFeVdUZ1FFSDZPbFk4Ylg4enJwemFjamdsMVZKQTY?oc=5",
+   "time": "2026-11-24T20:27:27+00:00",
+   "more": 1
+  },
+  {
+   "cat": "papers",
+   "title": "عاد هوانغ رئيس نفيديا، ولكن ما هو السعر؟",
+   "summary": "عاد Huang كرئيس لشركة Nvidia. لكن الأزمة لم تنته بعد. الكونجرس الأمريكي يطالب بإجابات. ويمكن أن يكون للقضية أيضًا عواقب على ترامب. بقلم أ. هيربست.",
+   "title_orig": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
+   "source": "Tagesschau",
+   "url": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+   "time": "2026-11-24T20:17:10+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "الأوقات الصعبة لليسار: نهاية إمدي؟ مستحيل: الآن أصبح للحركة رمز",
+   "summary": "انفصال الفصيل اليساري في برلين عن النائبة فانيسا إيمدي. وعلى المدى القصير، يعد هذا انتصارا للبراغماتيين. ولكن من غير المرجح أن يتقبل المعسكر الثوري في اليسار الهزيمة بصمت.",
+   "title_orig": "Harte Zeiten für die Linke: Ende für Emde? Von wegen: Jetzt hat die Bewegung eine Ikone",
+   "source": "n-tv",
+   "url": "https://www.n-tv.de/politik/politik_kommentare/Ende-fuer-Emde-Von-wegen-Jetzt-hat-die-Bewegung-eine-Ikone-id31573538.html",
+   "time": "2026-11-24T20:15:06+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "\"غير جدير وغير ديمقراطي\" - أنصار إيمدي يدقون ناقوس الخطر الآن",
+   "summary": "يسار برلين يستبعد النائبة المناهضة لإسرائيل فانيسا إمدي من المجموعة البرلمانية. لكن زملائهم يقاومون. حدود ما يمكن قوله تتغير.",
+   "title_orig": "„Unwürdig und undemokratisch“ – jetzt schlagen Emdes Unterstützer Alarm",
+   "source": "WELT",
+   "url": "https://www.welt.de/politik/deutschland/plus6ad709a151e5094f7a572743/linke-in-berlin-unwuerdig-und-undemokratisch-jetzt-schlagen-emdes-unterstuetzer-alarm.html",
+   "time": "2026-11-24T20:14:25+00:00"
+  },
+  {
+   "cat": "tech",
+   "title": "تقوم Anthropic بإنشاء تطبيقات سطح مكتب مستقلة لـ Claude Artifacts لنظامي التشغيل macOS وWindows",
+   "summary": "",
+   "title_orig": "Anthropic macht Claude Artifacts zu eigenständigen Desktop-Apps für macOS und Windows",
+   "source": "The Decoder",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2tUUzhac0hsTmZmUXNfWjU1dUV5UHNRcmZub3JBSmdaNUI0amdUTlpQelpMM0lzYWJGOU5GZDlGdmhTN3FrWGx4QnZzc0xvbmlpY2hqbEJXNWF0OC10VjZMREwxejJCdE5zb3BvX2xHV2xBbDhfQ0RvWWJHSzFVcG1zaVMwdWc4NXM2UDdVc19QbXdMVkotbGFMMXNubWk2SEcwMUh2Q0VMUjVoS2ptMQ?oc=5",
+   "time": "2026-11-24T20:13:29+00:00"
+  },
+  {
+   "cat": "germany",
+   "title": "هل انتهى زمن \"مرحبا باللاجئين\"؟ صحفي ألماني يدعو إلى ثقافة ردع للهجرة بدلاً من سياسة الترحيب",
+   "summary": "",
+   "title_orig": "هل انتهى زمن \"مرحبا باللاجئين\"؟ صحفي ألماني يدعو إلى ثقافة ردع للهجرة بدلاً من سياسة الترحيب",
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxNTmNMYmliLXhUamdsa3pncS1FblhaRmZTS0o4TXhVaVRwNjVlUS16YzNaMVY1TXdHa0NYRWVCRjZvbEpBQzdWRzJtU2dMSlM5X3RkVTZhaHU4WkV5LXVTVUVMa052Ml9vVVBuSEtRcmJONzNQMGZvekE2ZlhET1hSRl9id09BOUF1TTItZGdEcmtZaUY0c0JJNXlSM2RnRGM4R1hVSVZEVU9wQUVwVnBxa1kwdTFXeFJMdHZ2QUVTNTZSTmI1ZVZLUmNqZVBSWHBzY3dZTDRhdldybVBqZzZvLWFQQXFXVWFsdEhTaGtFR0VESm5wdmdSRTF1YTQtWW9oYjg0SS1hMEh5WDBIQlMxT0dOVmFEaFZacVIzMTBKVjAzLVA3MHRGRXNtUm9DZHl5SVRYZ0k3RjVQX1NpTlhwYklSMDdwUUFMVllHaWdRZ29IVkREcEcwSjVPNXJKMlVMeHV6VzRkSTRKZ2oyMkMzaGVGd0ZRYkVlcVB2WXdLTTA3SFN5bjhYUS1rUnBSNGhybzBES0JNVGFqRDNfOHV0TE16bHEyUzZwQks4M0syYkJ0aV9KemppUEtjMlpraThZVEFhdVpwdzdnX21jNmNWdERwUVlUS0NRdlRWQ3NWUzZ4bXY2aTVjemNqWXpVWEdTbENENVFPSkZhM2tEakY1bzA4R2FFMnJ0bWRYVk8zTTA0YjBLUDZXeGJPWVRNX3hqSkpBNS1kMXlYZmFNZ1kxR2l1bVJkNmU4VHJuXy1Fc25HWTBuaVJlVUdtUU56WktZd3gydE9BOF9Xd1AtdkZRb2hrRzFsdHc0N19TOFF0TlYyaTEwcm1tVUIyUTJzSGhja3NTREl1NkdUdnc1Z1NwMnh5NjRUVTcwa1NZ0gGbBUFVX3lxTE1OY0xiaWIteFRqZ2xremdxLUVuWFpGZlNLSjhNeFVpVHA2NWVRLXpjM1oxVjVNd0drQ1hFZUJGNm9sSkFDN1ZHMm1TZ0xKUzlfdGRVNmFodThaRXktdVNVRUxrTnYyX29VUG5IS1FyYk43M1AwZm96QTZmWERPWFJGX2J3T0E5QXVNMi1kZ0Rya1lpRjRzQkk1eVIzZGdEYzhHWFVJVkRVT3BBRXBWcHFrWTB1MVd4Ukx0dnZBRVM1NlJOYjVlVktSY2plUFJYcHNjd1lMNGF2V3JtUGpnNm8tYVBBcVdVYWx0SFNoa0VHRURKbnB2Z1JFMXVhNC1Zb2hiODRJLWEwSHlYMEhCUzFPR05WYURoVlpxUjMxMEpWMDMtUDcwdEZFc21Sb0NkeXlJVFhnSTdGNVBfU2lOWHBiSVIwN3BRQUxWWUdpZ1Fnb0hWRERwRzBKNU81ckoyVUx4dXpXNGRJNEpnajIyQzNoZUZ3RlFiRWVxUHZZd0tNMDdIU3luOFhRLWtScFI0aHJvMERLQk1UYWpEM184dXRMTXpscTJTNnBCSzgzSzJiQnRpX0p6amlQS2MyWmtpOFlUQWF1WnB3N2dfbWM2Y1Z0RHBRWVRLQ1F2VFZDc1ZTNnhtdjZpNWN6Y2pZelVYR1NsQ0Q1UU9KRmEza0RqRjVvMDhHYUUycnRtZFhWTzNNMDRiMEtQNld4Yk9ZVE1feGpKSkE1LWQxeVhmYU1nWTFHaXVtUmQ2ZThUcm5fLUVzbkdZMG5pUmVVR21RTnpaS1l3eDJ0T0E4X1d3UC12RlFvaGtHMWx0dzQ3X1M4UXROVjJpMTBybW1VQjJRMnNIaGNrc1NESXU2R1R2dzVnU3AyeHk2NFRVNzBrU1k?oc=5",
+   "time": "2026-11-24T20:12:24+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "ما حدث في نفيديا: التسلسل الزمني لقضية ولاية هوانغ",
+   "summary": "لم يتبق سوى أحد عشر يومًا بين استقالة جنسن هوانغ من قمة شركة الرقائق Nvidia وعودته إلى منصب الرئيس التنفيذي. وفي المنتصف تم تقديم التماس وتم الرفض. نظرة عامة.",
+   "title_orig": "Was geschah bei Nvidia: Die Chronologie der Staatsaffäre Huang",
+   "source": "FAZ",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-kehrt-zu-nvidia-zurueck-die-chronologie-des-dramas-201712827.html",
+   "time": "2026-11-24T20:09:58+00:00"
+  },
+  {
+   "cat": "tech",
+   "title": "الذكاء الاصطناعي يقترب من حساباتك المصرفية.. فمن يتحمل ثمن أخطائه المالية؟",
+   "summary": "",
+   "title_orig": "الذكاء الاصطناعي يقترب من حساباتك المصرفية.. فمن يتحمل ثمن أخطائه المالية؟",
+   "source": "الجزيرة نت",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQX05WajRFcllzMlZWTkhsRkstVXd3MWY3MnBSOTRYMXZ3VDgzYjZzRm0tYWdhWnRKMlZCNHZXcDRsSjNDREROU2NHR3FieHNyWmU5ZTJ2bWlOamRnSWlaZzB5T3JiOEQxd0FIbGc1MFFkX0twelZmdVVNdzJsdmdMNkVrR1VCRW42QmUwbXpOUDczWVNvcjN0dHBVR2llOTVjSWoyTmQtOGtOMEIwMUdzbDBCbXc2T1N0al9QRGFiQ0NHYVMwTEN4QzJyQnVOMTJUR3dSVXctVmNtV1hVTG1OQnJybERDZElad3hmYm9mbHlwODF1YzJMNXM2QlE5bW5OaGlZUUY0VTc2Qmk0ejlLZUNwR0ZscVdJZE9BVjdYMThFb1BJVEE5M3VsdUFhNHYwT0RNTlNMYjJjb1lsWmhhY0JMQQ?oc=5",
+   "time": "2026-11-24T20:08:42+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "السلاح النووي الروسي في الفضاء؟: ما الذي يمكن أن تفعله قنبلة نووية في المدار",
+   "summary": "أفادت تقارير إعلامية أن روسيا تخطط لنشر سلاح نووي في الفضاء هذا العام. ما هي العواقب التي قد تترتب على ذلك؟ نظرة عامة في الرسومات.",
+   "title_orig": "Russische Atomwaffe im All?: Was eine Atombombe im Orbit anrichten könnte",
+   "source": "FAZ",
+   "url": "https://www.faz.net/aktuell/wissen/weltraum/bedrohung-aus-russland-was-eine-atombombe-im-weltall-ausloesen-kann-201713159.html",
+   "time": "2026-11-24T20:06:13+00:00"
+  },
+  {
+   "cat": "lebanon",
+   "title": "إدانات عربية لهجوم الحوثيين على المركز المالي في الرياض",
+   "summary": "",
+   "title_orig": "إدانات عربية لهجوم الحوثيين على المركز المالي في الرياض",
+   "source": "annahar.com",
+   "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNMWEwemhlTkctWlVhaWxhMmE0X3NTczlBZWJkdEFxMTFMQ2x5c2pHV0hnWWR0R2dPV2hsMnVaMkwxZVh1YVlDV0NZTWhMV0RqZnF5dEtpNWNBeS1VQWxmazVIVERmd1JrWk5VbjdkRVJVY180VGZTZ3Q0ajlrZGx6bEt1R0wtWlRSYnM3eEZRc1FmZkZSN3h0VWZnWlFRWi1kLVk5d1dmSmpPZXowXzJ3c0hUWmpJRTNHVmtLYjVzVmdDbW9UOHU1WEh3cEQ5Ry1XNFFUb0NkZGFqN2piTUlMdDU1TDFta3ZOV1JGV2prTjFUclR2a3NyYVVzV1Nkb3F1N3JwRDVWVDVmc0RfSG9KMEE2bm16SlMtbmswTmZjLV9NVm5PalBwYzB0SlVNZ1h6MmZCRFJjcGN0dzFNbFFwZXVEc3RSMGpSdUFVc2ltNnBJT3dhNDMzMDRqTjlTMGFzNU1iYThqNnpVdEVpb0xOa3BlQmJRVk9RaGl5bVk5SWctaGxjaE9yQ1lvN2ExREl1M0JJMVhFSWxLQkE3Z0Y5dU02N3o5bEczUkVVbjJjbU1uZVlOdEdmQy1fS3JSR0JHUmhudklCZmhlaFBiazg3M0d1SjQ2cjdCSHdDQjViWWVlak9QRmwxc0trVUxLN2hFQURuOWhMU09sc1Q3bDRYQmJqSkxhUmxFNVM5YklneUl3TVlCN2R3?oc=5",
+   "time": "2026-11-24T19:58:00+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "لوبان تشحذ لهجته وتدعو إلى إنهاء \"أوروبا الألمانية\"",
+   "summary": "تكثف مارين لوبان هجماتها على ألمانيا في حملة الانتخابات الرئاسية الفرنسية. ويتهم الشعبوي اليميني برلين بفرض مصالحها وهياكلها على أوروبا.",
+   "title_orig": "Le Pen verschärft den Ton und fordert Ende von „deutschem Europa“",
+   "source": "WELT",
+   "url": "https://www.welt.de/politik/ausland/article6b05c803d4a4a3142c572186/frankreich-le-pen-verschaerft-den-ton-und-fordert-ende-von-deutschem-europa.html",
+   "time": "2026-11-24T19:52:10+00:00"
+  },
+  {
+   "cat": "tech",
+   "title": "ChatGPT Health: يقوم Android بمزامنة بيانات اللياقة البدنية والبيانات الحيوية عبر Health Connect",
+   "summary": "",
+   "title_orig": "ChatGPT Health: Android synchronisiert Fitness- und Vitaldaten per Health Connect",
+   "source": "BornCity",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUZzSmJnUjJVaGVXY1daRE1NM0JqbVpFc1BhcFRyajZ3Ym1BVmF3R3JMMXN6ZVZyQVZ6NmREMW9Td3h6LUtvcml2NHU5OWJMUVo3QWZDVFN3aXVwWHlMZWJIU3d5LVVocGFVRnpBVXFlSjFmZ2VycndwRFJYTldvOGhOSUo1aUxrR2dBVFJfd1Q3RkUzMHlITnBDY2NJTmNXNUVGRXdEVGJkZw?oc=5",
+   "time": "2026-11-24T19:46:05+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "تاجيسشاو 8:00 مساءً",
+   "summary": "ارتفع عدد الجرائم المسجلة ضد المرأة مرة أخرى، بداية أسبوع الميزانية في البوندستاغ، بداية فاترة للجولة الأولى من المفاوضة الجماعية في شركة تصنيع السيارات فولكس فاجن، برلين صوت اليسار لطرد النائب إمدي من المجموعة البرلمانية، الرئيس الاتحادي شتاينماير في افتتاح القمة الاقتصادية الألمانية الأفريقية في غانا، فيلم وثائقي من قناة ARD بعنوان \"The Talented Mr. F.\" مع جائزة إيمي الدولية أ",
+   "title_orig": "tagesschau 20:00 Uhr",
+   "source": "Tagesschau",
+   "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1689306.html",
+   "time": "2026-11-24T19:40:05+00:00"
+  },
+  {
+   "cat": "tech",
+   "title": "مصر لتنظيم استخدام «الذكاء الاصطناعي» في المعاملات الحكومية",
+   "summary": "",
+   "title_orig": "مصر لتنظيم استخدام «الذكاء الاصطناعي» في المعاملات الحكومية",
+   "source": "الشرق الأوسط",
+   "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxOQUpHeE9vNzFjbFNwQU9tcVFNZ0JyWVZHdmhxM3JobG0yUzJkZ0Z0OW1WZTVmbk1WY2RCcFE5VFF1cUFDQjFrUlp5MG5LNnBLVlFzRkw2ZlZqNGM2T2h5b3VIWDRZeUJnOTNJUU9YNnE3ejJNbXJlZDkyNnplbEdaM0d2VHMwQkhKb2FrX2ZLZFJld1JwWVhmMGE0bjczMnV6RmcxRmhhdWxoZTdTcnV5WUlWNkVVQ2p1WUxEeXhoUThJb0tFWjhxd3p3aUZRSUNiWTJObWZOazNJOTJCZDJkbWNjWFlFaUU0YVZZXzlKWVdibDM5T09rUG1SbGl0ZDhOSnhhenBaVGhUcklxQnJ1ODZnUmdaZU5mQTRMdnMyOElBWllLMndyZmc0QzlJY2o3Z2VsUDYzQ1RtQ0JvbEY2OGhnZjE4cVBFdEFXTTF4QWNMbkZ0ZzFITzQ3UWZiaHBjNFY1T2tlRlBGQjlrUFJVNTZwNXozTUREbUhmOVhucTVlb2lIRHlMbDZTX200TUhzZ1hQWU1CdmtvclBvbU5WbnliZG0zaWN0eC1hVlVNSV9rZlFfcmFYcDVoakdEY2lmOXdkdjlFcEU1X2I4ZjlWdzI5Nk1QWFZtTlJmTzhPWjhUcExMb0Y2QlRCMHRxRWU3WjJQTnhxR2p3cFdVQ2k2WmpSS1dmRHJuV2lMYXhUb3ZDQ2lmbWdtLTVrS0N4LS1fUkM4bVJJdUNid0htbXJYU0c2MHNxVWlqdHRLUA?oc=5",
+   "time": "2026-11-24T19:33:12+00:00"
+  },
+  {
+   "cat": "tech",
+   "title": "تقوم Aldi مرة أخرى ببيع هاتف Samsung الخلوي مقابل 169 يورو: ما الذي يمكن أن يفعله A17 5G",
+   "summary": "",
+   "title_orig": "Aldi verkauft wieder ein Samsung-Handy für 169 Euro: Was das A17 5G kann",
+   "source": "CHIP",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSFNDLUVsbXNvQUhRbWgxVEpyWkp0TFZQT0wzSy0xWDJFSnJLSXpYbmdmbVdzZXhjWEMtekI5Uks5UGFxTGtvOGJrMU85M2tXSzNMRV9qSGRKdWVfaU9BUk05TE1DUXlMOUVqZ2s5UFdGMFlpWnViT0hucy1uLUM2TGZaNDQ3Wjk0bFR4NEtNdnhDZEdjU1JWbjZkZkFqLUVsa1ZhZERpdHViajh0UkFBRDZJMkdEazR5RnlrZFhkNGpqNHQwMFlnWXp5S1NoRkp3VnFpRDdHWWdPNlA3ODY1UGFwNlZFZw?oc=5",
+   "time": "2026-11-24T19:33:00+00:00",
+   "more": 1
+  },
+  {
+   "cat": "tech",
+   "title": "الأسهم الإنسانية في المنطقة الحمراء على الرغم من ارتفاع الذكاء الاصطناعي: ثلاثة أسباب للضعف",
+   "summary": "",
+   "title_orig": "Anthropic-Aktie trotz KI-Rally im Minus: Drei Gründe für die Schwäche",
+   "source": "Finanzen.net",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNemRvX1hKbFhDWXZJaE1hNl9DM3A3WUI0LXdjS2hnTTVvWE5YNy01M0I1d0VHUklnRjdXRzVaS2Y5YjMwUDQzcWF5MjFQeExNUUtQeG04dDhsdHA3bUIxU0VqNVVfV1A2aHA1NVRQeEc5aWRGdUZGVlZsLVVGblBHOGFkRWFUMmk4WDdTRTdRdDdKWUFMdWNfY0NtNi1ZR0Q3T1dyTGxrR1BxdENLRk41WUp3SFVLeHpxeHNBZlJjQmw0MjFBODZGdjlVZ1lvVlRvd09wV3lDT3hlWWJQMjlFVGt4NDNRWTRrMkNtc0Jn?oc=5",
+   "time": "2026-11-24T19:26:12+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "فلاديمير بوتين يطرد المخرج المعروف ألكسندر سوكوروف من مجلس حقوق الإنسان",
+   "summary": "انتقد ألكسندر سوكوروف القمع وندد بالرقابة على السينما الروسية. والآن قام رئيس الكرملين فلاديمير بوتين بطرد المدير من مجلس حقوق الإنسان التابع له.",
+   "title_orig": "Wladimir Putin wirft bekannten Regisseur Alexander Sokurow aus Menschenrechtsrat",
+   "source": "Spiegel",
+   "url": "https://www.spiegel.de/ausland/wladimir-putin-wirft-bekannten-regisseur-alexander-sokurow-aus-menschenrechtsrat-a-9da133f1-a8d8-4095-bcd9-c6df0c82dd1a#ref=rss",
+   "time": "2026-11-24T19:26:00+00:00"
+  },
+  {
+   "cat": "lebanon",
+   "title": "الحرس الثوري الإيراني: سفينة حاويات تصطدم بلغم قرب مضيق هرمز",
+   "summary": "",
+   "title_orig": "الحرس الثوري الإيراني: سفينة حاويات تصطدم بلغم قرب مضيق هرمز",
+   "source": "SWI swissinfo.ch",
+   "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPMDlhMVg5LVhYN1Q1UXpxNVJnbjBWSnk0MFR6WFd2X1NLTGRLenRRS1VkT2VoS0tIaWpFSEdQMzBBWlkwOFREczI0eXNVdzRZSG1hcmh3YmJIYWlfYnI4Mk1nU1RzSk8telVnbXNISGVSZmVMSUtSNnk5ZVRRYUNXSldxMDRJYjBRZXlxLWFrZTlvajJUU1M1MXZieXQ0UlN3WXFtcHhwVlc1TnhfNDhEU240NFQ3dTJUTDN1NFMxM05kbHA1NklnQmIwLTd3azJQZk5DdjhPZ1FhT01INk9ubWp0Zll6dFlMZEJVOUZ4bVdXUDUyODVpdFRTWnNGblZ0R015Y2NjYWp2NDZGVEl3MmtwSTJ0djVreTVFTndMaV9Wdk9yLXBGdXl3enU5TE8xOEtxbU5RbTUwYlFuN3VRaFNjRzhiQkdwMHZkVDMzQmowUWNjMDRJM2NpOTJ4RHpNYTl0ZHFQeXVkUGI2ejRqSmFNb3l2MDlNTGxOUnBQNjJqX1VQaWVxbFR3Ylo1R1g0dUN4M0tNZVIzTm0zYVEteG55YUVsempKNEtaSkJ3YWozY3dFN2NGRHAyYzVsNm1pWWdTN2NyVE92UHBPSjV3Uk9nU2V3d18yYkc4Q25TSzVTTnRpVHNhdnpTeTJHZE0?oc=5",
+   "time": "2026-11-24T19:23:39+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "مفاوضات الائتلاف: ماذا يعني استبعاد إمدي بالنسبة للأحمر والأخضر والأحمر في برلين",
+   "summary": "تمت إزالة عقبة رئيسية أمام المرشحة اليسارية لمنصب رئاسة البلدية، إليف إيرالب. ومع ذلك، فإن الأحمر-الأخضر-الأحمر يجب أن يتوقع المزيد من الأشياء التي لا يمكن تقديرها.",
+   "title_orig": "Koalitionsverhandlungen: Was Emdes Ausschluss für Rot-Grün-Rot in Berlin bedeutet",
+   "source": "FAZ",
+   "url": "https://www.faz.net/aktuell/politik/inland/vanessa-emde-aus-linksfraktion-ausgeschlossen-was-das-fuer-rot-gruen-rot-bedeutet-201714282.html",
+   "time": "2026-11-24T19:20:40+00:00"
+  },
+  {
+   "cat": "papers",
+   "title": "تسرب Rosstat: حادث مميت: هذا ما تقوله وثيقة وفاة رئيس فاغنر يفغيني بريجوزين",
+   "summary": "اخترق قراصنة وكالة الإحصاء الروسية وسرقوا بيانات عن ملايين الوفيات. يمكن أيضًا العثور على رئيس فاغنر الراحل يفغيني بريجوزين في التسريب. توفي في حادث تحطم طائرة - في ظروف غامضة.",
+   "title_orig": "Rosstat-Leak: Tödlicher Absturz: Das steht im Sterbedokument von Wagner-Chef Jewgeni Prigoschin",
+   "source": "n-tv",
+   "url": "https://www.n-tv.de/politik/Das-steht-im-Sterbedokument-von-Wagner-Chef-Jewgeni-Prigoschin-id31573281.html",
+   "time": "2026-11-24T19:07:20+00:00"
+  },
+  {
+   "cat": "city",
+   "title": "لماذا بدأ شاب يبلغ من العمر 18 عامًا سلسلة حفلات جديدة للشباب",
+   "summary": "",
+   "title_orig": "Wieso ein 18-Jähriger eine neue Partyreihe für Jugendliche gestartet hat",
+   "source": "Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdUg0d3dHZUVlSUFaWEJaMkxFUUIycVJ4Rkt4X285MUFqTjhTeEVZemZHZzI4aTJWWlE0dDREZC1yTjlrc2VXcjZUY2VYOUc5QnIxMFRHYkJiRUstb1FBSEdSajQ4YUloMy0tRjlqUm9fSFVmc3hxZG1ubUFaRHE0RTNJVjdmek01ODJIT1dQZjVqSGZmMVd3R01TTDRnc21OUUp5aVZxajdIekdpMUx6elJINDZ6U1FXYWJzcUg1RHg4RFdkcmVidG9IbldxOWprZnBUeFNzaHRTblBoenZMY1NaRkg?oc=5",
+   "time": "2026-11-24T19:00:00+00:00"
   },
   {
    "cat": "tech",
@@ -20,6 +521,16 @@
    "time": "2026-11-24T18:54:41+00:00"
   },
   {
+   "cat": "tech",
+   "title": "Black Friday Apple: هذه الصفقات والعروض صالحة بالفعل الآن",
+   "summary": "",
+   "title_orig": "Black Friday Apple: Diese Deals und Angebote gelten schon jetzt",
+   "source": "WELT",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOVhzNDJCV0EwckxPVE15cDdFXzFjT3MyQ0xzUkdVOWt5YWVjelNwX0M2eUp6MW5IYXpMSEtNbEFLS3lxS1ExVnBKZ1Z6dkhSSVA4dmVpRzdwMkR5YTZmbkgzbXlBN3ZpNmJRbEJBMTBsRjQyU2ZFaFFYWWktbEprZHdaaWFXZmR1dzlGTzcyRmthTGlVY2hDSlR6SzhUaExZT09ON3czNDRKYlc1QWRMbkNISXJwY3JMRm52c0hiaTdfdDFZbkcxRjFn?oc=5",
+   "time": "2026-11-24T18:53:30+00:00",
+   "more": 2
+  },
+  {
    "cat": "city",
    "title": "كيف تهدف خطة عمل Stolberg Heat إلى الحماية",
    "summary": "",
@@ -29,13 +540,14 @@
    "time": "2026-11-24T18:50:22+00:00"
   },
   {
-   "cat": "papers",
-   "title": "رودي جولياني: ترامب يمنح رودي جولياني أعلى وسام مدني في الولايات المتحدة",
-   "summary": "منح الرئيس الأمريكي صديقه المقرب رودي جولياني أعلى وسام مدني في الولايات المتحدة. يتعلق الأمر بعمله بعد 11 سبتمبر 2001.",
-   "title_orig": "Rudy Giuliani: Trump verleiht Rudy Giuliani höchste zivile Auszeichnung der USA",
-   "source": "Zeit",
-   "url": "https://www.zeit.de/politik/ausland/2026-11/rudy-giuliani-freiheitsmedaille-donald-trump-9-11",
-   "time": "2026-11-24T18:48:41+00:00"
+   "cat": "tech",
+   "title": "المؤتمر الصناعي - IG Metall يؤكد على الفرص المتاحة للصناعة الألمانية من خلال الذكاء الاصطناعي",
+   "summary": "",
+   "title_orig": "Industriekonferenz - IG Metall betont Chancen durch Künstliche Intelligenz für deutsche Industrie",
+   "source": "Deutschlandfunk",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTh1XzNfNHdQdngxYTBuRmswdGtwODNKRVFkR01VMEJqSDh4YXVwb0w5TVhEY3U2WVpRR2hyMTR6djZHT2JzV1JwTFd3cXpxQzBsYnVoMk5rQkVvSkk5UVpINnk0alBxZmVCTWtrOWRQZ29VRkpBZVZVMFNCajJtTTZyTUFEN2dwS0R4cHI3UHh6RzgxREktdGc3bHBCenQwR1ZkZTNseXUwWWlPZHA4czA1ZjJzemt0U3c?oc=5",
+   "time": "2026-11-24T18:49:29+00:00",
+   "more": 1
   },
   {
    "cat": "papers",
@@ -56,33 +568,6 @@
    "time": "2026-11-24T18:42:48+00:00"
   },
   {
-   "cat": "papers",
-   "title": "عملية فرقة الإطفاء: حفارة تدمر أنبوب الغاز",
-   "summary": "",
-   "title_orig": "Feuerwehreinsatz: Bagger beschädigt Gasleitung",
-   "source": "Zeit",
-   "url": "https://www.zeit.de/news/2026-11/24/bagger-beschaedigt-gasleitung",
-   "time": "2026-11-24T18:41:00+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "مفوضية الاتحاد الأوروبي: الاتحاد الأوروبي يطالب ألمانيا بإجراء تحسينات على الميزانية الفيدرالية",
-   "summary": "وتخشى المفوضية الأوروبية من أن تفشل ألمانيا في تحقيق أهداف الإنفاق الصافية في عام 2027 بسبب الديون الجديدة. ولذلك يتعين على الحكومة الفيدرالية تعديل الميزانية.",
-   "title_orig": "EU-Kommission: EU fordert von Deutschland Nachbesserungen beim Bundeshaushalt",
-   "source": "Zeit",
-   "url": "https://www.zeit.de/politik/ausland/2026-11/eu-kommission-deutschland-nettoausgaben-bundeshaushalt-2027",
-   "time": "2026-11-24T18:39:49+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "حريق في مستودع: اشتعلت النيران في مستودع مصنع الأسمدة في بوبندورف",
-   "summary": "",
-   "title_orig": "Feuer in Lagerhalle: Lagerhalle von Düngemittelwerk in Poppendorf brennt",
-   "source": "Zeit",
-   "url": "https://www.zeit.de/news/2026-11/24/lagerhalle-von-duengemittelwerk-in-poppendorf-brennt",
-   "time": "2026-11-24T18:33:33+00:00"
-  },
-  {
    "cat": "tech",
    "title": "عندما يصبح الذكاء الاصطناعي قويًا جدًا: يتقاتل OpenAI وAnthropic من أجل الحدود",
    "summary": "",
@@ -90,33 +575,6 @@
    "source": "PCGH",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaVJTeWZweUp2aXlCT0I3dU56c2ZoNnQ1bzc5cXBPN0pnTlFrNXJaZFo3aldjZXl1MWw0Rl9QSGdBY0ptTGdvcXhoQVAwbXlzNW1VMDY1cGloVEpUWkZrTEZHbmpmYVdycWdUTVhJdlRlaTI1d1Vic2M4bHFnWFRlRDJwT1Zpa3BoVlNrTzdGTkJHc3R5enlqYlFIckFFN3MzR3Q3U2FKRW9PM3F5dFBnUlpsWEFUdTRVaXJwdkg2NDAwZ0FRc05RN2NDeTJIaTc1emZPSGxFbVh6NVk2NDZSTUxzLS0xbkFhRGxZMFJKRjBQalU?oc=5",
    "time": "2026-11-24T18:30:00+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "الحرب ضد أوكرانيا: أوكرانيا بحاجة إلى مساعدات مالية بقيمة 115 مليار يورو في عام 2027",
-   "summary": "وعلى الرغم من التزامات الاتحاد الأوروبي، ستفقد أوكرانيا حوالي 25 مليار يورو من ميزانيتها في عام 2027. وتتهم بولندا روسيا بانتهاك مجالها الجوي عمدا. المدونة الحية",
-   "title_orig": "Krieg gegen die Ukraine: Ukraine benötigt 2027 Finanzhilfen in Höhe von 115 Milliarden Euro",
-   "source": "Zeit",
-   "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-   "time": "2026-11-24T18:28:43+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "برلين: لا يوجد شيء يساري في فانيسا إيمدي",
-   "summary": "ومن الصحيح أن الحزب الذي يريد تعيين رئيس البلدية مستقبلاً يستبعد هذا النائب من مجموعته النيابية. يمكننا أن نهنئك على هذا العمل الفذ القوي - ونتمنى لك أمنية أخرى.",
-   "title_orig": "Berlin: Links ist an Vanessa Emde nichts",
-   "source": "Süddeutsche",
-   "url": "https://www.sueddeutsche.de/meinung/vanessa-emde-linke-berlin-kommentar-li.3585568",
-   "time": "2026-11-24T18:28:04+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "بطولة العالم للشطرنج: بطل العالم جوكيش يسحب دفاع برلين ضد هجمات سينداروف",
-   "summary": "في المباراة الأولى، يوضح كلاهما سبب لعبهما للحصول على اللقب العالمي: بطل العالم في الشطرنج \"غوكيش\" ومنافسه \"سينداروف\" يخوضان مبارزة من الطراز الرفيع. رغم ضغط الوقت \"المخيف\".",
-   "title_orig": "Schach-WM: Weltmeister Gukesh zieht gegen Sindarovs Angriffe die Berliner Verteidigung hoch",
-   "source": "Spiegel",
-   "url": "https://www.spiegel.de/sport/schach/schach-wm-weltmeister-gukesh-zieht-gegen-sindarovs-angriffe-die-berliner-verteidigung-hoch-a-1736af5a-6811-4b0a-afc9-3373ecc7cf1f#ref=rss",
-   "time": "2026-11-24T18:28:00+00:00"
   },
   {
    "cat": "tech",
@@ -128,49 +586,13 @@
    "time": "2026-11-24T18:26:13+00:00"
   },
   {
-   "cat": "papers",
-   "title": "مراكز التحكم بالصواريخ والنيران: ألمانيا تعزز دفاعها الجوي",
-   "summary": "وتستثمر ألمانيا أكثر من أربعة مليارات يورو في دفاعها الجوي. ويجري شراء الصواريخ والمركبات لنظام باتريوت. ومع ذلك، سيستغرق التسليم حتى عام 2033.",
-   "title_orig": "Raketen und Feuerleitstände: Deutschland verstärkt seine Luftverteidigung",
-   "source": "n-tv",
-   "url": "https://www.n-tv.de/politik/Deutschland-verstaerkt-seine-Luftverteidigung-id31573218.html",
-   "time": "2026-11-24T18:25:23+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "الحادث: توقف حركة المرور بسبب أعمال قطع الأشجار - رجل ينهض",
+   "cat": "germany",
+   "title": "منطقة روستوك: حريق كبير في مصنع يارا للأسمدة في بوبندورف - للقراءة",
    "summary": "",
-   "title_orig": "Unfall: Verkehr stockt wegen Baumfällarbeiten – Mann fährt auf",
-   "source": "Zeit",
-   "url": "https://www.zeit.de/news/2026-11/24/verkehr-stockt-wegen-baumfaellarbeiten-mann-faehrt-auf",
-   "time": "2026-11-24T18:25:03+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "مدونة حية في ألمانيا: Emde: حملة التشهير الإعلامية كان لها تأثيرها",
-   "summary": "فصيل اليسار في برلين يستبعد فانيسا إيمدي +++ حزب الخضر في برلين يرحب بالاستبعاد - حزب الاتحاد الديمقراطي المسيحي يتحدث عن \"تضحية البيدق في الطريق إلى السلطة\" +++ جميع التطورات في المدونة المباشرة",
-   "title_orig": "Deutschland Liveblog: Emde: Mediale Hetzkampagne hat Wirkung gezeigt",
-   "source": "FAZ",
-   "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-emde-mediale-hetzkampagne-hat-wirkung-gezeigt-faz-110093143.html",
-   "time": "2026-11-24T18:24:11+00:00"
-  },
-  {
-   "cat": "lebanon",
-   "title": "عون: 60 عاماً من الارتهان للخارج لن تنتهي بين ليلة وضحاها",
-   "summary": "",
-   "title_orig": "عون: 60 عاماً من الارتهان للخارج لن تنتهي بين ليلة وضحاها",
-   "source": "الحدث",
-   "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNNFhCam5QMTh2N3JmU1cyYWd1am9iODdtRmVyWkVTN2E2N2pHVGJCZFQ1SkxnS3M1RVRYN3NDUmxqd0ppb01mRkU3Zm9ldDNXRV83UlpXb2xDS3F1T3RqOURfVzdlUVBlS0VfcWxGbjhCS2FQZ2FUMlYxVC0zWUtMNjJGNUdFZmRQSkxCcXdZZFlGTmc3YU5wX2dMZkFoTXZTeGFTYi1xU0dPdndMX2FvSlEzWWFPb3FONnNET0ZHY3pHajllc0JWdi1LMktwY1hiM0d6RWxCWklPeVdDb21HXzZ1dHluVDZrN3B6RlFrLUwxendZR0hOMVNIdHZDUml1cEtzRGNlTl9SczJxbURKd0RfeXplQUdSaVJoOFg1VW8weTVwYzZDbzAtcXFvY1F4RFBlbTQ2TWJFdDVfRFplQzQteGtaSGlxaWpEb2lncUg2NGlkejZsdVZXSnNJVHV5T1MxaENPMGdtc1Q0TjVoZ2pkTm5kcGRlVTNEdml0Q3NLRk9OdUt6eEFyTWQ4Tnc3VDZESGd4am10aTJMRlpYVWg5Rm1BV2ctM0Vuc3d4ODJ3Yndicnc1ekdzWHFfTzRuN25jTTdYbk11a2RSMUp1b1RlM1BfYzJhYjJzeUZQV1ZTUW4yRE0w?oc=5",
-   "time": "2026-11-24T18:19:00+00:00"
-  },
-  {
-   "cat": "tech",
-   "title": "الذكاء الاصطناعي يحول حركات الشفاه إلى نص مكتوب",
-   "summary": "",
-   "title_orig": "الذكاء الاصطناعي يحول حركات الشفاه إلى نص مكتوب",
-   "source": "الهيئة الوطنية للإعلام",
-   "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNTzdhdmVhbzN3U1ZkYWtpaFJLSktLUFQtUXVMWXE2RWVrTEdsS2dfVGJURmxzOTZqdkQyREowNS1nRU1FZUtEUEtFa3M0Z1JfZjJUZ3JKa09JczVWNHFKb1R3cGtlb08zWFZYem85UW5QUnViVVdneDZuOGgySkpVN19kZ05iM0xOX1huRWJGM05acTRrS1hWNFJwZ2lGQ2E5eF9neUZyNGtHMzlaZ1JRVDE5VUlpeFRQUjJHVGVTOGhQLV9LbFBzYnpQZ0VkUEM3Zzhhc3F2SnBMOVM2MWNyY0RxbThERVhCRnNIN0FyOXBIWDZSSjdUanRJTjF2bDF3MmUyVlJKRkdhTkRMcUJDRHFOSHRlVnBzM0JkWFVWMU1sM2Z3d1c0SzJaUkxWODdQRVBHY1JXY1hVRHZYYlNsSkRyTHF2VlRjQWhRblJQbm55b1lvTUhHX29WdVZFeXdJeDlQT3RqSnRGYW5IelpRZEltOFpQVy1LSmhjTVMxaFRfMmxpSDd4YVdDSHBpWDV6S1lpWVhCbUZDTjVGdmpkSW1jVDJGN3hYekZKYVAxR0pUT1phQlRfNHNobkc?oc=5",
-   "time": "2026-11-24T18:16:00+00:00"
+   "title_orig": "Landkreis Rostock: Großbrand im Yara-Düngemittelwerk in Poppendorf - Ticker zum Nachlesen",
+   "source": "Ostsee Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaW1EWnBMaklfQWJKMnlxZ09UYkhwRTZWRTlIM0Z0cHM5X0hSVmZaRm1LdnlzUndUTkRIRjZCS0FpWFliZUMyOVpmMl9IZU9FSUpsQmxtRm9CSm9VS0ItTmw4ek5jZi1KLXBZcEE3cTJDenVtSWdfSVJFZ0IzYzVfcl9reXJpc3JocW45a3lGSTFCSGFDNF9uUFcyMGlHSXVhUVF5YXdNT05zekZjb25xVXFDOXFNaGxsbWp3RHMzNnNqRzU0bUduT3NTckNpQS12X1ZHOV90bmh6ckxSU09nUmdFXzVDR3fSAZoCQVVfeXFMUHN5V0ptdjVQMHRQbnhkUTRiTmFFeTh3WXZGS0s0bkpOMWhMMThDMTIzcHZoUG81LXZBWlM5TnJiTG85Tk5oYms0MXhCQ3BxSVV2RkQ0aHFpbTJSWHZJVXMxQTFPd2hlT0lya2dXNFg0ZTFla2JCQzhWRWJWeWtGbGp5eUVldDhHNWRLSGY3dGlUdDRPOV9oajZCZmtRNVN6SVM5WnpSZlJiRkhiNElQYU1EVlBJT1JpTlVqYlJIMDBfTllpVy1NRnlGNS1UMUlrbmc1MTRYV2VfRE5yRFBMMUt0dmN5TC0wT09zanNKZ24zU3NNeEFhWVhoc256QmhZNUpPM0dRbnNaODFUdnFtdzNnVmhWLUQ4aldB?oc=5",
+   "time": "2026-11-24T18:26:11+00:00"
   },
   {
    "cat": "lebanon",
@@ -183,30 +605,12 @@
   },
   {
    "cat": "papers",
-   "title": "الاستبعاد من المجموعة البرلمانية: إيمدي خرج، والتطرف باقي",
-   "summary": "واستسلم الفصيل اليساري في برلين للضغوط الخارجية. ولكن يتعين على الأحزاب الأخرى أن تستمر في التساؤل عما إذا كانت تريد الانضمام إلى كارهي اليهود والشرطة.",
-   "title_orig": "Fraktionsausschluss: Emde ist raus, der Extremismus bleibt",
-   "source": "FAZ",
-   "url": "https://www.faz.net/aktuell/politik/inland/emdes-ausschluss-aus-der-linksfraktion-loest-das-problem-nicht-201714240.html",
-   "time": "2026-11-24T18:07:02+00:00"
-  },
-  {
-   "cat": "papers",
    "title": "مدونة إخبارية حول انتخابات الولاية: رئيسة الحزب الاشتراكي الديمقراطي في برلين: \"من الجيد أن اليسار قد قدم الآن الوضوح\"",
    "summary": "يرحب ستيفن كراش وبيتينا كونيغ باستبعاد إيمدي من فصيل اليسار. بالنسبة لكراش، يعد هذا أحد الشروط لتشكيل ائتلاف أحمر-أخضر-أحمر.",
    "title_orig": "Newsblog zu den Landtagswahlen: Berliner SPD-Vorsitzende: „Gut, dass die Linke jetzt für Klarheit gesorgt hat“",
    "source": "Süddeutsche",
    "url": "https://www.sueddeutsche.de/politik/landtagswahlen-deutschland-berlin-linke-emde-fraktion-ausschluss-spd-krach-koenig-koalition-li.3540501",
    "time": "2026-11-24T18:04:45+00:00"
-  },
-  {
-   "cat": "lebanon",
-   "title": "\"لبنان القوي\": لا سيادة بلا تحرير الأرض وحصر السلاح",
-   "summary": "",
-   "title_orig": "\"لبنان القوي\": لا سيادة بلا تحرير الأرض وحصر السلاح",
-   "source": "المركزية",
-   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNQ0RmTDV6R01wYTVoWlFxejM1enJ4Yl9NME9NYzVyT2F3VzRDQU9ERXJYMGQ3LTVIWWhuN0xVTkVfWHR6Vy1pTWJrUWNHREUyNUpuWnBTQXhzMHVDWDJJdXc2Ri0xRFhXOTl3WUVUOWpVSDlPNkFzMUQ3TjVNenhMbk5sMXdlVEE1UnB1SzBUWGdZWVlzcXQ1Q0ItV2Z0eWNPRmhld1drc1FLelVjR3NYa2JTQml6ZWdxSUZ5VjV6RmlPbnJpMEJhR2NwTkxSM3BrNzlWRmdaZ1ozUnNKX1BjUkRrSTVMU2VOQUYxdEdsRWZSU3dHLXBkR2F2Vk90TTN5VGRiNW5KZU1LeG5DOHd2VXZTc1hQQTJSaFhZMnhkd0JPbXBoMWZITE5vTXEwS2I3YUdWaHZ0WExPZw?oc=5",
-   "time": "2026-11-24T18:00:27+00:00"
   },
   {
    "cat": "germany",
@@ -216,7 +620,25 @@
    "source": "WELT",
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQQjhGTm55ZTRPem5vMVVSRHQ2OWhJLTlBZ2Z6Mnd2VWh2MTRNMmhXdUJyUlNaX21DM1B4NGZHXzZOeldYdzZQeEZiZk1TR09mNUZHS1dKY0xXVXg2QlA5dUFtMVlpS1lEOTY5VFJORk5xOXBSWmRqVjBHWWZtMlduSndoSlVzdE5CaVgzWUw1ZFFmUWhleG5pY29zYlJYZ0ZfQl9QSGhmODlxNXUxR0tVa0NIMFNmaVJpakU0cC1BUVUwWEM3aEQ2ZF92QWw2cUZoZzJ3UFpsS0NsX19wYXhtcHJYQm5yOGtDbmFCOWNNdXgwal9FNEF1ZWZZMVQtbHBZbGZ4V1FhUGdIU3RvT19Qd21VVUpHU0p5d1VOZA?oc=5",
    "time": "2026-11-24T17:54:52+00:00",
-   "more": 2
+   "more": 1
+  },
+  {
+   "cat": "germany",
+   "title": "شبح الحرب النووية يصعد إلى الفضاء.. تحقيق ألماني يكشف استعدادات روسية",
+   "summary": "",
+   "title_orig": "شبح الحرب النووية يصعد إلى الفضاء.. تحقيق ألماني يكشف استعدادات روسية",
+   "source": "الجزيرة نت",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNVTBWT0Jyc3dMUkk3SENtNWtBRzI3Q3hOQ0lsX05qYmlBWVBFVXlYR3htTk9ucEhGNXk5Z255eUNlSF84MXdTZnBZenQzTHNzLURfcmZqclJycllxWlhoSXZnSDg2ZTRsU3RzSUVXOTh1MUN1RDdHS3lKNURjaU5FbVdYclNYcnRjVjJiVUw3NVR1eVhrY2JLM2FaZHJGQmRUUWpNMjRSN0pMaC03ZEQ2OGtuVUJPREQzRXpJeTJBdlRBaUtpV0RtQlhpWGJINnBwY2h5LWJtcm1EZE5Hckw5REh4ODJ3VW9oaGxfdVFJOWc1UmlLYTRpT29GeXFCUk9XcFZQQW1ERnhBOVYxejBGVVVGNUo1MnV3V21TNlVIZnBBaWRwNGloOXFQTUYyRzlyYXZGNVM2VkhHN0Q2NVZwVg?oc=5",
+   "time": "2026-11-24T17:53:25+00:00"
+  },
+  {
+   "cat": "lebanon",
+   "title": "لبنان القوي دان اقتحام الجيش الإسرائيلي مدرسة دبل الرسمية واستغلال التلامذة في الدعاية للاحتلال",
+   "summary": "",
+   "title_orig": "لبنان القوي دان اقتحام الجيش الإسرائيلي مدرسة دبل الرسمية واستغلال التلامذة في الدعاية للاحتلال",
+   "source": "Elnashra",
+   "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNcF9kZTFVa0NZQzVsdFhMOVF3WjRRc2t3UnZfVGFPcHlvQm1CUGZ6aDNBNVYtaVhQeWhlRjVQak0yNk50XzFJcVN1UDVlZGVYZTlOY3BJYjh5RW1URnhPdkhJYmdiaVpCNUYwN0UzOGotbEVaNVlqNnRxa3luT3piSExVUFlQTlBLU2lDaUJLdGRSanN3MVI4Zy0wQmF5c2ZVS3BwcXllUUNkTW9Ra3k4MGpldU1GVjlwY2V3RGNURzBZekRrNFFNSXBTN2lkQWgyWmtVd1hMdm16TkNjNTcyaE9tYW9NeS1zSUVTOVhpT0RpZm5VWGtaaHFRVE5rcmlHbFozMi1xYko3ZXVWNGREOFhYS3NXWTZ4V3BrSjV3aXREM2t0bmJMaHFLUWJGa00xbWdDQjB4eWJPWTloRDMtYUZISVRiemN6bHNLUFE4LWo0bXI1Mk5xNWwtTzFSTFB5bEFBS29DS0dwVHMyV2F0WXVOX0FUVzN6dGRmN2xVY0pJeVMwNGUybUE5bWw5Skhrb1EzcWxXWmFiOGtab096ZkZmcXdxU29qOUJrQkswVS0?oc=5",
+   "time": "2026-11-24T17:50:37+00:00"
   },
   {
    "cat": "papers",
@@ -246,13 +668,22 @@
    "time": "2026-11-24T17:43:00+00:00"
   },
   {
-   "cat": "papers",
-   "title": "أجهزة iPhone وiPad وMac: يقال إن شركة Apple تخطط للعديد من الأجهزة الجديدة لشهري فبراير ومارس",
-   "summary": "من المرجح أن تطلق شركة Apple مجموعة كاملة من الأجهزة الجديدة في فبراير ومارس. يتضمن ذلك في المقام الأول عددًا من البدائل الأرخص مثل iPhone 18e أو جهاز MacBook Neo ثانٍ، ولكن من المتوقع أيضًا وجود Pro.",
-   "title_orig": "iPhones, iPads und Macs: Apple soll viele neue Geräte für Februar und März planen",
-   "source": "n-tv",
-   "url": "https://www.n-tv.de/technik/Apple-soll-viele-neue-Geraete-fuer-Februar-und-Maerz-planen-id31571077.html",
-   "time": "2026-11-24T17:42:03+00:00"
+   "cat": "lebanon",
+   "title": "كاتس: إيران تطور أسلحة كيميائية وتخطط لاغتيال ترامب",
+   "summary": "",
+   "title_orig": "كاتس: إيران تطور أسلحة كيميائية وتخطط لاغتيال ترامب",
+   "source": "الحدث",
+   "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPZGVESUxjb1JnSW90Mi1QN1Jzekl1cGVCTEpnUXdJY1B6YW9CVElTT3JqSnlZakY0VlROaXdqbDVFckVmajl0RExGU0VPaF9kM21wRVh0cTdzYWEzYURVc3ljWDRyekVLWl9PWnV0dUh2bVd5SE5LZGxMcmhremZiYTgwWkxIdWVkX2RCay1zeHUyVlViVkE3YkdiQ3ZLdHdnbUR5OWNuOW9Ea1R5aVk4eGJkc0o4WDZ6c05VR2pvd29uM09mNEY5X2c0LUhsMGxMOFlNY1JnWlpqU2YwMExLRk9JZGZ1NktuRUNpOFhBaWMydHRqVHBubG9iMHZrUlZNZk42R1ZFSEpvTEFIRHY4c0hRRzNwX0NXVGRUMVpHYXNhU2FDeW1VUk1OOHR6eV9veVJCY2xfbFJXS3lYUzh0UzRVRVY0M0NuTzlDVkJPQ1A4LWxnMWdKU1BKTkFjbUg1UER3M3pZVmFRNzU4NHFWbG90czB1YWhPQ2loazJTMFRhUk5CV0ZmWng1aEljRmJXME1JdVEwaE5kcFpLSUdRQmhHX2RISGRmcHpfQXRn0gHoA0FVX3lxTE1IaUptTkhCMVlVdUFnN01NYzhLMFlyb3Izb0dPUkpFaVh4eU95OXhQSUE3WWhjMTE0QlJUNmJrTWdteGdwRGNKaElDWURIWjlPMm8wVWo3STluaU5lcDNtR1IzY3o3ZEhpMVBBck9naTIzQ0pOaG9fRE5mc1I0bGhKLWRJeTJoWFpBdkxtVGtmV0R1dkViRUtfVXZGS0sxUl82a1JVQzR3dWRmQk14bVlnd2VoMXVDYVFzdE1CNWxmN1hlNmRScmdMbjFROW82aFhzeWNhNHlYaFlNN2lhZU9JTkdnbHVJWXZjT1hrYUdLZHRrN3MzaEVxWmxNUl95VWd1NXQyUTRjc241dFRjZzd6SlVTOGhERDMtb3NmNzdNTjJzTTJOZl9fNlpHM1BsU3pFT1lPdXljVFVxSEZvUkFhQ3l2TmgySXlZamtkY3BSYm9BU3lMRHg1WTFiVUtDamIxVENBUkFVOXZxOGc5RFdSZjB4ZThRUUJOVVJNdE4yNndtQjV5Zkh4TUZ6Y1NIblRBRmRxNTlIVnYxcFRwQWk5WWJTSjlLalRyZTJ6aXBpdzBUYlpsMEhUdDlSZENZYWQ2NDJzbnozSnUyS2ZJb1FPcmU2dVgzZ25JUTZpMnJaczM1YmZMZEU2?oc=5",
+   "time": "2026-11-24T17:43:00+00:00"
+  },
+  {
+   "cat": "germany",
+   "title": "اليوم الدولي للقضاء على العنف على المرأة : ألمانيا تعتزم تشديد عقوبة الجرائم بحق النساء",
+   "summary": "",
+   "title_orig": "اليوم الدولي للقضاء على العنف على المرأة : ألمانيا تعتزم تشديد عقوبة الجرائم بحق النساء",
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxNZEYzTXFLTjlheHpEZFlLTXRGYks0OGFJODg0QVBPQUw2NkpDNFhPaVhwSlpaZzNNLVlYNTQ5WVFLQXowUkJQSGRBSjRxMFFSVWs3a0sweDFNN1ZXdmFlQnZCYVFTQ2kwS2JfRmUxZm84ZjdVNk8xU1U2T3MzZks4R1BHaFgxY3g5WWFjTi1EN2M4bTNBOW9LcjZEZTZXWEltVU1kUUw1NmdwLXljZWlnaWhxREJteGRmeWtUSUF4bkxTM2pwUlhIeGZGMk50dXNOTzdRMWVJWFVUa3ZHaFcwMEVLc2tsVURvam5nM2xCbVFXeU5PQmFPZE80YURMMjN6MnJ3dlVOQzRwcWJQOTYyWmNpNkdWNXhPd3B5RWxKeEpwQzJCQ3RtQ2x3MHVxZndhS3QwVzQ4MmlobTJoREQ1Y0Z4Z2J6WV90SE5EWTlRU3RtZlFDWjZ1RV9wOWZSVDl0Y192eTFIQ1VYdkZfMGZyQU9lVUdWVEVfWEFfQVZRUkFiWEI1Q2QzWkp5QzdaVkRjZ25heFZnNGhRd3RGNjFDSG1oUlZoYU84YXQycElvNEF6ejBHYTNKYzNwYXFLVWRXTlB1QS1Ya1JqUEhvb2xULXNYV01vZHkxb0NoRUxJZnBleHdaZHMyZ0gyejF0aUc3QUZXQXVSd0t4aVUxek1jQ0dwd2FZbi1EMWlqaFNCa1lyM0JnYm1ud1o4dFo1WEhWZUpqSDhNbFVOM01LOC01SDdiRlhJYWZmRHh0dklVa1N2TGlYdDJwMld6SERTNllma3ZvNHhMbk00WmJScUNyMGd4MWRKU0pCcEtkTjE1RmN0XzREYktVY3hja2hmU2sxZ3lYaU1NOWFQVWJXNURxSlpBR3ZkVkNIMlHSAZoFQVVfeXFMTWdoYm84cEZUVFRkLWw4a2tsX0h2U3p6UzhtREZta2JVVXRGU1ZKakZUbkF3STE5S1YxZ2ZNYUd4S1ZUWWlSUWJwTEdCMG9GWkIxdzZxNGJweVZySkxUcFlsd0lqdnR0VXdXZnBXZFh6QU5YRzZTblU4UTJzX2ROMjdsTnMydndqeHF1NkV3MHJPSnRES1RnRy1CNVhHVzlRaGo4b09HdUFwQ0JjTUFRMzZ0R3JqX0hMN1k2d1B0TjF2d3AzRFZvU0pRYzdGclFLS2djWEdsU2V1Ym44c3M0SHVkejVKRGE0Z3VqSFVhZnlIYkx1X0ZjR041elFBWGh4dG1HOUdscUtFUEkzQ1Z6UEIzbWxhUXVNUTJWS2VCREtZZ0s1WmEtS2hnVzNTTW1HbVVjd1A4WUV4X0hhaXBCM0F0R2VfS0QzUXNLNUVjWEtkSkJQbXNSMkhfTmhNSHlXZ3FKQ2VnbHRMdTl6dVdQM0Z6ZFVwSlFIa3BQbHROcWJnWlhTSHREZ3RONjVYbmk5WmxQUTNwSjZGLXJXNnh5RVUzZEFHRmFqdFJFbjlUSkx6aGNmZlZNTWJCN1BoZU80NGFIcC13ZjB1S28yeGk0M3pXamRNVW5lMG9EdF9ONnBaQzc2eHJWVEdlQkVRR3l6UXI2Q3NSV3NELTFOMnhpZkJRSVBFQV90cHMyY2lFNHJGYjdRNmVBU0dVRERnZVluX3RUd3p1aU5XODdtUm1VSDY2dlJuTWZkZERWS0g1bTh4N1o0TDFsQ3BGcVFYMW1GRG45dk0xMDhoaUV2b24wS0p3VjFfTXh4aWtaWm5LT0tBUG1pR3ZIbFdQOHlOazNSSmtZdk5EYTRHTEFybGE2UHRPNUttY2VySFZn?oc=5",
+   "time": "2026-11-24T17:37:16+00:00"
   },
   {
    "cat": "city",
@@ -262,52 +693,6 @@
    "source": "Konii - Digital Real Estate",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFJiLXJyQkY3ODJUN1luWUI4bGNDRHRVM1JPeGtCWFpzajR4TTdkYnhuazFhOFRZQW9yVFZENEdGeXk1UG9FQTVCX182QUdfVUVWV21lcFdONWVPT2ZxWXlEeHJ0SkF5cWtrS2xrckNDVXFJQ1JKNmI4bVR1cjhFeVNHai1nWE5pSnZpYkR1TUNkZ0ZwNG9rWlVTdkZuaWJsVkFGaUtHU2hELVU?oc=5",
    "time": "2026-11-24T17:36:50+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "اليسار وفانيسا إيمدي: أخيراً خط أحمر! - تعليق",
-   "summary": "قام حزب اليسار في برلين بطرد النائبة فانيسا إيمدي. وهذا يبشر بالخير بالنسبة للائتلاف. ومع ذلك، فإن سلوك إليف إيرالب مزعج.",
-   "title_orig": "Die Linke und Vanessa Emde: Endlich eine rote Linie! - Kommentar",
-   "source": "Spiegel",
-   "url": "https://www.spiegel.de/politik/die-linke-und-vanessa-emde-endlich-eine-rote-linie-kommentar-a-fd7bc979-aebe-4f34-97d0-baf23cb7b247#ref=rss",
-   "time": "2026-11-24T17:36:00+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "تشكيل الحكومة في برلين: نهاية إمدي – الفصيل اليساري يستبعد النواب",
-   "summary": "حققت إليف إيرالب نجاحًا كبيرًا في طريقها لتصبح أول عمدة يساري لمدينة برلين. تم طرد النائبة إيمدي، المثيرة للجدل بسبب مواقفها المتطرفة، من المجموعة البرلمانية.",
-   "title_orig": "Regierungsbildung in Berlin: Ende für Emde – Linksfraktion schließt Abgeordnete aus",
-   "source": "Süddeutsche",
-   "url": "https://www.sueddeutsche.de/politik/linke-berlin-koalitionsverhandlungen-vanessa-emde-elif-eralp-li.3585338",
-   "time": "2026-11-24T17:36:00+00:00",
-   "more": 1
-  },
-  {
-   "cat": "tech",
-   "title": "الذكاء الاصطناعي – الآن مرسوم أيضًا",
-   "summary": "",
-   "title_orig": "Künstliche Intelligenz – jetzt auch gezeichnet",
-   "source": "Thüringer Allgemeine",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWHZ3Y1hDUTVlR1phQkFYMHcyWUVDSDVaMS04elM1RERqOXhCZldwYjIxZk5FcG4wakNmR05vM1JjWllvZDNaX3h6bzZvQnpqZDloM2ZJeFpPTWNCTVRmNEsySGxUV1dqS3Y5WlFFMUlmeHFMbWduaVBwejB4MklTeGNwd3hYVnFsdWNaVWhnNHVYR3A1VUUxUGcyZjZ2Tl9BLW1xRXhzZmdEdWwwbkV5Vw?oc=5",
-   "time": "2026-11-24T17:35:00+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "سيلفيا هالر الممثلة الخاصة للحماية من العنف بمجلس المرأة الألمانية تتحدث عن أرقام العنف ضد المرأة",
-   "summary": "سيلفيا هالر الممثلة الخاصة للحماية من العنف بمجلس المرأة الألمانية تتحدث عن أرقام العنف ضد المرأة",
-   "title_orig": "Sylvia Haller, Sonderbeauftragte Gewaltschutz beim Deutschen Frauenrat, über die Zahlen zu Gewalt gegen Frauen",
-   "source": "Tagesschau",
-   "url": "https://www.tagesschau.de/video/video-1689174.html",
-   "time": "2026-11-24T17:26:46+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "\"هذا يعرض أمننا للخطر\" – ينتقد السياسي الأخضر خطاب ميرز في أوكرانيا",
-   "summary": "الدعم لأوكرانيا بين السكان الألمان آخذ في التناقص. أحد السياسيين الأجانب البارزين في حزب الخضر ينتقد المستشار ميرز وينتقد اتصالاته بشأن دعم البلاد.",
-   "title_orig": "„Das gefährdet unsere Sicherheit“ – Grünen-Politiker kritisiert Ukraine-Rhetorik von Merz",
-   "source": "WELT",
-   "url": "https://www.welt.de/politik/deutschland/article6b05b4a4aabf9675c80f3a9a/ukraine-krieg-das-gefaehrdet-unsere-sicherheit-gruenen-politiker-kritisiert-kommunikation-von-merz.html",
-   "time": "2026-11-24T17:26:20+00:00"
   },
   {
    "cat": "tech",
@@ -320,21 +705,21 @@
   },
   {
    "cat": "papers",
-   "title": "الرهان الكبير الثاني على الذكاء الاصطناعي – وهو أرخص بكثير بالنسبة للمستثمرين",
-   "summary": "وبينما يلتهم عمالقة الذكاء الاصطناعي في أمريكا المليارات، يعتمد مقدمو الخدمات الصينيون على نماذج رخيصة وكتلة ضخمة. يمكن للمستثمرين المحليين أيضًا الاستفادة من الارتفاع من خلال صناديق الاستثمار المتداولة هذه.",
-   "title_orig": "Die zweite große KI-Wette – und sie ist für Anleger noch deutlich günstiger zu haben",
-   "source": "WELT",
-   "url": "https://www.welt.de/finanzen/plus6b043fc839a3e8110f0e8966/alternative-zu-usa-die-zweite-grosse-ki-wette-und-sie-ist-fuer-anleger-noch-deutlich-guenstiger-zu-haben.html",
-   "time": "2026-11-24T17:22:03+00:00"
-  },
-  {
-   "cat": "papers",
    "title": "المواقع والأسعار والنطاق: ما يجب على عملاء Obi وToom الاستعداد له",
    "summary": "يتحد أوبي وتوم. يشرح خبير البيع بالتجزئة يورغ فاندر في مقابلة مع موقع ntv.de ما الذي يجب على العملاء الآن القلق بشأن متجر الأجهزة \"الخاص بهم\"، وما هي الوظائف المعرضة للخطر وكيف ستتطور الأسعار. تواجه الصناعة بأكملها هزة في السوق.",
    "title_orig": "Standorte, Preise, Sortiment: Worauf sich Kunden von Obi und Toom einstellen müssen",
    "source": "n-tv",
    "url": "https://www.n-tv.de/wirtschaft/Worauf-sich-Kunden-von-Obi-und-Toom-einstellen-muessen-id31572608.html",
    "time": "2026-11-24T17:21:03+00:00"
+  },
+  {
+   "cat": "lebanon",
+   "title": "إدارة ترمب تبحث استهداف قادة إيرانيين ضمن خيارات إنهاء الحرب",
+   "summary": "",
+   "title_orig": "إدارة ترمب تبحث استهداف قادة إيرانيين ضمن خيارات إنهاء الحرب",
+   "source": "الشرق للأخبار",
+   "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNRDZWb01NbExOLWtTYkVtZnNhVEJHaWlDTVpiWVQ3S05OdWlXUG1paXNjWHl2M0dHcWxGelpfME1jUHM2SThmUGhKT0tjYndTUFpudlhvaEpia2QteXB1Ym9rNGVRSjJLM25QOFJJdTZURzl3ODlLYzF3TEZCV0o1YzlOU281bUdHazdPNlpCOEdVTnNkVlphRVlEcXRQcVhxZ1JhSkl2ek9NeS0ycUZEYlZKdm9jZ05wT3V6eFFFb2g4VW1EZjh6eVA2cm1BS2pFSjgtYmwtZnN0enF5VHNNNHUzNWV2WUJxR09JZGo3cW1kM3hmNDNiWHhoRHdiRDRpcmJJeXVpODBJbmpYcElZUlhXSE9xS1k0RkRxTEh0UHZxQTlyZ2JJU0xRc1pHN01GdkJ4SE9fcHY4WXIyb0JMZ19kMlFtV3pSWjN5ZUFSZzUzNE9WZlh0c29LNGR6M3V5ZHhtRlVRdjRKSm02em1sbnpqVE9GT1BtUl9qNE5GM3ZIb0RIWnhhbTQ3OU1PclVUZGhOYkFJbjlVZ0ZEZWYwcXBTMzZkd1pZY2hSN0IyY2ROSGMzMHBhSjRRX2stTnZzTlhnaXFrdU4wbzZjRUREY0tXWG5DU0N0SWJDNkdzT0RPZDUzUG5vRENBZFpXdjgt?oc=5",
+   "time": "2026-11-24T17:19:21+00:00"
   },
   {
    "cat": "tech",
@@ -344,60 +729,6 @@
    "source": "Sonntagsblatt",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX3BhaVRGa09ZS3dlSjZmVlUzdWpLazcyanJUdFg1Rll3TzdQZ0x6V3VMWHQ4TFc1SDRMc3I2dUhvalgzN1VYT2l6eFBfLXZ1b0QwWFozUXZmclE0R2pDa1NwWjdxbTFNSU92bXQxRjJWOGpyQU51SjMtcGVuaVJTT2hsc2ZmU2pYblRJRUYxZDVkb3pPcDVoRW16R05DbDVEQ19CazNLWVRTeXBYeVVPWg?oc=5",
    "time": "2026-11-24T17:16:37+00:00"
-  },
-  {
-   "cat": "tech",
-   "title": "GPT-5.6 Sol وTerra: ستقوم OpenAI بإيقاف تشغيل النماذج في 23 ديسمبر",
-   "summary": "",
-   "title_orig": "GPT-5.6 Sol und Terra: OpenAI schaltet Modelle am 23. Dezember ab",
-   "source": "BornCity",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ3VzbGhaLUhPRlRpVXdPZmxPc3pkS2h0OVQyZXBaaDVZU1M0Q2VHcHl0b3dVMWZCVzk2YmxoVmVwMDBrSHMtQ3FIN0xqYzJwdmxpdzdEdTNuQTZWZDN2RDMyUF9vQlUzaW45eTVuYTlNbjBtRFlSU2RkVXBMZFZQbjllSGFrd25fZkhWNnZvSUU0MXNM?oc=5",
-   "time": "2026-11-24T17:15:05+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "نيكولا ساركوزي: الرئيس الفرنسي السابق متهم بالتلاعب بالشهود",
-   "summary": "ويقال إن نيكولا ساركوزي حاول التأثير على الشاهد الرئيسي بالمال في المحاكمة المتعلقة بعلاقته بليبيا. وبحسب ما ورد يتعين على ساركوزي وزوجته كارلا بروني المثول أمام المحكمة بسبب هذا الأمر.",
-   "title_orig": "Nicolas Sarkozy: Frankreichs Ex-Präsident wird wegen Zeugenmanipulation angeklagt",
-   "source": "Spiegel",
-   "url": "https://www.spiegel.de/ausland/nicolas-sarkozy-frankreichs-ex-praesident-wird-wegen-zeugenmanipulation-angeklagt-a-df561e45-eb2a-4aa8-a0c2-ca7b7ed09337#ref=rss",
-   "time": "2026-11-24T17:15:00+00:00"
-  },
-  {
-   "cat": "lebanon",
-   "title": "عاجل. - وزير إسرائيلي: بإمكاننا ضرب إيران بمفردنا من دون مساعدة واشنطن",
-   "summary": "",
-   "title_orig": "عاجل. - وزير إسرائيلي: بإمكاننا ضرب إيران بمفردنا من دون مساعدة واشنطن",
-   "source": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX3VxMnZxNHoxckdZYzNlMVg3bTJYSVRVektSSFY1U2tFdVFUTmtWSXhsSGhuWU9HZEE1MjdpS2phb2YyVkxIQlBBdHFDX0hHelNyOHVvQjI2QkhwVHhTcnhqNTRtMDBDUE5ua1g5YzNQS2IyUWdvNkY1UW05bm9MV2pBSlV1UmtYUC1YOTFIeUxxM1paWE9KY3lvX0ktQWVTSERvdE5KTjdpeWs1eVN2ZkM0UGxsV2VwNGh2TVo5Ukg?oc=5",
-   "time": "2026-11-24T17:13:35+00:00"
-  },
-  {
-   "cat": "tech",
-   "title": "مصر لتنظيم استخدام «الذكاء الاصطناعي» في المعاملات الحكومية",
-   "summary": "",
-   "title_orig": "مصر لتنظيم استخدام «الذكاء الاصطناعي» في المعاملات الحكومية",
-   "source": "الشرق الأوسط",
-   "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxOQUpHeE9vNzFjbFNwQU9tcVFNZ0JyWVZHdmhxM3JobG0yUzJkZ0Z0OW1WZTVmbk1WY2RCcFE5VFF1cUFDQjFrUlp5MG5LNnBLVlFzRkw2ZlZqNGM2T2h5b3VIWDRZeUJnOTNJUU9YNnE3ejJNbXJlZDkyNnplbEdaM0d2VHMwQkhKb2FrX2ZLZFJld1JwWVhmMGE0bjczMnV6RmcxRmhhdWxoZTdTcnV5WUlWNkVVQ2p1WUxEeXhoUThJb0tFWjhxd3p3aUZRSUNiWTJObWZOazNJOTJCZDJkbWNjWFlFaUU0YVZZXzlKWVdibDM5T09rUG1SbGl0ZDhOSnhhenBaVGhUcklxQnJ1ODZnUmdaZU5mQTRMdnMyOElBWllLMndyZmc0QzlJY2o3Z2VsUDYzQ1RtQ0JvbEY2OGhnZjE4cVBFdEFXTTF4QWNMbkZ0ZzFITzQ3UWZiaHBjNFY1T2tlRlBGQjlrUFJVNTZwNXozTUREbUhmOVhucTVlb2lIRHlMbDZTX200TUhzZ1hQWU1CdmtvclBvbU5WbnliZG0zaWN0eC1hVlVNSV9rZlFfcmFYcDVoakdEY2lmOXdkdjlFcEU1X2I4ZjlWdzI5Nk1QWFZtTlJmTzhPWjhUcExMb0Y2QlRCMHRxRWU3WjJQTnhxR2p3cFdVQ2k2WmpSS1dmRHJuV2lMYXhUb3ZDQ2lmbWdtLTVrS0N4LS1fUkM4bVJJdUNid0htbXJYU0c2MHNxVWlqdHRLUA?oc=5",
-   "time": "2026-11-24T17:12:19+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "يقال إن مانويل نوير قد ترك شريكته: مستشارة الأزواج روث ماركوارت بسبب مقطع الفيديو الذي انتشر على نطاق واسع",
-   "summary": "يقال إن مانويل نوير انفصل عن شريكته - وانتشرت مستشارة الأزواج روث ماركوارت عبر مقطع فيديو عاطفي. تشرح هنا سبب تأثير هذه الحالة على الكثير من الأشخاص.",
-   "title_orig": "Manuel Neuer soll Partnerin verlassen haben: Paarberaterin Ruth Marquardt über ihr virales Video",
-   "source": "Spiegel",
-   "url": "https://www.spiegel.de/partnerschaft/manuel-neuer-soll-partnerin-verlassen-haben-paarberaterin-ruth-marquardt-ueber-ihr-virales-video-a-e9912a58-40f2-4b6e-99ad-6860f367b92f#ref=rss",
-   "time": "2026-11-24T17:11:00+00:00"
-  },
-  {
-   "cat": "lebanon",
-   "title": "إيران تستبعد إجراء محادثات مع الولايات المتحدة قبل تلبية شروطها",
-   "summary": "",
-   "title_orig": "إيران تستبعد إجراء محادثات مع الولايات المتحدة قبل تلبية شروطها",
-   "source": "القدس العربي",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOT1pIS1VWUHc4WXdfc3paMnI0V0NIeWFvZUgzNFVlYnlRMjBxVHU0eno4d3lPTDdEcEkxLUJ6Q1QxQmg0Y2dkRm5TMjJqOG1paENjaTFNNlU1d2hsMndza0lvOEdMbk5FclVKb0x0dVBBNHhxNWp0SlhSS0M0MmNIc0ZxNTFPeEkzbGhGNkdOYjlVSGoySmhUbFRzblpubmZSdHUyOV9nRHVIbGRMZjVTdjlLQVhBd0s1WEhjYjZwRmJOaGpTNW9jdHE5aGRzYnZTQUVtanhZYTkwbDlyZldEYkthNk9Vbl9hQ09meHRmZDY0Q20tMjhVTkRfZ1NFdm02WGNiYk1KdWpZTFNybzhjRGRnZG91SnNEQlhnWG5WSlFHaDB5QVotZnVLZ0xXc1J0TTd6cVZiaTZNTVFaTGtMZEZuWXpoQQ?oc=5",
-   "time": "2026-11-24T17:10:49+00:00"
   },
   {
    "cat": "lebanon",
@@ -418,103 +749,22 @@
    "time": "2026-11-24T17:06:10+00:00"
   },
   {
-   "cat": "tech",
-   "title": "الذكاء الاصطناعي.. فرصة لسد الفجوة العلمية بين الغرب والعرب لكنه محمل بالمخاطر",
-   "summary": "",
-   "title_orig": "الذكاء الاصطناعي.. فرصة لسد الفجوة العلمية بين الغرب والعرب لكنه محمل بالمخاطر",
-   "source": "الجزيرة نت",
-   "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOSXRIcWxkZFZqQkdVVm9hRnBDVGpXQll6M3pTYzNXbm5FX0d2OXdPUkttSUFES25FaWFuWkNHTGFkdkVkYlVoaVRSR2hJTzY4S2lCc0JRNl9QalMwaFBfOGlfWURUOFRESmVBWm1EMFVKS2FMX1hxQ081UFcyWkRfWHpOQ1BjZkFtUU1VLVdNVklxb3BBQXhWMUpzQ2pxTWVUdU8yMHdjSnBjUVNWaDhHcnJ0QVRxMldTRHNiUmd6SEtZNHdIekptcVhveVVUUlQ2Z2dTcGtzYkdOWlpmYzhDOHl4WW0zOVhGZ21kN0hMVzVYbFVHRHo3SXZDLWRHWFQyeWlOWUlqdjlSM0tLcm5VV3Z4TWpFVXdPQXZPX0o5bUhCelo2aEpFNkV4bjc2NnFjRjhLYXVhR1hLTGcxMWY1U21xOUZFRFlTVGhmSjBWdlRYUnhrdUswN1AtS25Lb2JRQ1ZRaw?oc=5",
-   "time": "2026-11-24T17:04:55+00:00"
-  },
-  {
-   "cat": "lebanon",
-   "title": "وليد وتيمور جنبلاط في السفارة الأميركية: تأكيد مشترك على حماية سيادة لبنان واستقراره",
-   "summary": "",
-   "title_orig": "وليد وتيمور جنبلاط في السفارة الأميركية: تأكيد مشترك على حماية سيادة لبنان واستقراره",
-   "source": "صوت بيروت إنترناشونال",
-   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPMkxuRVctbDRudm5adkxRLTRYbm9GWDNIT1QtYnlEeHI1RVdTbWxtdHMxam1tWk1OWUZBb0FUbmtRX1pORTFhTy1DS056UVJMb2wyeTdlNm1nSWdXd3NQaU5xc2hNVC1iVlZqRkJxMDI0Ykg5cmNUTWxWOThzSHg5eVNPVXFuUVprQlc5dFlJdUt6ZEh1R2FTNEdhbFY3ZDV0b01KSm9uRWh0QkFoTzJxQm1BSEk3NjlNMjFZRkVyUVMtSGs3TldrYk1ZSEZTTjd4SUlsaTAxSTdRSzRBajZSZDdnVHRMTkJmWkswc1ZPZXF0ZnlHRDZvWk5xMDZSRzV6OXdsREZrTktrVHhUazdwc0pHWUItdWQxSVdBandNS013UHM5STFLVWVZSGpRTXJPSkNpaEk1RWJhWWNvSXo3akR1R1RNVzdiSU9sWUNOR3h0VjR4MnlrNDJ3?oc=5",
-   "time": "2026-11-24T17:01:55+00:00"
-  },
-  {
-   "cat": "lebanon",
-   "title": "مفاوضات تشكيل الحكومة الإسرائيلية.. مقترح جديد لآيزنكوت بشأن قضية تجنيد الحريديم",
-   "summary": "",
-   "title_orig": "مفاوضات تشكيل الحكومة الإسرائيلية.. مقترح جديد لآيزنكوت بشأن قضية تجنيد الحريديم",
-   "source": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2FMMTdRV29sZ0UxTnNSc0NQNlRub1pzTENDTE5KdU02SjQ0amdKWklJVkQtYnlNTmxfQXRPSGJCR2ttSWxWSTZVQzJ5d1BQbEtaQ0RNYU9kRzZTWDh6S2ExakZndGljUVlPVlBQR1R3enpjZWFKeVBhVTk2YXV3UGcwTDhHd1kwTEZCZTRDaw?oc=5",
-   "time": "2026-11-24T17:00:11+00:00"
-  },
-  {
-   "cat": "tech",
-   "title": "أنثروبيك تطلق Claude Ship لمساعدة المطورين على مراجعة الأكواد البرمجية وإصلاح الأخطاء",
-   "summary": "",
-   "title_orig": "أنثروبيك تطلق Claude Ship لمساعدة المطورين على مراجعة الأكواد البرمجية وإصلاح الأخطاء",
-   "source": "اليوم السابع",
-   "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxOT3RvOUdYWk4xRlhrdFFUcUZTUU1DMzZUZXR0VkdZSHdmeTE5UXF5N0tvNEdTaWdwQ1VLd1ptdzhZNEducFVic0xfMGVQQzBpb0RYbFVUM1ZXTEFWMTBJLTA0RHZzZXF3VFJ2Q01CRnlua0dhc2R2aHpjcnV1RnA5MFhrSDkxTmdoc0ZFbnBINkFad0NKbzRDdE9MYzVJQkwxdV9yYTBUY1NyX2JIRjJualF6STF2S21OVjdhZC02ZklrN204NzJpZTdmeDZjSzVuUHJJRTVwVElTUExWV3k0QXZEalUxV2lJU2hvWTBaZ29jUHRZRTJEc2IwSWxkVVdKOEhoMnlpdkF5Z2JfYUZKeVJqV05jT2dndDM1a1JrQlZXRzZzR0tLR0VYeHpJbEl3aUFrbVhHTkxrdDlJc2pGdFpaeV9lNFpJV2VJZjFNb2IxQ3hjU0xSNGN1bTdXU1ZoNmxsVjVlSGFrdS1LWkIxeDJnYU9MekJJVVVuUlNVR0FQa3hEU0RBSzhaOXVpSUFGVW4tLWdYbzZrdnZhM0xtLXJGWnB2Rmx1MGJ6WS1XdUFKeDlSaVdpcVBCOHgtazRZSUVpOXdCOHpwQXFqeWFqUU9vNjFOYUtmNUk0UFZaUHJUcVMxdXdSRGVRS2tVSHlqTno4TU9ZYkd4Z1prUHdQclNNWF9DZVRpbEE0NdIBhwRBVV95cUxQZG1qRkF2ZnlXWFBhaVhWRWFzeFFoaUxhdzZjMEhveS1CMUNheFFEVHR2UlZwd1hVVEsxN2txU0JXcHZVdnJKYW5wYUxvVTFsLTBROU9OQVMtelQtb0NIcmdkQXhmZV9yX0xPNElfS3BqR1RuODhVUVhKQzM0ZWNUNThwV0hoZ01GNW51OTJWTVQzQ3VSTTRrTHRVN2VNdnlKN3NDQ1dwNlphRTdzU2phdlJHRmJDVUhNbF96ZGUxcDQ2VXBxV0piRU1abXdCbC0wMFhlM2pzcThPYjJNWDBEbGRqcmtCN2RhaC1QSUk0MklSOWp6UE9JaXRtenZiU1VtU01EYVpLWU5jZTQ4R1VvVENRckhicjhuanVIb1c2UHNwU3Y4M1FJMWl2dnJwWWZwYjBMZ1QxQWtrNkQ2MjR0M2FFXzRQc3FIOTVGaTJ0bS12OHkyblpMV2Z1VDRaODRoaV9PT2hXWGZ3R2dUbkdERlJocnpQTGwwX2ZiQnIxclkwUXBTYjN0Q0UzX3RvdlVvTDdaWDVZQXFfUkJrRzRmMlgwb012aGhRN1hfVmxhMzhXbjhNMldadmVlUno4UEZQUWlQMVdIY3BzckZLR2wxdGswcVluaEliOElZSHA4VklnZEdFa2plaUZvYmx5cEZlSTByNy1KZVlvSGZ2NnNfcXhoblk5Rnc?oc=5",
-   "time": "2026-11-24T17:00:00+00:00"
-  },
-  {
-   "cat": "lebanon",
-   "title": "جنبلاط ورئيس \"التقدمي\" يلتقيان عيسى: تأكيد ضرورة بذل الجهود لحماية لبنان وتعزيز مشروع الدولة",
-   "summary": "",
-   "title_orig": "جنبلاط ورئيس \"التقدمي\" يلتقيان عيسى: تأكيد ضرورة بذل الجهود لحماية لبنان وتعزيز مشروع الدولة",
-   "source": "Howl.Link",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5fR2ZhU1lGcWowWjdfcFlMdUdVaGs3cHQzUmxjZUlXN3lpeVBNNFNrcG1oelR4QXZFM1pJ?oc=5",
-   "time": "2026-11-24T16:56:59+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "فيليكس نميشا: خبير ينتقد عدم البعد عن \"الكرة في الله\"",
-   "summary": "يتصدر فريق بوروسيا دورتموند جدول الترتيب، لكن احتفال فيليكس نميشا المثير للجدل بالهدف لا يزال يثير الجدل. ميريام فيدمان هي خبيرة في الهياكل الدينية وتشرح السبب الذي يجعل إيماءة نميشا مثيرة للإشكالية.",
-   "title_orig": "Felix Nmecha: Expertin kritisiert fehlende Distanz zu »Ballers in God«",
-   "source": "Spiegel",
-   "url": "https://www.spiegel.de/sport/felix-nmecha-expertin-kritisiert-fehlende-distanz-zu-ballers-in-god-a-ee54d84c-a1b8-4c63-a2ca-cfc594864174#ref=rss",
-   "time": "2026-11-24T16:53:00+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "\"لسوء الحظ هذا صحيح\" - سفينة الجريمة ARD تغرق في فيهمارن",
-   "summary": "غرقت سفينة صيد، والتي كانت أيضًا دعامة في سلسلة الجرائم ARD \"Nord bei Nordwest\"، في فيهمارن. الممثل هينرك شونمان متأثر عاطفياً.",
-   "title_orig": "„Das ist leider richtig“ – ARD-Krimischiff sinkt auf Fehmarn",
-   "source": "WELT",
-   "url": "https://www.welt.de/kultur/article6b05b9c1cd4642ba2eb16b64/nord-bei-nordwest-das-ist-leider-richtig-ard-krimischiff-sinkt-auf-fehmarn.html",
-   "time": "2026-11-24T16:51:48+00:00"
-  },
-  {
-   "cat": "tech",
-   "title": "ناسداك: أسهم إنفيديا وأنثروبيك تخسر بشكل كبير",
-   "summary": "",
-   "title_orig": "Nasdaq: Nvidia- und Anthropic-Aktien verlieren deutlich",
-   "source": "DIE ZEIT",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTnIyOHg5V3A1RGRieExUUzZ4SmNVZ1hScG5IMy1GR0RUV2JtckZEbmVDU3hkRXNVMXpKUlNCbnVoQzVrZ3AyWTgzdWdmX09wdncwRndYcnFXa091WmhTc2dOdkVKZUVNVURKNENKSVFpQUZoT25mNnlkYU5SdW1Jd2hpRzB6MnM?oc=5",
-   "time": "2026-11-24T16:51:12+00:00"
-  },
-  {
    "cat": "germany",
    "title": "«إكوينور» النرويجية توقع اتفاقاً لتوريد الغاز إلى ألمانيا يمتد 18 عاماً",
    "summary": "",
    "title_orig": "«إكوينور» النرويجية توقع اتفاقاً لتوريد الغاز إلى ألمانيا يمتد 18 عاماً",
    "source": "الشرق الأوسط",
    "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxQTlhmQzdTRGRPQmxLNjF1WGdiMTlDNmNDRnFuVFp6NnB3VzdWR1pORnhIQVREZFIzX2NfMU4wc1cyYXBHTlZxSldjY0NDelhLMjdiWFRpQkRyWEZzeGRUWDliWTZRcGxELVhWUE9sRFBJNjVyM0JUaU5zb19wcWpUZUxtOFJVOW9DNlVtZ3VMYmRVbmVXZktIQ3NhbENfd3BDMjU0Vm1ma2ZDTFdGcDVBTFNGVnRiSHVEZmV6OXl0UExQWjhwVG9KYnJ5RmU3cXpsODhRZnU2UDN2Y1BjRjdrZVlGaE1qVU9GZThuaHJublFuRGpxaWVLR29oVjZiTEkxSzRnTGRzSms0VC1kd25hcUpYbFMteFRnNE16ek9EdXMtbFIwUDlzSUFrRk1GREFlaXBpM0tzeEE5RmdyTGNtVkl6bnNYeVdySEFNTFdfSUt0c0lxYXgxTFVMR3lwYy1ZUXNRbnRnOHZ0ZHRYOHY3Q3FOdzJfanFPYWJnUlhwUWVIa0xZRlhhekhrYXNYSUlmNFRFcTIxbXE4ek9LZ0Y5NkRSNmhIekpsbFZuYUVoc2I1MEJWRHlwSkdxbE1rVVU3bk5kRkRkSG1sN3NQUFQydlZxNS1wTmtONHRRQ3lyVGphTlV1MXhZLWUyQ3g2aUpYRkRSYllqT2xwRzZ1Qmp4WmxJUkJVQkhYd0ZjX1Z3ZmhQc2JhT0RfYjVUMFJjVWlzN2VwWWYyVWxZRVE0TktlUGx6ZXNIRXJEbW1PU3NQSzYxMmpnQ0RJZGRvV1Q0V2VJUjh5dVdBNWQ0QQ?oc=5",
-   "time": "2026-11-24T16:50:17+00:00"
+   "time": "2026-11-24T16:49:29+00:00"
   },
   {
-   "cat": "papers",
-   "title": "سلوفاكيا: البرلمان يلغي حق التصويت البريدي",
-   "summary": "وفي سلوفاكيا، لن يكون التصويت البريدي ممكنًا في المستقبل. وقرر البرلمان ذلك بناء على مبادرة حكومية. هناك بالفعل انتقادات من المعارضة.",
-   "title_orig": "Slowakei: Parlament schafft Recht auf Briefwahl ab",
-   "source": "Spiegel",
-   "url": "https://www.spiegel.de/ausland/slowakei-parlament-schafft-recht-auf-briefwahl-ab-a-2aebe440-b023-46b9-8e19-e004ccbb2768#ref=rss",
-   "time": "2026-11-24T16:45:00+00:00"
-  },
-  {
-   "cat": "germany",
-   "title": "أخبار أوكرانيا: السفن الروسية \"أهداف مسموح بها\" في كل مكان بالنسبة لكييف",
+   "cat": "lebanon",
+   "title": "مستشار وزيرة خارجية اليمن: حزب الله بدأ بنقل أنشطته إلى اليمن",
    "summary": "",
-   "title_orig": "Ukraine-News: Russische Schiffe für Kiew überall \"zulässige Ziele\"",
-   "source": "MDR.de",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV0lUZDIxZlpsNy0xdDJDVS1UM21pYUM5SGFHcmxyVHB5ZWRFdHBPcUxIR1BOQmQxZ1RKM2YweEVDTU1UcEQ2VkZOeEplSjJRY2FNdms5ZEZQcWhPQTFFclZGMVY3emtWQXJ0Y0dTOHpWQWdlLWZYa0ZNRmdUUDJLQzRvNFZuZVhYeUFTbndfRWdDU3VRUzdqa0RmdGQ0Nkp4d0JOSFpHTnZCUDJJUjhpZlRwblF6bXBXS2thcmtB?oc=5",
-   "time": "2026-11-24T16:37:43+00:00"
+   "title_orig": "مستشار وزيرة خارجية اليمن: حزب الله بدأ بنقل أنشطته إلى اليمن",
+   "source": "العربية",
+   "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNWHBKTE0wcDVIWWxWRXE5bHEweUVNdWI1SVVTeDRNSDRwbmZyaUFTOHJLMXdVWHlGSzVyRnVCR3FhQVd3Vi1ONlEtNHdLcERRN21nSkUtaDJ5Nl9kdUZpMUlxWEpkQzcteXBnMjlsMGxhdnNPOXMyOGVQVG1TcHRSSDNJZjJHZ2t4NEVDSmUtWFpudFVQNVZqemRRWmlHNDlZUW9ZYWRPa1NzbzVOanlfNmxRaWRVb3ZDOGtwTEJCdUxDM1k0Wm16XzBURzNLbWRnN2VfbVFJZXMwRzlJSGFHd3NicmhMUHFNbVZGU2VPR055RUNyZVlZUEtydU9SOHo1RzBRVTFURFRNdW9BNmdqN1pKVjZvR1hEUTBhWEVNOC1wS21TaGU0U1NzWXhYcU5adEJLNDczb3N4cnAwNE8xY3V2MUpzeVZLYVN0ZkgwMmNzS2p3NTVqb1B1MUNBTlJFdkgtZE1IVFFiTXFXZUZreVI3SzNTbUlkMmN0Um5yM3NQY3dlMDRZbi11cnZ5b2JreXFZcFBjemNhT2k5WFh4Q21Zb0FMb1ltLWl4QUNRbmFjM0wyVkVrZlhOM0NWX0dCN3NKRUx2ZmNjcHVlc0ZpVWNtSjh3RlNuOEN4SzFYTzVHRllzMmV5VjVzQmZJZEpydUwxZDFaRl8ybDljU3dLQTluUzNzSlUt0gGOBEFVX3lxTE9LV3duWWp6Vk9qZUxub3VaajBuOGZidlBpMS1sM1F4bllLSF9BOVNKRFZjU25DOHl0RndISkUxV0lFVWNaNzZaSUltSHdLeWQ4R3YyLUgwdXZIOGQ2V2RvOGluZlREUkNrQlc2WmJTYlVTcFU4OXprdlpqQkxWcHZxajVJQm5rZ1I3UlV1REM3RkFuQldSaU1kLThXbG8yQVdJajdhR1QyWnllTXJBSGxjOGVLel8wVHptek8xaFNUemFtQmVhZnRCc2ZLUHo1X1lKaXBtcUktU0ZUVHlxLUZsM09yOUN1d0tYbnB1R1BIODRXd1FJNzhOOGRRdUVLUTlRSkhVMl9wVVlSWFFaa2pFSThTdU04TU9zWnZ0LXRMSzZwa3l2Vng4VlhXQktHRzFOUDBQem9XdVlHQWVrYW9xM2s0bVp4Um5NU2ZhOVJtVExlV0Y4LVlGUFFPQ3JZLWl6VXUzd0JKd2VwRWZOaHhCd0h6ZVMtSGpZUHZud0lIMzBLcVBWMmx1ME1WcDNxbUNjV2Q5SjF1WkdOdWpuaXhOS1FpbWt3UGJ5emJUY0xCQ3FaUGYwSzV2djFnTndtM2VyTzZyNTJ2Y0hQMWhkNlQwTW1XVEN6cTB5bmU0VnRscUluTm1IZlp1NGkzbkRfS3BUaExYNjhDUkV2QWpYN29TaUlTMGpaeTZLRnpZLXc?oc=5",
+   "time": "2026-11-24T16:46:00+00:00"
   },
   {
    "cat": "papers",
@@ -526,49 +776,22 @@
    "time": "2026-11-24T16:37:19+00:00"
   },
   {
-   "cat": "papers",
-   "title": "وسيكون هذا هو الخطر الأكبر من قنبلة موسكو الذرية في الفضاء",
-   "summary": "يقال إن روسيا تستعد لإطلاق قمر صناعي مزود بقنبلة نووية. وبمجرد وصول سلاح بوتين الجديد إلى الفضاء، يصبح بوسع الكرملين أن يعيد البشرية نصف قرن إلى الوراء.",
-   "title_orig": "Das wäre die größte Gefahr von Moskaus Atombombe im Weltall",
-   "source": "WELT",
-   "url": "https://www.welt.de/politik/ausland/plus6b0558497ad921347676008d/russlands-drohung-das-waere-die-groesste-gefahr-von-moskaus-atombombe-im-weltall.html",
-   "time": "2026-11-24T16:29:36+00:00"
-  },
-  {
-   "cat": "tech",
-   "title": "اختبار Siren من Anthropic: هل ستخرج نماذج Claude من البيئات المعزولة؟",
+   "cat": "lebanon",
+   "title": "لبنان.. عون وسلام يبحثان ترتيبات مرحلة ما بعد \"يونيفيل\"",
    "summary": "",
-   "title_orig": "اختبار Siren من Anthropic: هل ستخرج نماذج Claude من البيئات المعزولة؟",
-   "source": "Unite.AI",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOFRoa1NfM2c1b2hBaTZlRTBZZGFZendVZ29JcFU2bnBod1IteWl1bllFb1dYSXpJMTFhSm9UZFM1Y2FneUdLLXVYSGczeEcwSTRSaGJkQjBQMkdYaEF1dDM3RlhfZmRPa1RDYVNPTmV5RG5Kek1kTEFtU0R3YjhiREstQjc1Tzhnd2pyUGx1N29DM1pvRWc?oc=5",
-   "time": "2026-11-24T16:24:02+00:00"
+   "title_orig": "لبنان.. عون وسلام يبحثان ترتيبات مرحلة ما بعد \"يونيفيل\"",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPMEk3LUJNQ24xNGxObmN5RUxsQ29xR1MwcnFwZ1ZObDhaUWd0WlJQeGFaUkxMYjl6bnlrWTR1em5Ma1h0RGs1ZEMyc0RacmMzTlA3NEpzdnQybGxZQkktMzJsQmlzdC1mNkZnQ2dSX0JKY211dnJIM2dRZ0RGeThxV3c5eXpNeGtMYVZsZGhBNloyUzYwSTFnYmVQSEZlUWpwQlFleUhTc0t5Z1RPMFJyVWw1OGJ2ZXlGd1FIbzA1RktXc0IxUG1DYlYyMmk4cjBLZFVSelJQbjFTLV9wYWRoRjUxMnRWVUJfcXBzbmN6dno2ekVyTFBid0pzQUktRldJQXhxQURFRE1wa3F2VFB5cW9sSHZlWkFGT1NJbkNOMllDZWZuN1l5bUo5U3lTbjE3djQxZU45Z1g3WjV0ODdzNlI4TWw1NVJtTVNCdFVhY25uSFBVRFhKUVRvUWNzdDBaeGxGeGwyX1FzV2lLMEFJSkxEU1VlQUhicE1xdExFREFQUnBVTG93RjUySlRFaUhUS3A4SUpqbnlCanFFUjh1SzZlWUtQMzVzR005dDd4cDlXUHVXM1FneUJnTC1EY1ZYanlWQVkzWHRSRWxJSlFr?oc=5",
+   "time": "2026-11-24T16:31:40+00:00"
   },
   {
    "cat": "papers",
-   "title": "ويرى زيلينسكي أن عضوية أوكرانيا في حلف شمال الأطلسي تصب في الواقع في مصلحة بوتين",
-   "summary": "أكد فولوديمير زيلينسكي التقارير التي تفيد بأن الحكومة الأمريكية تمارس ضغوطًا على أوكرانيا للموافقة على اتفاق سلام مبكر. بالإضافة إلى ذلك، ووفقا له، سيكون لبوتين مصلحة في ضم أوكرانيا إلى الناتو.",
-   "title_orig": "Nato-Mitgliedschaft der Ukraine ist eigentlich in Putins Interesse, argumentiert Selenskyj",
-   "source": "WELT",
-   "url": "https://www.welt.de/politik/ausland/article6b05ada0d4a4a3142c571486/ukraine-selenskyj-spricht-ueber-druck-der-usa-und-bestaetigt-angriff-auf-frachter-in-ostsee.html",
-   "time": "2026-11-24T16:19:28+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "لماذا يخسر الاتحاد صفقة \"جدار الحماية\" هذه فقط؟",
-   "summary": "وخلافاً لما حدث في برلين، حيث يقف \"جدار الحماية\"، يستخدم الاتحاد الأغلبية اليمينية في بروكسل ــ بنجاح، على سبيل المثال في سياسة الهجرة. والآن يعرض فريدريش ميرز خيار القوة هذا للخطر.",
-   "title_orig": "Warum die Union bei diesem „Brandmauer“-Deal nur verliert",
-   "source": "WELT",
-   "url": "https://www.welt.de/debatte/plus6b04632866a00c9ca1fe150f/eu-parlament-warum-die-union-bei-diesem-brandmauer-deal-nur-verliert.html",
-   "time": "2026-11-24T16:12:48+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "يظهر تقرير الوضع الصادر عن BKA مرة أخرى المزيد من العنف ضد المرأة",
-   "summary": "يظهر تقرير الوضع الصادر عن BKA مرة أخرى المزيد من العنف ضد المرأة",
-   "title_orig": "Lagebild des BKA zeigt erneut mehr Gewalt gegen Frauen",
-   "source": "Tagesschau",
-   "url": "https://www.tagesschau.de/video/video-1689110.html",
-   "time": "2026-11-24T16:09:13+00:00"
+   "title": "هايلي بيبر: هل اعتدنا على احتضان البودكاست؟",
+   "summary": "عارضة الأزياء الشهيرة ورائدة الأعمال هيلي بيبر تجري مقابلة غريبة مع صحيفة نيويورك تايمز. الإثارة عبر الإنترنت موجهة أيضًا ضد الصحفية التي تحدثت إليها. لماذا؟",
+   "title_orig": "Hailey Bieber: Haben wir uns zu sehr an Podcastgekuschel gewöhnt?",
+   "source": "FAZ",
+   "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/hailey-bieber-bei-der-new-york-times-201711868.html",
+   "time": "2026-11-24T16:31:18+00:00"
   },
   {
    "cat": "city",
@@ -576,26 +799,8 @@
    "summary": "",
    "title_orig": "Disco, Soul und Funk im BEO Eschweiler",
    "source": "Filmpost",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZUt5cms0VU1KbmtwQlJWa0dUanRLcTNxRnJUVjM1S0xkR3RoYXhlcVh5VnRUNmo3S1VaeXV2VUR6VmNYVDlOTERTS2luaXFJMlJwb29fVFVGWFo0aGtjdkh4MkxHeDBGUzh1dDRYLURCQ2FIZ3FzdmwzU3RNM0dzMXZjRXVUM2RsaGw0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnh5aDg3ZU9ic2swX1ppUDJubTJfdmRkV2RNTHJsYlpIYWo3Z0xTM0RmR1h0MEl4N0RHYlZtTVUwWVZjcHJNVS1Oc1htMkpLdGtWaktQZHk1MGwyNUxFMEhxT2FrU1R5cFhPdlpiMVU4d0o4bWRHZWlJZ19ub254QmVBRW1JTlZZb3k3ZzlQWmM?oc=5",
    "time": "2026-11-24T16:08:18+00:00"
-  },
-  {
-   "cat": "lebanon",
-   "title": "لبنان.. غارات وقصف مدفعي إسرائيلي على الجنوب",
-   "summary": "",
-   "title_orig": "لبنان.. غارات وقصف مدفعي إسرائيلي على الجنوب",
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQeC1BZ2pSUXVoaldzZUxPSEc0ZFFXeTlrVHhRQTl5ZjVLOGVVN1NwS1N4SVk1bVp2NnJTTUd2N3doSEdvMTIycEFaWFNHWEFDY0Vid1oyX25JUV8yMmk3OXBwZEpYQTA4eV9oRHRtLWYtZlpnd05odEpxUTJZMndsc2g0ZG01RlllVjk2dDJxeE1GNFM0U2lxcnZNVjNCend0N1ZMTDdJV2dTVlpDMXZUdTZGVHVnbDBsaXhuZkF1OGNpWU9SX0s2M1lJWkt2dDBxV1dmX0x1ZXo4OXlEempyQmJqSldrQVJhN2dMOHllRld3a3dYRnhtMzd4VkRmMTRDeVRSMHdjeDJMQmdScnphM0t4RHRvN1ZhcXdhNGRrOExpOFRWcHZwdFRuRjNfa0NXOHAzSDJja2Z4VElwQXhOZG53VVREMnJDam5zWkJiNnZ4OFJGUXZYMFJaR0UwQmtWVVAySWd0VG81VjYzVmU2SmJhaW5NQjltZHRoeGlEem9iZlZyYmxFZUdNV2o?oc=5",
-   "time": "2026-11-24T16:07:30+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "\"طالما أننا لا نزال نحصل على شيء ما\": يقترح كبير الاقتصاديين بيع فولكس فاجن للصين",
-   "summary": "في مؤتمر صناعي، أثار كبير الاقتصاديين شولاريك همهمة في الغرفة. ومن المرجح أن يُنظر إلى اقتراحه تجاه فولفسبورج على أنه استفزاز مستهدف لشركة فولكس فاجن. يرى رئيس معهد كيل أن ألمانيا مجرد دولة نامية عندما يتعلق الأمر بتصنيع السيارات.",
-   "title_orig": "\"Solange wir noch was kriegen\": Top-Ökonom schlägt Verkauf von Volkswagen an China vor",
-   "source": "n-tv",
-   "url": "https://www.n-tv.de/wirtschaft/Top-Oekonom-schlaegt-Verkauf-von-Volkswagen-an-China-vor-id31572644.html",
-   "time": "2026-11-24T16:05:30+00:00"
   },
   {
    "cat": "city",
@@ -653,13 +858,13 @@
    "time": "2026-11-24T15:55:04+00:00"
   },
   {
-   "cat": "tech",
-   "title": "الأسهم الإنسانية في المنطقة الحمراء على الرغم من ارتفاع الذكاء الاصطناعي: ثلاثة أسباب للضعف",
-   "summary": "",
-   "title_orig": "Anthropic-Aktie trotz KI-Rally im Minus: Drei Gründe für die Schwäche",
-   "source": "Finanzen.net",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNemRvX1hKbFhDWXZJaE1hNl9DM3A3WUI0LXdjS2hnTTVvWE5YNy01M0I1d0VHUklnRjdXRzVaS2Y5YjMwUDQzcWF5MjFQeExNUUtQeG04dDhsdHA3bUIxU0VqNVVfV1A2aHA1NVRQeEc5aWRGdUZGVlZsLVVGblBHOGFkRWFUMmk4WDdTRTdRdDdKWUFMdWNfY0NtNi1ZR0Q3T1dyTGxrR1BxdENLRk41WUp3SFVLeHpxeHNBZlJjQmw0MjFBODZGdjlVZ1lvVlRvd09wV3lDT3hlWWJQMjlFVGt4NDNRWTRrMkNtc0Jn?oc=5",
-   "time": "2026-11-24T15:52:12+00:00"
+   "cat": "papers",
+   "title": "دوري أبطال أوروبا: أوه، بالمناسبة: يجب على بايرن أن يلعب كرة القدم في ليل",
+   "summary": "بينما يستمر الصراع على السلطة حول عقد جمال موسيالا، يتعين على بايرن ميونخ أن يلعب مباراة في دوري أبطال أوروبا بدون مهاجم. يجب على المدرب فينسنت كومباني أن يكون مبدعا.",
+   "title_orig": "Champions League: Ach so: In Lille müssen die Bayern übrigens Fußball spielen",
+   "source": "Süddeutsche",
+   "url": "https://www.sueddeutsche.de/sport/fc-bayern-lille-kane-verletzte-musiala-li.3585218",
+   "time": "2026-11-24T15:49:47+00:00"
   },
   {
    "cat": "papers",
@@ -669,24 +874,6 @@
    "source": "FAZ",
    "url": "https://www.faz.net/aktuell/politik/ausland/nato-beitritt-der-ukraine-was-wurde-2008-beschlossen-201712690.html",
    "time": "2026-11-24T15:46:46+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "Liveblog حرب أوكرانيا: زيلينسكي: الولايات المتحدة تريد تحقيق السلام بحلول يناير",
-   "summary": "تقرير الرئيس الأوكراني عن الضغط على بلاده +++ زيارة المجريين للأقلية المجرية في أوكرانيا +++ طائرة بدون طيار روسية تدخل المجال الجوي البولندي لفترة وجيزة +++ جميع الأخبار في المدونة المباشرة",
-   "title_orig": "Liveblog Ukrainekrieg: Selenskyj: USA wollen Frieden bis Januar erreichen",
-   "source": "FAZ",
-   "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-usa-wollen-frieden-bis-januar-erreichen-faz-110683325.html",
-   "time": "2026-11-24T15:35:57+00:00"
-  },
-  {
-   "cat": "lebanon",
-   "title": "بريطانيا تفتح الباب رسميًّا لنقل مشروع الأبراج إلى جنوب لبنان؟!",
-   "summary": "",
-   "title_orig": "بريطانيا تفتح الباب رسميًّا لنقل مشروع الأبراج إلى جنوب لبنان؟!",
-   "source": "Elnashra",
-   "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQR1dIRzdwUTFZUHB3bW1zRm1OeEwyZzZXWUh2cGRFUHc5dC1vdkJwZHpwYUVBS1MzNkVOa2JfRDhYMkh5XzNFMVF3N3l4VUpNejZweFVGQnViSk5xcW9MNVdoMHdNd2FLSEpkcVR0MXh1Um11WWJ3NkQ2Qm52SHpsT3ZGUDhQYk1DVTEtU3JSU21lZnBFZlpENnBWUVN6NW5vWklPUElsNDhHM3o2Q0ppbTVSTnFkeHcxdWdUOHozd3hZaWtwZVJYMXljTWttMUM3WlMyblNITy1aS1R0NV8xb21QWVI3LUNlejM5b0tOZGUxcUNHNTA4dFBkaG9rX3NGck5MTGlpUVkzSU05VTQ2RnVPN0oxOHRfWFZYRC1VcnpSMnFHb3dwWW5XcmpoTnEzbkFyU0dyVTlEYy1BaG0zZXV4Q3N5NHhMRFFXV1NXYno3NkR1VGxIazh2SkZUb25ObkxURHhZZDVFQnVkNFVOOWp5TmgtbjEwdW5qa1R2NUotYzhIWXRCRmlPajVKaTRmbHZxYzBFcTRTdUJBWklyeHhZWDZuYUM1dUtYOTFnMFF3bzNBRDFJ?oc=5",
-   "time": "2026-11-24T15:35:42+00:00"
   },
   {
    "cat": "tech",
@@ -716,32 +903,22 @@
    "time": "2026-11-24T15:30:00+00:00"
   },
   {
-   "cat": "lebanon",
-   "title": "الدفاع المدني السعودي: 11 مصابًا إثر تعرّض أحد أبراج المركز المالي بالرياض لهجوم حوثي",
-   "summary": "",
-   "title_orig": "الدفاع المدني السعودي: 11 مصابًا إثر تعرّض أحد أبراج المركز المالي بالرياض لهجوم حوثي",
-   "source": "Elnashra",
-   "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxNWkpsTkhQN19NZGZ3bmR0cTVLN1N2Nk1ZYUxuVUwyNTF6YXBQN0V2YzI4UjdDQVU1U19mWjNkN0x2YlU1TzJZamFUdHJ1NjRjZVVDVGpGWDBrRHgtRGRBeVloclFTd2xOeHpYRFFpTkhPTG9udVF0VC1XVk9OQVBrUkhTcFJBVVhhSGFBLXc2aDdraFZjSjJ3UGNWdHhQLVZrY1JvNTdVOWVHbDNQTGlmT3Z2NV90ZVJ5MlhyQnlFVDIzdXM3NE83Sjc3T3o0ZGVVMl9rQTU1VEdxTTJOaGxEYnVmbm04SlBXUW80NHlXMDNzV040QnJyUmlLb1QyREJPOC1MRzlWVmV3UUFyX2p0azdHX0hvOGg0LVBsQ3FINXFsbnJwMm9BUnhvMXQ2dWhkTk1Ub0xSUWdGeTV4WnlJYTBmVjQtb19sQnVoYlppd3NaUUJlbzlJYTlhSHVWQ3pUdjYwTDJaN01udzA0WnhfV3hzb1pNcWRZbVkzeFpkcWpnVmc2dnhsQzRVMGZpYlU3Q0RpX3JhMmE1d1k4RWNoQkhNdTVVMmlyVnBoaUNrcmQ?oc=5",
-   "time": "2026-11-24T15:15:52+00:00"
+   "cat": "papers",
+   "title": "سباق التسلح في الفضاء: انقطاع الاتصال: عندما يظهر الجنود الروس فجأة على تلفزيون الأطفال",
+   "summary": "قد يكون للهجمات على الأقمار الصناعية في بعض الأحيان عواقب غريبة. ولكن الخلفية الخطيرة هي: من الذي يحمي فعلياً البنية الأساسية الفضائية الخاصة التي تستخدمها القوات المسلحة الأوروبية أيضاً؟",
+   "title_orig": "Wettrüsten im Weltraum: Gestörte Verbindung: Wenn plötzlich russische Soldaten durchs Kinderfernsehen laufen",
+   "source": "Süddeutsche",
+   "url": "https://www.sueddeutsche.de/politik/satelliten-russland-stoerfall-sabotage-hybrider-krieg-li.3583094",
+   "time": "2026-11-24T15:25:11+00:00"
   },
   {
-   "cat": "tech",
-   "title": "الأوراق التقنية تحت الضغط: الأسهم الأنثروبولوجية تنخفض إلى ما دون سعر الإصدار",
+   "cat": "germany",
+   "title": "إسبانيا: آدا كولاو تبني الزخم للتحالف اليساري قبل الانتخابات",
    "summary": "",
-   "title_orig": "Tech-Papiere unter Druck: Anthropic-Aktie fällt unter den Ausgabepreis",
-   "source": "n-tv.de",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3pRbklRMU9zWlpEd3puLWRyLUU2M1R0WTRzRHVBSWVqYmlIR0hXTzA0TkttMFVGM0lhdnJlNDN3UzVTWWRsSkxMc3lBaDVMNzhiWnV2dmhkdXFVTWtmMUtmREw3UG9MSkYyekJ1OXRpWkdxZTcybDVuTWRxckFHVTBxRTVUMnplVXAxaU5xYjRCTWJoZkRr?oc=5",
-   "time": "2026-11-24T15:14:16+00:00",
-   "more": 4
-  },
-  {
-   "cat": "lebanon",
-   "title": "المصارف في لبنان لا تتراجع... الإضراب مستمر للأربعاء الثاني",
-   "summary": "",
-   "title_orig": "المصارف في لبنان لا تتراجع... الإضراب مستمر للأربعاء الثاني",
-   "source": "annahar.com",
-   "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQV2JxOGlQUF9EbW5hb29QbHJ2UUpNSlMtUDloX21iMERCVElBUXcweE9OU3JOOGNtZnBiVHo4Y3REN29Dd0Y2QWhnbFBZSWl1V2FlUlFvQ2tjT205UmRQX2xSdzkxRGNQbUVMczQ5ZjdjazdGMFY3QzNacmVnNjh1T1lsS3FFT2lobmw1aVRIa09hM29uZTdmZ2pqUEl0ZWVVR1gwZ2hQT09UUUViY1ZhU3FNVWV5NGdYRlpTcU4zYV9rdllwU00wRkpacmwzQzlCRF9OS1g3UDk1dHpJSFA0Z19ERHFmSTk1dy00djE3UWg5TnNGVFpaSXhfYXMyUGVIZTRxNVgzN2praGxyblNfaG5MUkt4dlJ3V0pNMks0dURIQVBzamFPQ0o2X0s1VGZaNE5GNjdDSkZWd185aWFJS2QxVVNxX3l1RVExd0ZLUDBLT3Qybk5HbzlWQWN1TE45MC13cVNrUjBLYl9xSFA3emVEM056bF9ZamtHRDZZeFRhYXhYdFFYTnV0TVMwVEItNnYwdnFJQXNMcTc4a0NtZlBZZDNLTC02Q3dZUnRiNXJQNTdLcnZvcUtreDBueDRWUVBjU043YVZuVnE2UVM0ZEF3NA?oc=5",
-   "time": "2026-11-24T15:14:00+00:00"
+   "title_orig": "Spanien: Ada Colau baut auf Momentum für linkes Bündnis vor der Wahl",
+   "source": "Spiegel",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVG45cXFab0p1aDBJNW9Qc1FoTjMxc0V3dlJhcFF6Q1d1bFVnMzFKa3l5M1BRaF9UYWVsX3FaU2NWOG9kX25jcktVak5oaFQwLWNZbUdrMXhqaVNTSzVOU2lQQmdxRm9QSEFqWHpFQXNsR0lQWnRXc2VnSzRTY29oYUF3X3U0S3VDVDFWdzNsMjN5UWZ1c1FDSWlrNTBoRkNrNlg2OFlSbldFNlpVNFY0Wk9qa1prTlNFdXlNVElKb1RwZEt6b1c1UkU4em9YZGktdnNkWGVn?oc=5",
+   "time": "2026-11-24T15:25:00+00:00"
   },
   {
    "cat": "papers",
@@ -751,16 +928,6 @@
    "source": "Tagesschau",
    "url": "https://www.tagesschau.de/video/video-1689078.html",
    "time": "2026-11-24T15:10:45+00:00"
-  },
-  {
-   "cat": "tech",
-   "title": "Samsung S26 Ultra: عروض الجمعة السوداء لدى o2 وCongstar وTelekom",
-   "summary": "",
-   "title_orig": "Samsung S26 Ultra: Black Friday Angebote bei o2, Congstar & Telekom",
-   "source": "SMARTWEB.de",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONk5neHQzS1QtSU9HendoVEhiUlVCeUxBei14ZExVa0NuRW0xUGtiamFIaXVZdzNHUVhab2NRdnVCOTExZDVPYmpfR3Z3b08xV0dmT2h2bGdYWjVqVWlLM0N2QzBxNUtTa3pVQklsU3VmNzFFSURudG9KSGVRSmZpYXotYlZuRWNoQklpLTJGWnJkRmU1TGNOZmc2eENRbmcxRGQ5cA?oc=5",
-   "time": "2026-11-24T15:07:00+00:00",
-   "more": 1
   },
   {
    "cat": "city",
@@ -782,30 +949,30 @@
   },
   {
    "cat": "papers",
-   "title": "تقرير الأمم المتحدة: الشركاء والأقارب هم الجناة الرئيسيون في جرائم قتل الإناث",
-   "summary": "ومن بين ما مجموعه 78 ألف جريمة قتل للنساء في جميع أنحاء العالم العام الماضي، ارتكب معظمها شركاء وأقارب. هذا ما جاء في تقرير للأمم المتحدة. بالنسبة للنساء والفتيات، فإن منزلهن هو المكان الأكثر خطورة.",
-   "title_orig": "UN-Bericht: Partner und Verwandte Haupttäter bei Femiziden",
+   "title": "كيف كسب ترامب الأموال من عودة هوانغ إلى نفيديا؟",
+   "summary": "تسببت عودة رئيس Nvidia في ارتفاع سعر سهم شركة الرقائق بشكل كبير. ويبدو أن الرئيس الأمريكي ترامب - الذي كان يدعم هوانج في السابق - استفاد أيضًا من هذا.",
+   "title_orig": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
    "source": "Tagesschau",
-   "url": "https://www.tagesschau.de/ausland/europa/un-bericht-femizide-unodc-100.html",
-   "time": "2026-11-24T14:58:13+00:00"
+   "url": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html",
+   "time": "2026-11-24T14:51:13+00:00"
   },
   {
    "cat": "germany",
-   "title": "حرب أوكرانيا: زيلينسكي: الولايات المتحدة الأمريكية تمارس ضغوطًا على أوكرانيا من أجل السلام بحلول يناير",
+   "title": "\"لا يكاد يكون هناك وقت للتوقف\": يجد شريك هيوبرت أيوانجر صعوبة في التهدئة",
    "summary": "",
-   "title_orig": "Ukraine-Krieg: Selenskyj: USA machen Ukraine Druck auf Frieden bis Januar",
-   "source": "DIE ZEIT",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVFxTFJROU5HQWxKVkluSGJJRFR1NTZjV05lOWN4YU5sMno2bTBneWx0a21JSF9Qa0tsM1NoRTB6enRyY2M4MzNXVnh0U3EyNy1OSHdQMDJ1VlhUb29rM085R1U3c0pUbjZoX1ZBdlg0NUVJQWdjZE5rOC1HS0c4ZWNWVFpOSzI0WkRfMXNYNlJrVXBQSG1GYw?oc=5",
-   "time": "2026-11-24T14:53:50+00:00"
+   "title_orig": "\"Kaum Zeit zum Innehalten\": Hubert Aiwangers Lebensgefährtin kommt schwer zur Ruhe",
+   "source": "n-tv.de",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3czeWJicy1RMmZCZmJHa0M0S1dIc2U2NGhHU0F0bXdWSXR0ckFIRHdMeDBKNHg0cUYybDJ6UXBNTE1OU1IyejU3UzlRMG5RWnpHSmROZDBLS1BKUmQ4R3BZdTRvU1JVREd4TzB1aVF3RGUxZ3dvTkhxUHhNUmxmOEVoZ2tyYXZVWDhxTkFLdDBoc0FiWHhiRnhVQ2Y0Zw?oc=5",
+   "time": "2026-11-24T14:38:32+00:00"
   },
   {
-   "cat": "papers",
-   "title": "اختراق الإحصائيات: كل عام يموت المزيد من الجنود الروس في الحرب ضد أوكرانيا",
-   "summary": "وبفضل التطفل على بيانات وكالة الإحصاء الروسية، أحصى الصحفيون المنفيون أكثر من 700 ألف قتيل في الحرب الروسية. العام الماضي على وجه الخصوص كان خسارة.",
-   "title_orig": "Statistik gehackt: Jedes Jahr fallen im Krieg gegen die Ukraine mehr russische Soldaten",
-   "source": "FAZ",
-   "url": "https://www.faz.net/aktuell/politik/ukraine/wohl-mehr-als-700-000-russische-soldaten-in-der-ukraine-gefallen-201711881.html",
-   "time": "2026-11-24T14:36:12+00:00"
+   "cat": "germany",
+   "title": "مسح: ثقة الشركات الألمانية ترتفع للشهر السابع في نوفمبر",
+   "summary": "",
+   "title_orig": "مسح: ثقة الشركات الألمانية ترتفع للشهر السابع في نوفمبر",
+   "source": "العربية",
+   "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPUktoZlVra1k3aXpQaU5scU9RWUVabHN1bWFXeklmUUR5R0wySXE2N0pWVXN3QXExU1lPN1JVTVBuTUdsbk5ReHRXRkJKWC12VU0tS19vRmFJQWwySDRJczNlLXlfajEzMFUyWmttX1gta1h3V3Noc29uaEtIZ2tQVHo5Q0tpb1d0TlpRUXNnbWhiVTl1Uzk5LUlJNHFKb3FlUjB3aW9kcTluUG9adnFwOW8zRjlacUpfTjRoSG5ZRjg1eDIyTVY2SDdHLXpvbW1vWjRoVzVLV01MNjBYV2VHVVlYZ25QMlMyLWtIcWczVHRlWDk3aDVjY1ZaZGtDaVZvdVhNQzVXUXBmeUdndVVRZmhiUkdXX2ttZUFoSHdXLWF4V0gwdlY5ZG1sZGwtcFJVM3RKT1p1cXNnYmp6VEhqTGYyV2R2M01RUUt4Tm4tdlUzeWYtTTVyX0lHNGg1cDZybWQ0cElKQ2kxQ19XRDNLRlZ0SHEyWElVaVRzejA2dHd5SlEtWkhJekc2RmhrVXBRMk9SUWVidExhMHgybEVoVlRtdDZ5R2VvczhhYlVSckdEWllsYTdFc2xfRkNWcGx2aFZlWEZfck5jQ1hfQ3Y1NEp5YjZRYjA4OHlocy1nZ0jSAeADQVVfeXFMT1JLaGZVa2tZN2l6UGlObHFPUVlFWmxzdW1hV3pJZlFEeUdMMklxNjdKVlVzd0FxMVNZTzdSVU1Qbk1HbG5OUXh0V0ZCSlgtdlVNLUtfb0ZhSUFsMkg0SXMzZS15X2oxMzBVMlprbV9YLWtYd1dzaHNvbmhLSGdrUFR6OUNLaW9XdE5aUVFzZ21oYlU5dVM5OS1JSTRxSm9xZVIwd2lvZHE5blBvWnZxcDlvM0Y5WnFKX040aEhuWUY4NXgyMk1WNkg3Ry16b21tb1o0aFc1S1dNTDYwWFdlR1VZWGduUDJTMi1rSHFnM1R0ZVg5N2g1Y2NWWmRrQ2lWb3VYTUM1V1FwZnlHZ3VVUWZoYlJHV19rbWVBaEh3Vy1heFdIMHZWOWRtbGRsLXBSVTN0Sk9adXFzZ2JqelRIakxmMldkdjNNUVFLeE5uLXZVM3lmLU01cl9JRzRoNXA2cm1kNHBJSkNpMUNfV0QzS0ZWdEhxMlhJVWlUc3owNnR3eUpRLVpISXpHNkZoa1VwUTJPUlFlYnRMYTB4MmxFaFZUbXQ2eUdlb3M4YWJVUnJHRFpZbGE3RXNsX0ZDVnBsdmhWZVhGX3JOY0NYX0N2NTRKeWI2UWIwODh5aHMtZ2dI?oc=5",
+   "time": "2026-11-24T14:29:18+00:00"
   },
   {
    "cat": "germany",
@@ -818,30 +985,21 @@
    "more": 1
   },
   {
-   "cat": "lebanon",
-   "title": "%80 بلا مسار معلن.. كيف تعبر السفن مضيق هرمز تحت الضربات؟",
-   "summary": "",
-   "title_orig": "%80 بلا مسار معلن.. كيف تعبر السفن مضيق هرمز تحت الضربات؟",
-   "source": "الجزيرة نت",
-   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNWUVnZWZOZ0Fab0JzeGpvekY3TjVqVjMxS0luWEVHcmdvc2dOekxjSUNfNFRtX0x1ZGh3ck5MTm13ZmlzWmx3VkI4R0hLZ1lWcWtPcDBWRzIwY0IzRkFjOUFpc3M5OHdENXloWlh2bXpwREpKZDMtSWdIQU1Gal95R0hqLXpEdzJQRWRtQmllU2Jlem9ueUNhZHFuV1I1RTlTNllscWtCdTV3Qi15OFNDUGxVWUdBYlFMd1BFZkRYeUcxSzFBeFpoQWM5WXRYeFNoOTY5czg4MTB5VWVodkt1RXptQzRYakZjTWh0Zi1TQlg5R1ZUa2kyZ2xsWFN2Tm1sQVRBUnJfRnJHd0lnd2s3V0VJaWF6M1RkNVZjeTVkMmdYWmNDbHZ5LVRfLXhIdFhaTFpsanRLQUFUWEJVTEZwZS1rd3NEd2h0SkJ5bEt4SVhGdw?oc=5",
-   "time": "2026-11-24T14:19:53+00:00"
-  },
-  {
-   "cat": "germany",
-   "title": "11% فقط راضون: ميرز يحارب السخط المتزايد",
-   "summary": "",
-   "title_orig": "Nur 11 Prozent zufrieden: Merz kämpft gegen wachsenden Unmut",
-   "source": "T-Online",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT3ZaLWFkYmJyQkIwUEZEa1hJa0hNbHhlazg3bzZIWDdqdi1CWDRJYjE1STJhdFpxM0kxZmV2S3JPR2cwTW5CQjZNUWhreW5hRkoxLVh5Z0JWdFd2OHkxdjh0bDRJMFZOeU9tb1FKeUpRbGgxZkt3ZzdEcE9HQllSVTNQSDdVYk9pdGlSUlhWaHM0OGh5UDRZSWVseVNQdnYwT0pYWnFQSnF6bi05S3d1bFNiaTNLc1dEbjBROGlDY2ZfM2FBRm5NSzJ2UFA0dmg2ZWp2SnpVRnlRSURo?oc=5",
-   "time": "2026-11-24T14:13:40+00:00"
-  },
-  {
    "cat": "city",
    "title": "مجلس الإدارة ومجلس الأعمال يتفقان على إغلاق موقع آخن",
    "summary": "",
    "title_orig": "Generali-Vorstand und Betriebsrat einig: Standort Aachen schließt",
    "source": "Aachener Zeitung",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnB0bG5MYy0zc3g3S1lZWTFmbWNOeGlxM1Q1THRreWZNcWVhNTM4ZkE2b1k2Y0kwMmtmX0M3S3J4ZFk3OEtMVUNSblBVMGMycDBYbUM2X3hhdWl5bDR5allpckV4eUlkR2diMlZUQ084a1dLaThPUk9KYzNac2VmQjhRdXk4dHduUlRSQTZYcDYtdzN0d2lCR3EtcW53NHN1Z1hmbnd1eFVHa3YxN0hLaHBHaG5MVXlkTXNYWU1uMGp1TjNxODZRcmNNSWF6YWVNRXNvdUZrU3E?oc=5",
+   "time": "2026-11-24T14:00:00+00:00"
+  },
+  {
+   "cat": "city",
+   "title": "شمس كثيرة ولكن أصابع باردة: هذا ما سيكون عليه يوم الثلاثاء في آخن والمنطقة",
+   "summary": "",
+   "title_orig": "Viel Sonne, aber kalte Finger: So wird der Dienstag in Aachen und der Region",
+   "source": "Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObmxkOGxNSjZjRENmeWFEZW1RZmc0SHNCY0drNGRWTjFkUGRQSEgtU1YyLUhQNlY0dG9SVVNSaG1Id3A0bnFFbWRzVlhUSWJwY0hfMDdWbWVicWxZaHBvLUYwYldRSTBmcDRtSmw1OUZPVnJoQWl3bGNTWkhGQWZtTXpjbVJtQ1YtUVMwMXljRXJGcXBvaEZFZHBJcFJtaWZYMVk5MnUyY1h5TGtwaE9vWnVDenJpUmhXZ2o2bnlqdzNoc2ZDMDEyMG1WLWtoV1RFS3RGbWpWSDZOenBqRjZ4Mm5lU0c?oc=5",
    "time": "2026-11-24T14:00:00+00:00"
   },
   {
@@ -854,15 +1012,6 @@
    "time": "2026-11-24T14:00:00+00:00"
   },
   {
-   "cat": "papers",
-   "title": "ترامب يساعد هوانغ: يعود الفضل في عودته إلى حملة منسقة",
-   "summary": "يساعد دونالد ترامب جنسن هوانغ في العودة إلى قمة Nvidia – ومن المحتمل أن يستفيد ماليًا أيضًا من التعيين المتجدد. ويتفاعل الجمهوريون والديمقراطيون بالفزع.",
-   "title_orig": "Trump hilft Huang: Seine Rückkehr verdankt er einer koordinierten Kampagne",
-   "source": "FAZ",
-   "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/so-profitiert-donald-trump-finanziell-von-der-nvidia-rueckkehr-von-jensen-huang-201712270.html",
-   "time": "2026-11-24T13:57:06+00:00"
-  },
-  {
    "cat": "lebanon",
    "title": "نشطاء في جنوب لبنان يبدأون أول مواجهة سياسية مع «حزب الله»",
    "summary": "",
@@ -870,42 +1019,6 @@
    "source": "الشرق الأوسط",
    "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxQNGJIVlRNVGI0YS16bFVoVUF0aVhiRng2OVJUcVlJTGN6TzZ3S01NRDd1ZXFlNjVDQVJHV1JHSGVkeUFQdHVEdU5JWl9na3NDZElWbUFUOFhWRmtqbE1TbFhRXzNPN0JaNzJsZXF0MW4xZmRCTzBQeW9oR0FaQ0JFN1NQdW9QR1kyTUZEbktzektqc1EzQ2ROMHBiTG16M3padjZabnV3OEIxNjMwSWRqb044SWw0UUg5YU9DTUMtdDI4enQ3XzBRamVzajVhOGdXYjZnTk94b0lJM0hsS0FIb1pNUGFLM042V1Z2NXR5U0ctdkpjMFd3bE9ra0RFZjFzSHJCMjhpTFMxc0RNb0JRTzJReTU1TzcxSnAwMGVaTTN3Zm9oQ2d0VE55N3pPVkVLRFdKclM4dHI0SVlBSC1yU0xtMWJoVzJmaFBrUkU0dHI5Y1laaFdqQndMQzVYbmpUc0NzTm1rV2dZUGxVRGVCTkxrQmFENGRReE5lMl9PaW0xVndBUW1XbkVfMEZrRS02Qk5BMHJZMi05T2UwTzB2VURTLWdPRElTeVdFUkhIbWpOdWYzdWlPR0tWeXUwNDNPOGozcmUtZHBrWG9kRmlXYTZMVV8xMl9NVjF2NnM0RzdGdHdPUjFwZHE1VFpHaEhxUkl4RndPcFBMLXNUM1hOdGxaTWljTlFxd1RfRXJ0NHY2c1lYRlB5VG0zdlRNRWtud3NZRnZnZG9VRW1rSS1YZWJldFFSaGF6TWU2T0g5QmNTejNFNlFZT2M0NWsxSjM2aG1UMXEyOGhxY0YwZGQ4bldOak5UXzVZZ3hvZHBUZUwxYWFuT0ZZQVZxbHR3cU5KaFJ3?oc=5",
    "time": "2026-11-24T13:49:12+00:00"
-  },
-  {
-   "cat": "papers",
-   "title": "كريستوف ميستماخر، ARD برلين، حول المناقشات في البوندستاغ حول ميزانية 2027",
-   "summary": "كريستوف ميستماخر، ARD برلين، حول المناقشات في البوندستاغ حول ميزانية 2027",
-   "title_orig": "Christoph Mestmacher, ARD Berlin, zu den Beratungen im Bundestag über den Etat 2027",
-   "source": "Tagesschau",
-   "url": "https://www.tagesschau.de/video/video-1689028.html",
-   "time": "2026-11-24T13:46:26+00:00"
-  },
-  {
-   "cat": "tech",
-   "title": "يوم سوق الأسهم: الأسهم البشرية تنخفض بشكل حاد",
-   "summary": "",
-   "title_orig": "Der Börsen-Tag: Anthropic-Aktie gibt kräftig nach",
-   "source": "n-tv.de",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaS0tSWh2dzIwcXNjREZ4bjhCYXQ4QUQxQTI0eVFYX29xV25jTm1laGExaW45LUxCa1YzTkFxWXFURlVudUo5VVdCaDBya1RxcFhlSk9ISnQ1b0NrTWlWbXdRRFo3dHdLV0JVS0g4THFxd0NyTk5ydm83azA4MmptdWxxd1lLeTI0N0V3anpjUUYtOERQdjd6ZUZjcXJZdw?oc=5",
-   "time": "2026-11-24T13:44:50+00:00"
-  },
-  {
-   "cat": "germany",
-   "title": "تامر هجرس يوجه رسالة شكر لجمهوره بعد خضوعه لعملية جراحية في ألمانيا",
-   "summary": "",
-   "title_orig": "تامر هجرس يوجه رسالة شكر لجمهوره بعد خضوعه لعملية جراحية في ألمانيا",
-   "source": "Masrawy",
-   "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxOVDlLMDd5TUc5R2YybHlDd3VBejRHbENJaW9BN1RsN0xSYXdZd0tYNHhDWkJFT0JlMFBLUkk5b1BybXk0M1JNbDFRQjhjVTRnRjdSYnhLZVJ1YUUwQVYzUDUyU0dPVVdUMElyR2hKWVAtcGgzYncyRWFkRzlLOTJmX3p5MjdPR1NiT2QxN3hFNnpyaUtaODVmVGhucEQyM0sxTXVIYW44d1pJaW9CclhzandhbFIwTUk0dlcwRXdxcWF1SXpsX2oxOWpKVUp1UjdDVzBhVTFiZlN1TllSdGFZX2x4VVlIeVM5VC1KZEo5LVYtZk42WjM0N3Y5LU5OVmowWVpQY3FfMi1SWTU0OWZTS29HRVdzc1J1eGlCLTNaUzlDV244aU9jdzhGZVZkc0owTDhBNzJabHpOeUNCNkVKd3A0aklJLWd0SlJWYTBNeWFGVl9hanpQcnJjUlc5TEo0T0tzWmxFOHhwS29TcUhjV0pZd0UxOHhqb1plbWhUR2Y1LUVzWnp6alFMclNsSWtmaldzM3JtcHNULWFqNmdkam9xem9HLW1EWGc5OHBFX211SUZiczNMTXo5U0ZFZVlIRXdfRlMzaXd1cEpoS3NzaG5qSmpRb2Fia25UWlNvQXhwUTNHTmZZa3dnTFFnLWMyVVZiMjBKRHkzaFF2MUxkZURlcmY3dkd2clluNGotYUV4M1BRQmN6LUVXQ3YzdEZuNVV5RnV1TnhwWVFkSVhpcVdkVEtMdlcwNG9lQdIBwgRBVV95cUxNc3lubDlLd2ptU0ZFZXFvNFJkT0psZEF2TmVkTHZFQ0ZVWDFIenhuVkV5cnBXVkVlWm9rMWZqZDNuVXc5OEIwWUhKWEFmYXJWcGNmQU5sZ1A5TlJldm1SbUYxUmZfekpZbmhnc3JYbHA5UVcycEtGdTNjemhsakxocUNsRk5QV1hmWmFLTVRncHFjMTREdUVnSVVabUNSOEhjVDJMb0Z1aXY5TEk4OUJvYWk2dTdhTUFjZnlCXzBqaTd2M0dPVTJrNXFGSEN5WHNicE5BNk80RWhFX09xb0RVV01DUUtfMXJWcnNGMHV6UkVrZE1BRndhVS1oYXdfb2FDaXRqLTlHLWlidzF6TzVpb0Vzdk4xUUg2VUJBU2h3NHUyZTByc0dGOWVYTEExU2szWThQU0JmU2VlYzhGMUNDWm9jTjdvYWFnYlM2bldBWmE4N3Z0eUZGRU1PcURLMEdvQ1JYaFRYNUhKRGNnVmxvOTN3QmUyeTB1YzJpYndhTDM2RnBMZmE0YjZWcFNCcEtrOG1yd0VoVm1iZFgyYkdwZWV4X3FqNmdta0VvSHIzSkhjWGtXS2dfRVlwcm9NcHpCOTZyUDZ1UEw0VVg1cUdWNFY4dnpXREtSa0d0MjE3MEVVNmYzS2JQY29ZUno5ekxyc01PVnlVY091WnRsVFc2dkRCVGo3LV9jNWRSMkxBWFZ4VFAyMUNiWUxwZWFVU0NEbHJRTjNUTnVlcUMwZGI3cEprOXhSeXNJT3c1UFVQZGxMQQ?oc=5",
-   "time": "2026-11-24T13:44:14+00:00"
-  },
-  {
-   "cat": "lebanon",
-   "title": "لبنان: مرحلة ما بعد اليونيفيل تتصدر لقاء عون وسلام",
-   "summary": "",
-   "title_orig": "لبنان: مرحلة ما بعد اليونيفيل تتصدر لقاء عون وسلام",
-   "source": "العربي الجديد",
-   "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQeTA1d1AyMjE3LWRGa0J2ZkJpNkpqMW80c3ZqQ1dTaV96MXdfclVQcHZtWm1SVkQ1ZTFEMWlFRXpIX2ZfcFJicXFsX19vRHl6UDAxelBnMDFIVWpMM1gxejZSV2lBRE5IVjRLaTdaRlIzMXhiMVYwT0NiMXY4QzgxWGF1UElKOUh5RzZJZmhoMUd5bkFrRVVyTm5yVk1LSExXaVJXbmZ2b0g1bTdkMWM1YTdCYmlIZEJScnlucHpLU1FKaWRYa3dDR3I0d0VObkc3Mi1JVzhrR1FURHlrNGJSX0lSc21CZ3RqY3ZzVkFfM3JhcExLOGZVRnNDUXdDdjUxeXc0Wm5WZGRJOUJUcXVhcVc2VkJRblJVZDY4dW5zVGNDdVk3cDg0SnJCWmM3RTFXM2tSbDhMLXYtcXJvM0owVWFGSUdxMkZWQ1NNdVhlMHlLY3FBOS1yRmJ3VlpvWUxEQnBFWDZ4YnFwZ29XMzFPdGRIeXlvSWxyMmExdEJBWHFqeVRLMmM0UzJ6akpHSFdyUEpyYTNMMTk?oc=5",
-   "time": "2026-11-24T13:37:54+00:00"
   },
   {
    "cat": "germany",
@@ -924,16 +1037,7 @@
    "source": "tagesschau.de",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONDJDY202WlNqUFJfS1dvb0NoMUZLLXNZd1FRRmpBYm1xN283cmVqR1NaM0FINVFyODluYzl3THRWbDNSODBrOHQwSTV3NjRhdDR3cE51Xy1KYU1XbjF1VmRPNFVWSUlnd1lIbEJWcGM0YVE4di1TYWNrMDFHVERTNUlPUVI0WEdHNnBUQ2dYMA?oc=5",
    "time": "2026-11-24T13:31:00+00:00",
-   "more": 2
-  },
-  {
-   "cat": "germany",
-   "title": "وعلى الرغم من ولادة عدد أقل من الأطفال، لا يزال هناك نقص في أماكن الرعاية النهارية - وهي الفئات المتضررة بشدة",
-   "summary": "",
-   "title_orig": "Obwohl weniger Kinder geboren werden, fehlen weiter Kitaplätze - welche Gruppen stark betroffen sind",
-   "source": "tagesschau.de",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4ybU5Fc2x3Z0UzT2taM3ZDQi1LbzdNYTFCLXVIRXlmSHJybDloaGhSTlVxMjlLZWNydjJqTXFFSW1DUmJlR252NWdfWE9URkVtS2FHSTFkOGZwc2xnc0FYamotX3hLaGJtaXFlSWY1Qlp4Q3BqdklGVmRVOFRnQQ?oc=5",
-   "time": "2026-11-24T13:27:09+00:00"
+   "more": 1
   },
   {
    "cat": "germany",
@@ -945,24 +1049,6 @@
    "time": "2026-11-24T13:22:57+00:00"
   },
   {
-   "cat": "lebanon",
-   "title": "نائب رئيس لجنة الرقابة البرلمانية: مستعد لمرافقة ناقلات النفط لكسر الحصار البحري الأميركي",
-   "summary": "",
-   "title_orig": "نائب رئيس لجنة الرقابة البرلمانية: مستعد لمرافقة ناقلات النفط لكسر الحصار البحري الأميركي",
-   "source": "Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuZ0w4RGtWeHluRXZhT1BhdUd1S1VOUjFoQUYtSWw5dkJzU2pGbWtuSldRd0Vsc0VCVDR5U3BZQW1UTVVTc1VUNEh6c0IzSGdqTmc?oc=5",
-   "time": "2026-11-24T13:11:42+00:00"
-  },
-  {
-   "cat": "tech",
-   "title": "عودة هوانغ إلى إنفيديا تنعش أسهم الذكاء الاصطناعي رغم المخاوف",
-   "summary": "",
-   "title_orig": "عودة هوانغ إلى إنفيديا تنعش أسهم الذكاء الاصطناعي رغم المخاوف",
-   "source": "الشرق بلومبرغ",
-   "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQejY4RmtMUFNPcVdNV3N3MHpiN1R4b280VFV2WVRlZ09xSElTeTZQSlVwVi1NV2RHaUExVGJmbWgyWjBrTGNJb19zSWRiTGRUMnZ0SEVIcE1KWHpkUmwzWmlCeEJucHYtRTVfMnNtSl9xOTU0UlJQTUhXeEx6LXdHZWlZczAxTjlQWnZFOFgxNTJvM2U1QzRkeUhQVjN5ZDhDSWRRRURwNW9LMERIUEtOUmt3YTM3dVUzRGlqSl94VmJteUFNVUl6cEg2ZXNVZzItd1h3RmtITUpSdGxHUXhWN0t4ZEtIOFlCVHVlQlhQcnMzUXMwQ2Z5d3RDVzFIdEJyZXZkX3FZT3RrRFNSSlpfS2dhS0xGbkR2UWN4UTdMUUhwLVZseFNrT2l6Mzd1S1ZwQTl2Y0tuVHVZb3M5RmFyeUhxaXZ6eXhzb3l2NUl6SDRSWXU3NEFSUFNORWVYTVBFdEVKX1pKY3MxQzFteUpaSHNLcTRTd3h6TEdScHoyQV93OV9fNEM1T0t3am5lSm9SYkxkb3ZqeXRoZ1NHT1RObVZ6NUZ5MV9JTnF2QUFad2lvQXpHa1VVSXZidnV0MVpzOG9mQVBhNmo0bzhxSDdxaXVtS19kS1Y5a2Y0UzA0bTRxa3ZLVzZpM19xY05TRENucmc3bWt4YU9udi1iVW42eHRkX1IzZHVUOVh3NTdB?oc=5",
-   "time": "2026-11-24T13:11:16+00:00"
-  },
-  {
    "cat": "tech",
    "title": "بالنسبة ليوم الجمعة الأسود، تتوفر الهواتف الذكية على Amazon وMediaMarkt بخصم يصل إلى 53 بالمائة",
    "summary": "",
@@ -970,7 +1056,7 @@
    "source": "delamar.de",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVG9felBHMEpoVHptMmxvV2VOWUJ5NDZ2YmttMEhxeUlxVTg3Tzl3Q3AtVVBMcnA5djNBaWN2bTA4ajd1WFBpT2x0V1NnamtRUTVTVm5rUkdzb0hvX1NBS25kaDR0ZGlZcWpScGZLeUlHczgxaWNHU2hnQ21SOUtCYl9VU1BaQkxhR2dDa1A0SUpySU1Jbi1GVGhfMzFkdGlHZlp5ZXlLTXQ4bVQyb1BR?oc=5",
    "time": "2026-11-24T13:08:23+00:00",
-   "more": 1
+   "more": 2
   },
   {
    "cat": "papers",
@@ -979,17 +1065,7 @@
    "title_orig": "Schlagabtausch der Parteien über den Haushalt 2027",
    "source": "Tagesschau",
    "url": "https://www.tagesschau.de/video/video-1688984.html",
-   "time": "2026-11-24T13:07:39+00:00",
-   "more": 1
-  },
-  {
-   "cat": "city",
-   "title": "بداية حملة صندوق عيد الميلاد 2026",
-   "summary": "",
-   "title_orig": "Start der Weihnachtskistenaktion 2026",
-   "source": "WDR",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzNEcmFjVWRFTzlNMVFIUDVSVkpkUjQzWlp0R1hBQWd1Y0FCcml0eVNhVmVRVFJvN3NvUjF2NTNXSFMwR1dCbGQ0cE04elFtN2RzbjZ3MDZOeklmU1gwdkxtN3hTVi1qNGZySzM4SmJMMTJRXzdpZzYzQWdJV0ZfTmRiVVA5X3Zp0gGIAUFVX3lxTFBvM0RyYWNVZEVPOU0xUUhQNVJWSmRSNDNaWnRHWEFBZ3VjQUJyaXR5U2FWZVFUUm83c29SMXY1M1dIUzBHV0JsZDRwTTh6UW03ZHNuNncwNk56SWZTWDB2TG03eFNWLWo0ZnJLMzhKYkwxMlFfN2lnNjNBZ0lXRl9OZGJVUDlfdmk?oc=5",
-   "time": "2026-11-24T13:01:07+00:00"
+   "time": "2026-11-24T13:07:39+00:00"
   },
   {
    "cat": "tech",
@@ -999,15 +1075,6 @@
    "source": "n-tv.de",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGVCZFJTb2hCR18xV1c3TTNvbl9MT3hiakdvRWVtSTRYdVpKX1FZN0NfMDFNMTVEUHdlekNhOEx5SlVORXpYeHNHRVpyZVRwMThwem1jQTdXWVpDdmZFTDdDTnU4ajhIejVVYXNTYjd6MjY1RS1OTnNIQ1Q3ekZURVl3WnlZUWxHVTVNbjZhVUlFNzZuZk9DbHFZdG1Wc2VUTWVzaDRzRHN2bTdpeFdJc1JLSUw5UQ?oc=5",
    "time": "2026-11-24T12:55:00+00:00"
-  },
-  {
-   "cat": "tech",
-   "title": "آبل توسع طموحاتها في الذكاء الاصطناعي بوكيل يبرمج ويتحكم في التطبيقات",
-   "summary": "",
-   "title_orig": "آبل توسع طموحاتها في الذكاء الاصطناعي بوكيل يبرمج ويتحكم في التطبيقات",
-   "source": "الجزيرة نت",
-   "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPZVd3Rno3Qkhad2YyTFFMZ2xCTXlyRk9VUmZESy1RV1VTbWE3bVlMOER5Tnc4TnI4R1A5SkFkLUcyVm9ZTHA4bEE2R1dkOG1FNFRKT0swci1pM2NwbjJNSkJNSVR6cHlhaDRERXA4VHF3Z3VIeUFKWXVEcnl6Z20yM0V6Q0pDTDI4a0tvMnV1M2k0aGRaN2ZVQTkwb18yQmdoQ0lPTkFkbTgtbzNIQTYwTXhzTkxYTUlxLVFLN2I3SjlMZDAyQ054c2p5WmpQN2FtTnFrOHhGaE93ZXg1Q3VBN214NWJGQ19JUVhaZl9LNl9MX1BocExRM1F3V01BdkxlZ2ZoYWE2cy10Q2FyR09YemRpeFZQM1VsUTNIcVdqQ0hQWXpWblM0ZU5TZTZITjJUeHltdjJOckJCemVMRHd1V19jSTVFVVU2cFRmRHUtTEdtcERsbFItZElCZw?oc=5",
-   "time": "2026-11-24T12:53:54+00:00"
   },
   {
    "cat": "germany",
@@ -1025,7 +1092,7 @@
    "title_orig": "قصف إسرائيلي وغارات تستهدف بلدات وقرى في جنوب لبنان",
    "source": "سكاي نيوز عربية",
    "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxOeGZGbklkMkRaSHpTYkJOemxaQlI3dVJQZ2tGYzNLSi1oUEx5TFlyWmRhdmVNd1BKYmpsLVQ5bTJLOXI3a3FUSlpYMWN0UDlWZ0p4UmhvRThOV2xKU3F6Undtcm5xeDhidTU1bGJzYW80U0tNdEhLRUVBWTk3NW1hSExjOXFqU3VfaTlhbG5aLVFMSGZYZ09mQU1oOFItVjdyWEQwcWlkZmd5N29OOVR3NDdOSUVLLTJJNTVJU1cxM0JZTG5GUndSX2poWmJneDhhNDhXTmlJTGxDdGtFSzNMZVg2eFpEU1VvRTdzbnZiYUp4dDAtOXJBQWJnWUNQeHA4UWdyak1wemY4NUFKVTV6SHU4Ui1oZUhDdXpjTlB2eUxzd2ZCV3JJYU5VS3dwc0x2Vi1VMTBWYnNMT1hZdGlhWDVURWlZSFBYd0pEbU5xa1RQTDhSRjNFMGJwWVN6c19rSnFRWWlPelo5QzhCVkVKTHhTb1hzR184M08zX2NNeEYtNU91YkFNakhCVGhoMVRaeEczNXhRQ21oa25iYWs4bDNSdFdFRm1qOUxqeEUyc1fSAbYDQVVfeXFMTUtYNG1CNW53dmlHS2ZMZ0M1RTYyZnZLYU0zMzExYUxIanRkZHQ3UkRGOXl4LUFmakgwcTJMS0NxR081MDFlM3hKc2N6MUc5YS1fNU85TGx1TUw4Z2lYTVFoZDdLTkhGUVNqY2JScldtYXpnelhhSlV0b3B1SnhLc1VrR1FXdU5HcnkzX3ZRcjVsNzBqb2hWTXV4VlQ4Q0hIaWx5cGM2RVFHMlcybXMtTVVfTV93ZU5BWnctYlJ2eEt2SG03aFdIOXo5MjFpckplT1ZmaEM5MkFLRkZ2cHJoZHB4WVZlN3dIUXQxdC13WFpaNW1uOUlfYXY4UTdKSDA5VHdfd3lYYkJkNkxVTGJlWFR0YXVVRWFudFBtemw4VjVmb25QaGdtbWlYUzhaN2JPMTZVbUdLYUNPY3NiQU1VVWo0TFRmcjdVektPZzg1aFo5eDJWQmZtOFNWdU5jSklURHgwX2lnLTJyMk02WDBjRlo1X1lRX2FuRmhtNnJsblpGZV8zaHlyd3RYRmQwbHotVnlHS01zNGkwY0ZPVHY3M1lLWkRMbHJrMWtORDc0b3I5d3J5dThR?oc=5",
-   "time": "2026-11-24T12:05:23+00:00"
+   "time": "2026-11-24T12:13:26+00:00"
   },
   {
    "cat": "community",
@@ -1046,16 +1113,6 @@
    "time": "2026-11-24T12:05:18+00:00"
   },
   {
-   "cat": "tech",
-   "title": "Black Friday Apple: هذه الصفقات والعروض صالحة بالفعل الآن",
-   "summary": "",
-   "title_orig": "Black Friday Apple: Diese Deals und Angebote gelten schon jetzt",
-   "source": "WELT",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOVhzNDJCV0EwckxPVE15cDdFXzFjT3MyQ0xzUkdVOWt5YWVjelNwX0M2eUp6MW5IYXpMSEtNbEFLS3lxS1ExVnBKZ1Z6dkhSSVA4dmVpRzdwMkR5YTZmbkgzbXlBN3ZpNmJRbEJBMTBsRjQyU2ZFaFFYWWktbEprZHdaaWFXZmR1dzlGTzcyRmthTGlVY2hDSlR6SzhUaExZT09ON3czNDRKYlc1QWRMbkNISXJwY3JMRm52c0hiaTdfdDFZbkcxRjFn?oc=5",
-   "time": "2026-11-24T12:04:21+00:00",
-   "more": 2
-  },
-  {
    "cat": "germany",
    "title": "ألمانيا تتعاقد على أربع فرقاطات إضافية من فئة “ميكو إيه 200″",
    "summary": "",
@@ -1074,40 +1131,32 @@
    "time": "2026-11-24T11:44:16+00:00"
   },
   {
-   "cat": "germany",
-   "title": "مسح: ثقة الشركات الألمانية ترتفع للشهر السابع في نوفمبر",
+   "cat": "lebanon",
+   "title": "شركات ناشئة لبنانية تستعرض حلولاً مبتكرة لمواجهة تحديات الطاقة في لبنان",
    "summary": "",
-   "title_orig": "مسح: ثقة الشركات الألمانية ترتفع للشهر السابع في نوفمبر",
-   "source": "العربية",
-   "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPaXhOb2J1cDFNR0RvSDBCLVd1V3V2TWR2U0V6SUc1WGtkTkxyOXZpb1hOYXlybGFEZWxfemVtNFZnQmZSSDlrOGNLeFI3SnZCRi02QmpDVDVYN3pJYjBhQ2h6emlVWDRmN0ljQjdjUjd0QlIzQzJwN2dObXRldkFicS01MDlrNHBVZl9ZWERmWm5JdGdWWkpFeTFGaVg1aElDTVBUTUU3cGRxbmNmeXBGQjFHd1ZmR1Zjd0VxTGVIWFlUYUNSczRyRk9xanUwSVdrZEdrdU1Uc0dLdThaeG5wNHhYbDBacVc3SmtTaEZaRmZ0QlEyRFNSaEVJZ3lZcGViOWJRbF96QnBXTzh5UmlFWEFhbmh3SzlnU29KYTZaUms0eWZ0VHV1dUF4TWhpZXJqdzc3RlVvUXRuUmZzeHJUZ2xDRS1ZY3pnRWdsVUx0bDcwVkFEck9zTi1pS0hKaEh2Q016RlY0M3lGU3lVaVhGUzZuZ2NWcy1yWXdSUVNGTFhqOFgtUEVpNmhhTHZ3SEgwWjhlaHRfWTlObG1LcVowS2ZZNHRHS1k5bkFUVy0tZHZzaXNkRkVtME15TjBoRUFoT0N5XzFSc0xLSFV6aUJ2RWdaZ3FwXy1GbDRZ0gHgA0FVX3lxTE9SS2hmVWtrWTdpelBpTmxxT1FZRVpsc3VtYVd6SWZRRHlHTDJJcTY3SlZVc3dBcTFTWU83UlVNUG5NR2xuTlF4dFdGQkpYLXZVTS1LX29GYUlBbDJINElzM2UteV9qMTMwVTJaa21fWC1rWHdXc2hzb25oS0hna1BUejlDS2lvV3ROWlFRc2dtaGJVOXVTOTktSUk0cUpvcWVSMHdpb2RxOW5Qb1p2cXA5bzNGOVpxSl9ONGhIbllGODV4MjJNVjZIN0ctem9tbW9aNGhXNUtXTUw2MFhXZUdVWVhnblAyUzIta0hxZzNUdGVYOTdoNWNjVlpka0NpVm91WE1DNVdRcGZ5R2d1VVFmaGJSR1dfa21lQWhId1ctYXhXSDB2VjlkbWxkbC1wUlUzdEpPWnVxc2dianpUSGpMZjJXZHYzTVFRS3hObi12VTN5Zi1NNXJfSUc0aDVwNnJtZDRwSUpDaTFDX1dEM0tGVnRIcTJYSVVpVHN6MDZ0d3lKUS1aSEl6RzZGaGtVcFEyT1JRZWJ0TGEweDJsRWhWVG10NnlHZW9zOGFiVVJyR0RaWWxhN0VzbF9GQ1ZwbHZoVmVYRl9yTmNDWF9DdjU0SnliNlFiMDg4eWhzLWdnSA?oc=5",
-   "time": "2026-11-24T11:38:00+00:00"
+   "title_orig": "شركات ناشئة لبنانية تستعرض حلولاً مبتكرة لمواجهة تحديات الطاقة في لبنان",
+   "source": "United Nations Development Programme",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSi1JNzVHeGN1OHVJOER6VVpKV0Nnc1ptV1V1bE5mcG5GOUZFeUJFdVNXZzVuM01DaUlKbFNTRmNHUGZjRE1sUUtsYkZjVjRGSUhROVBRbkV0Q3ZkZUVJcGdtQmRwWDdMTk1GZUFtTEZBcENTb3NsS1pESWVQeVg3dzRJb0U5RTZoek9MUjVvamJVTlo4SXJCQ2QtWURTVzlkYjZXWlNaT29LY244MFhydWpIOTBpNnVONEFReg?oc=5",
+   "time": "2026-11-24T11:30:42+00:00"
   },
   {
-   "cat": "tech",
-   "title": "أربع سنوات من استخدام ChatGPT: 81% من الألمان يستخدمون الذكاء الاصطناعي",
-   "summary": "",
-   "title_orig": "Vier Jahre ChatGPT: 81 Prozent der Deutschen nutzen KI",
-   "source": "it-daily.net",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03MEdhbi1lcWoyWkhnUmh0SGN0SzlxRDcyUW12MUZYU3V3QzVfcXBMSzBDZUdZdmJiTXpvRThRTXlRX1F2SUotbjJnaEowVm0zYTVJcHZnNDdKa0RLcXJwMlhmRQ?oc=5",
-   "time": "2026-11-24T11:27:51+00:00"
-  },
-  {
-   "cat": "city",
+   "cat": "security",
    "title": "عملية واسعة النطاق في مدرسة آخن الأساسية",
    "summary": "",
    "title_orig": "Großeinsatz an Aachener Gesamtschule",
    "source": "Antenne AC",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFNHdV82NDNsUlhrSC1IVHdLVHpsRjhLWTFkdkNDT1hmTFFmaENEVTNWaVg3MS1oZF9rdUpnMDNZSi1WemtiaGRCV3h4cC1ERFNuX0tCLTdyNjRtU0I0Qk5fTUROdDMxdXYyaXh3cWRtOXBzLTZiQ09Qd0tDd0VkSHFxaU0?oc=5",
-   "time": "2026-11-24T11:16:00+00:00"
+   "time": "2026-11-24T11:16:00+00:00",
+   "more": 3
   },
   {
-   "cat": "germany",
-   "title": "\"هناك شعور باليأس\" يبدو أن ما لا يقل عن 1229 جندياً روسياً انتحروا منذ بداية الحرب",
+   "cat": "tech",
+   "title": "Shirudo: تقدم OpenAI وCisco درع الذكاء الاصطناعي لخوادم Linux",
    "summary": "",
-   "title_orig": "„Es herrscht ein Gefühl der Verzweiflung“ Mindestens 1229 russische Soldaten haben offenbar seit Kriegsbeginn Suizid begangen",
-   "source": "Tagesspiegel",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUnFZczVQd08yMlVEMkJWQ2QwN3FUa3o1YWZqUWJMNjQ0TmExV3pqLW5QN3RjZm11LXpvMWJVZ09LN3VTUWFUcXJLNi1PdWo0VGY2SjdlVHl3dllWcEVFNjhlUmxIUmF1cjBweVVPN2hTS3JreUgyamV1T0ZpUXRLVlBycmQ5WnBfY1V2cm9Qb0t1Z1FfQXQyMHcwWVlpWEFCX1VVaTcwWno3N0RUNjg0cnlaclN6Zm1VVFBlT2NGeTd3dVZvck1SZ0xQc2t2Mm02cHU2SXZJbUJRUklYTDU4X0NxRHNMQWF3MTBXTmtpTG00SjQ1bG53SUFfWnpLN3FJNlc1OF91ODNfTUNZRkE?oc=5",
-   "time": "2026-11-24T10:56:32+00:00"
+   "title_orig": "Shirudo: OpenAI und Cisco stellen KI-Schutzschild für Linux-Server vor",
+   "source": "heise online",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2Z3NDVSbmxEY1MxSmlNM3NTVnluN05pYk95UmFmcXpjQ2YxZFA2bllrOUx6TlRpTGt4QUtZZlMtMkxCVDBWZVRTQ0FxV3hXMjhITDl5Vm9yQ3NlcG9EOENoM1ptYnlEb3FhSjNZYk5xaXMtMzg4M1FCQnZDVkdtSy1FQnJOcFlRQTg2N09DbVdBUzFVNTNfQ3hXTFYwME5HVkNwSmpRT05CVkJWX3pr?oc=5",
+   "time": "2026-11-24T11:12:00+00:00"
   },
   {
    "cat": "security",
@@ -1130,21 +1179,13 @@
   },
   {
    "cat": "germany",
-   "title": "كيف تؤدي عروض الدفع الذاتي إلى إبطاء المرضى الذين لديهم تأمين صحي قانوني بشكل متزايد",
+   "title": "البوندستاغ: سياسي من الحزب الاشتراكي الديمقراطي يتهم ميرز بـ \"عدم احترام البرلمان\" - حزب البديل من أجل ألمانيا ينتقد \"المشهد المروع\"",
    "summary": "",
-   "title_orig": "Wie Selbstzahler-Angebote Kassenpatienten immer weiter ausbremsen",
-   "source": "tagesschau.de",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdlZiUFJkUE41T1ktY1hCaENKRnBORFF2X3dEdnY3bFg1NWxHX3dSaXJoenhzLXIybGQzR1ZJakVvVEtIWVVSeDI1WEFQMmdZYWJDVmRfOXRqZFJLbGowbVR5OVhGbW5JQUUxalJCdXlHXzFVekI3M0N0TFhqeWVxNWNVYXdHcFNjQ2xzWFlQeVdDdy1yTXc?oc=5",
-   "time": "2026-11-24T10:06:00+00:00"
-  },
-  {
-   "cat": "lebanon",
-   "title": "اليونيفيل: نتمسك بمواقعنا في لبنان حتى نهاية 2026",
-   "summary": "",
-   "title_orig": "اليونيفيل: نتمسك بمواقعنا في لبنان حتى نهاية 2026",
-   "source": "سكاي نيوز عربية",
-   "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOQzNhQXVlZnRpd2lwSlhwS0daWkJwRDg1X1cyV1hHOHpOSGdCb25xYldPWHBxbjlXVG5PUGE3dE5XcnZWV3Jma3JaaTVfRk1ZY01WNTR5ZE4tSTdrRllqNzE3VHRweDEzUU5ydWpDVncwWHdjMFBvVkkxWDBVTGE1UE1HNGxlNDZtVEpCTWFYX0loNG9iVE4yc1NmTTJreERJSnhQZ1h1R1VpYmxyaHo3SklzblZfTTFDNnRCS29ReEF3OGtua2plaXNCTUNWM3MyVFdhZ2pGbmZLVkpaTlNodU1hRlFDbE5JV3p3N3FpRzdrY1JDcV8tb3c0ekF5MU5RdmxzcjhKM2tLTmRVODdMSzhnUUt6ZzJEdnhBLXJqZjg0MG5Va1BMeFlJbkVvTDJvX2c4SlhGSHoxNjBTQXIzNnhobzhsbGI4MFdhQmI2VzlQYnF6d0Q0QXF6WHJJOW9adHVLQzM5Ty1UYTE0RHdPVjNJTXl1ZXhtdTliVmR1RnFiam5y0gGKA0FVX3lxTE1LSTlVbnRGUGpEZElwdHJRbVFfc2c4UVFDbHlTUXlXbnZqUzU2OVg4Z2xqQTkxV0drSWxYN3dsc29QTF9lcmlxaGprVUNCRzlHcDFwUnBtVHZ4MzhBRTlWSjl5ZzNaQkN1TnUxN1hnanJxY296V0tBYmdRNmVhYkNZaGxnajZzN1VqN1pGVEFublpiT1NjYWhrbFRsVUtVVGVIQUVzS3FnZmJVam5yYmxxVDVlcmpJRkxCZDJScEJhT2JyWTJtMVFoRl9Za3VIcjYzeFR5VkZJUGp6dmVOLWw2TVphdV80bG91V0hhMVV2NjVFci1XbHB6Z0F1UmFLVjZsbF9qd2dhS2FodWZHdkpaeVU4TjU0czJBWG1HZ1NybnBjSThZZUlRQlpFcmJmcUZtaWdQU2tPS3ZtVFRDTDJ3WHRCTHRjSFRBLXV0eHl5ZG54ekRMOGZUT0NDczBzel9Wdi1ad2xPcU9Mc1F4b3FkYnBfRzRQLXdVU0EtM2ZoZ0V0RFhkRHFzQlE?oc=5",
-   "time": "2026-11-24T09:16:06+00:00"
+   "title_orig": "Bundestag: SPD-Politiker wirft Merz „Missachtung des Parlaments“ vor – AfD kritisiert „furchtbares Schauspiel“",
+   "source": "WELT",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZUIzMHNNeDE0c21NVmdobFVPa3pPMkF3dkphMVFvVFhJZWNNOWZOOXNlYWtBZTNLN1BqU0dDT1JTb0tjRVROZFdYc2ZZQUhwVExCZF9oOUJCYzlrYk5HY2dhZnBaWHdWeFg3TkQ5WDFsX25qWi1KeEZNb2hWU2QtU1FtUkw1dkNXODQ0WGRVaGo5bTdvRUdPUkpIX29lRmRLbTdZVWp2X2lqOXJLWmhwTjVCTEdZZ2ZqQXQwQ1NWU2loZmh2d2lHRmhVT1JWZ0tlSlI3M25MQW1oZVZTSW1XbklqRld6TWg5ZkpudkpnQzdiQk9zM0lOMTFENl9pSHpMN3VyTUJuMWwzNklP?oc=5",
+   "time": "2026-11-24T09:59:46+00:00",
+   "more": 1
   },
   {
    "cat": "lebanon",
@@ -1156,13 +1197,13 @@
    "time": "2026-11-24T09:14:17+00:00"
   },
   {
-   "cat": "germany",
-   "title": "الألمان يديرون ظهرهم للدعم العسكري لأوكرانيا؟ استطلاع يكشف تراجعا لافتا في التأييد",
+   "cat": "security",
+   "title": "نظام الدفاع آخذ في الارتفاع: الحراس الحديثون يجذبون أفرادًا جددًا",
    "summary": "",
-   "title_orig": "الألمان يديرون ظهرهم للدعم العسكري لأوكرانيا؟ استطلاع يكشف تراجعا لافتا في التأييد",
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxPYmpJcTZ5RzVMVF9kRXRQeExseUd6ZFZVa1dScjVfWjhDbTlrRDVNTGRuRDdwQjF1QXpiajNBa1Rocnh4NFh2dnI4STNqQXhtOFVabVhVWXBib3hUR21xdWNETlFUUHpXclFEVnBDZmN5WExSNTZLYTFpekRoUjNQS1hQcFJtQ0VFcWNuQ0ZsM1lQVk9QYXpoZHM1WDlzcms3VThQREl0T1dxZU1ILS1GV3pJUVg5cm1QZzZNMWFYeTExSktWNGhRR0ZpZU9WMDZlUmZicExOZkh0RE4wdGJ5eWVUblgtY0hUeGhRb1Z1aUlFU0RJclZJQUYtSmRJY3JRMGlLcmxXYUluckF3Y2hibFRKNjgtTWVDVk03a3VFdDlXdnR4dmpITnVEUFhfUFBPVTlPcTJ1Q0g5cmhrdzI1bjEzX2RjOXNwcEZfMU5mZjVLdEhhaE5wTFhTemFzbTQ4eHFrWFliUlBFR1JPbkRfUEFkOWtyYzV3MW5YS2d1WWUzb1JVbnlhbk9UWjFTWDFOQnJCZnEzZ05sT1F6LXNQYUFUZ0xfQ0VKS1FKdTR6ZC1mbXdiWU83bUVIWnMzNWZKVWVCWW5TMFdOSXpsWW1uWmNRakhacDBJN3RHTnUxY1dUdW03eHpzWDZ5LU9haWhyVGpzQnBRV1ktd213TlFmSVJiaWw4WWp2ZUlvTjM5Y3FMcnZubmZyMWJ5eFNQZmNuS3ZCdHB6eE9qQlJleVB0ZjFSekwxc3JYTGVYTDdMVGFPQkFFMURmSUcwVDdYSXNzNEFWTFVZQm9sOGhMbEVKeURaTmRrQWczeThRWkRaOE1IZmhpV2FUd2p0UHV2WDVxNTdaQl9sONIBhwVBVV95cUxQNHZvYWo4T1M1ajlRdnR5TXRtcjFzSVIxVWRNcUkxdm1fdWFTUUtwSWNiRml5amlEQWdOdE5sTld3VXVBNFdEYnFJNjN2VTluMVQ3aGs1cndKbzJnZWxfa0tRRWZKaVQ1NFVTSlljODJCSUFHbUJRQmRxUW1vT3RUUGlEVmw5cVl1Y0hKRlhUWkpNdGpDNEZaOFhjT0JhSDF4WlppRi1KN1UwN2V1Z0xCakptTjRrZ21BZ3hTNG9ja3pjR3JXaHBCalBaRFFmXzY2NjdxY1pVTVRoSTVhdEZ3WHFReWpBdkpvUDhQX2g2WXdJamZ2dXVuTDFaSldNWVBjMWpkRlI4dVZpWmljLTRWY1luWnNxWTh3WlFGaXBDc3M2c1oxUzlqX2J4eWxXeHhRQVdUa0E3RUJRNHE4MHliVUE1alBCMHVwblpKU2F5blppbUZpOWhnU1NLaFctSFZvZFp5bFdrRkEyOHpEOHJWckw0ZEtseFc5WDZNbUlBOFI1TGs1SThuUldja0pMWEZxZUxoN2pieXBjcE42czVxY3NpdUtpZFlSQzN4bGdKRHREMmxYTXNqamtYS1E1M0hLd2RySEMyOVF1ZUE0aXZxUVhIVmNaa3U2dUlPMGF0cURWVmNvdHpYY3ExNUFfMnpHclZ4UFV3UW9uZFcya3dXM195V0pqcVFGaWpXTXBvb21Ob2tVSjFtb290MGVKZFo3a0dORXc3aWhhdW5ZM3Q4LUZ1eW1wRHl3SGxoUENtRno0bGNHRUxUbDU5Y0ZGMXAwNzdNZXVuR3hHb0l2TTAxenFaQUVqQXNKN2F2Q1FWLU01SjVxV3g2N3ZBNUNaUWN2VFVkTXRfUQ?oc=5",
-   "time": "2026-11-24T09:02:29+00:00"
+   "title_orig": "Die Wehr im Aufwind: Moderne Wachen locken neues Personal an",
+   "source": "Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOelh5dHdUSjVKdXYwLUNVS0pSZGNhZG1ZbWtuNFQ1WDU1eUpQT0lGUDQ2aVJpS01BTnRWTjEyOXJkQjFqZzdUNWNSRHEwYVVSbjgzaHZkREdGQ1ZITGJDS3dwX3ZnYWhaSENLa2ZZWW5ESUo2MXo3Y1F3QkhPYTJOUUdjcW9TYmNrQmRlaUw5ZWdkd2dGY0hfSUZSeDk4OG1hUEVxa3o4VE1TZnlRb0xabzdoUEM3Tmc2ZTE1aVlmdks4UWllYnpuTW9oQlc3eWxUTHc?oc=5",
+   "time": "2026-11-24T09:00:00+00:00"
   },
   {
    "cat": "community",
@@ -1190,6 +1231,24 @@
    "source": "الهيئة الوطنية للإعلام",
    "url": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxNc1J2akpNYUpXVDdwamd3X2FPMFdQVUtQaEh4bXc3a1lHT0l6eWpJUFFjTVVIbE1MNlVYdElyRGo3THQ5UEtEanJQVkFuTGt3Vm10VE1CZ1hReTJkRGFjTEdQNkdaT2JRdnFCUm13Q1V5b0xqbUN0ZXZ1bE9nd29HV0dOVnhlVDI5MklyYVVWbk1VVWw3Y0wySkVZZ0xDX0VvcThOOEFxc243UHFfNkdiMDBvZ0VtWWNCLVh3bkpBZ0xVVVNibWEtYUVyUXJyYkZJWkt3Sk55UGRiaFlGVWliVHA3VWJralRaZTBJVHdRY3ZUQXFvaVZ2MVVLWmRiMGxkNU11S1RoczJBRm96VkdVSnh6NE1fMTNaVGp1V3NOZGthZjhDOTFjdU9OUHZqZV9iWVJwdjVNZlFpUC1LcUxLT2gwVnVmcjZ0U1doTTBlT1h3ZXR2cndKaU9zaTVzY3FReFMzVHRPbUQxNjhPelY2Q1NJdUpwa1ZRRmxCODBrdW9zY3lHMnNBN2toQndHSVRVNGNkeUZqYmRleEpic1Z5VkZiaDFhQVB1R3cxM2I2amdOeXN5RkJFYnI5S3Z1X0ZCNWhYeG5kWUVQMFJ5d3E0UlRxak5sbGZobDMtUHVRLUtHdGxmV25BT0YteXFDZnYwbV96eDZQUEJBRDh5RXZLY3hXcmtZOGVOU3cxd25rR2dzOHdYb19oYTZic1RfcFBnejc5VDQ3dGtKUHJNS1ZFMHJBUFRMaWxvUTFQeTRlLXZjZl85YThHNk45eDBWTmxKUEVxTFBNaEg4SlJ6YXlKVF9NYkJZMzBHUUxOcVRmQW9rZw?oc=5",
    "time": "2026-11-24T08:54:00+00:00"
+  },
+  {
+   "cat": "tech",
+   "title": "يقوم الذكاء الاصطناعي أحيانًا بإنشاء تقارير أفضل عن التفريغ – الأخبار",
+   "summary": "",
+   "title_orig": "Künstliche Intelligenz erstellt teilweise bessere Entlassungsberichte – News",
+   "source": "Deutsches Ärzteblatt",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY3ZWV1lBUFlYc1BPNVlQSGxabXVmdUFQYUVKUHV3ZXJxVmhkZ3V2R2hLZExUUTFGekE2NFc3RV9PdVVlcW9TNGJLX0ZJeGZvaUpub0M5ZG5SSkF5MExKZVc2LXpYbDgtdjQ2dHY0MTlsWlR2cE1DLWwxWUNVRnBxN21UY0stV29mTmJyVkxvbUMyc2cySVZnWjhCWlBBSGFhQTFoUHZHSU0xNUExZjNiUmFuYTJPaGF4Rk9sVlBDVkZTN3BwS1dJM3ZZazdqUFNZVHlaXw?oc=5",
+   "time": "2026-11-24T08:40:18+00:00"
+  },
+  {
+   "cat": "lebanon",
+   "title": "جنوب لبنان بعد \"اليونيفيل\".. فراغ أمني يهدد بتجدد الحرب",
+   "summary": "",
+   "title_orig": "جنوب لبنان بعد \"اليونيفيل\".. فراغ أمني يهدد بتجدد الحرب",
+   "source": "الجزيرة نت",
+   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOWWxpaXpVLW1zRXVRQUY2cnA3RG5zVER4M3I2ODJRajFVYkFFNGwtME42QW9Ec21qem9SMWd4MElYWEl3Sk1HRHBwNzdaOVN5aDFMRUVMbEVZNmczUUxISVk5MTlIVk0zOTNrdE1aSlpUTkk1WkluUEpnblppQ216YmFVQWU1RnVINVp6YmE1ZmhuUm5GY0RxZTMycHlINjdVYnJWMlFRVWhnWl93LWE0WFBMRGEtTnB4bC1qeFphNG1nVmdnUl9Fb1RLNno4bFhXdUd3WGE1Z3JaVERvekFGdmJXY1A5YUkxSTY1OG8yUTdnQTNadnZlbW1xNnoyeGpKRlVidnhaNFc2bnF6UWM1YXlDZGdfN0ZUWHBYSG9RLXloM0VnNDdBU29CbmhwM09pMnAtaDZ3enFtdk1CUS11NlQwMFFLQzND?oc=5",
+   "time": "2026-11-24T08:31:43+00:00"
   },
   {
    "cat": "tech",
@@ -1226,25 +1285,7 @@
    "source": "Reuters",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEU1Z4MXU1dUg5cDNZbDR5WjRqTVRXcGNweEFYY2NuMmRHMjdKRWpxaUREZ3lEXzNiVFRIR0NTTWIyMkVYdjVKOGYzTmJZMEoyM3pfdTFYclQyM3Q1OEliQWpmWEJjMUJROV9IQi1iR25jVWkxcnhZbGxISS05d0U?oc=5",
    "time": "2026-11-24T07:02:00+00:00",
-   "more": 1
-  },
-  {
-   "cat": "tech",
-   "title": "OpenAI تطلق GPT-6.2 لـ ChatGPT",
-   "summary": "",
-   "title_orig": "OpenAI veröffentlicht GPT-6.2 für ChatGPT",
-   "source": "heise online",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObnYtTnIwRlpnQ1RmblFzN3JNZzczN2RxMWJXUlJJeDlrY2ZvQnVqN0VPc0Z6czl0SHpPLUQ1YkFMWi14UkJ4OWFGZ3MyLWVsTndwMW5tMDV0WE03N3pwOHBHaGhMTlYwTVBrUWoxX1I5U2p0eHdNRjFhalhCOE80dGhnc2FLNEZZYkRN?oc=5",
-   "time": "2026-11-24T07:00:00+00:00"
-  },
-  {
-   "cat": "germany",
-   "title": "جراحة القلب المفتوح: لماذا يمكن أن تكون هناك مناقشات ساخنة في البوندستاغ في أسبوع الميزانية هذا؟",
-   "summary": "",
-   "title_orig": "Operation am offenen Herzen: Warum es in dieser Haushaltswoche scharfe Bundestagsdebatten geben kann",
-   "source": "tagesschau.de",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQblhqbHFOZzlocG9KZmdSYWEyYS1SRlFHTDRKbVR5UVc0dm10RkNJTzNxZkZibk1xV0VDYjZJb2I2alYzakVsaEwzMGU3MUNEUGh5YjdEaHBaNVd0U1NsY0dmdVRQUm50NGp4VWdWNXJFdHUyZjB2ODN4X2JZWWVLSkJ4V2M0Zw?oc=5",
-   "time": "2026-11-24T06:47:00+00:00"
+   "more": 2
   },
   {
    "cat": "city",
@@ -1266,48 +1307,12 @@
   },
   {
    "cat": "germany",
-   "title": "الناتو يرسل طائرة أواكس: بولندا تطلب المساعدة من دول فيسيغراد ضد روسيا",
+   "title": "التقدم البارد: ما تبقى فعلاً من زيادة الأجور",
    "summary": "",
-   "title_orig": "Nato schickt Awacs-Flugzeug: Polen bittet Visegrad-Staaten um Hilfe gegen Russland",
-   "source": "n-tv.de",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaHh4cjdPc0E1YUY1UHBoWER6Q1k4cGpGZ3V5Q0lTLVpROF9yTU1vRHdab3ZoUlk1VnJUZDdvbjktZDF1cW02VTFTaTVuUUUyTmdzLUxqdkltdXJvYmR6LWd2aEt3a3JmaWtxdlBFYlBWMEZiaUZCRFM2Sk5KX3V2Vl9ESVpicDdSUkZRVnBaX1JsN1l0dGVaVGxndVdSdw?oc=5",
-   "time": "2026-11-24T04:39:30+00:00"
-  },
-  {
-   "cat": "lebanon",
-   "title": "مسؤول: قتيلان و22 مصابا في هجوم روسي على زابوريجيا بأوكرانيا",
-   "summary": "",
-   "title_orig": "مسؤول: قتيلان و22 مصابا في هجوم روسي على زابوريجيا بأوكرانيا",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Qem1RNzdNWXo0djhBb2lJUlNibXJLMmhYdVh4UWxVSXJDTmFfNl9PVEhMNlgzQ1Z2aXN6ZjE0cmtnMUdQOEo4TjR0ek9VMFdnb0I4SXJmdWZaWUxQOE41cjJ4YzJpVmFTUkU1d2xHNEhNZmF3U0EweXBNMA?oc=5",
-   "time": "2026-11-24T03:50:00+00:00"
-  },
-  {
-   "cat": "germany",
-   "title": "جدل حول \"الهجرة\": نائب من حزب البديل من أجل ألمانيا: ولاية ساكسونيا أنهالت لن تبدو كما كانت في عام 2015",
-   "summary": "",
-   "title_orig": "Debatte über «Remigration»: AfD-Vize: Sachsen-Anhalt wird nicht aussehen wie 2015",
-   "source": "DIE ZEIT",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZW5VRjBORXRpTjVOckIycWk5SGlUSGVVUk1FaUNYWFcyb3NZWEhwZHlYZVo5aGZNM0RmUjN4TEFaSXpIUktmSzdOZXhReFJJZncyQnBLc0tZcVM3RVoxQVNxUXJDajdJMW83Y0ljWHkwV3RDQVJWbUw2bC1vNWo4ZjNDbmRzR0dWTzUxOXBMQ010UQ?oc=5",
-   "time": "2026-11-24T03:00:19+00:00"
-  },
-  {
-   "cat": "city",
-   "title": "معاينة : بالتوقيت المحلي من آخن",
-   "summary": "",
-   "title_orig": "Vorschau: Lokalzeit aus Aachen",
-   "source": "ARD Mediathek",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vSGV5VnpzWW40LS1sQ25DanFQMkp3Y1NuTG9SZmU1aVctTUNTT0dIRndacUs1aGxxZHZSdjV5T1MzUkhqUmZJYXNnSGFBNUxObGR3VHpzTUpUVUstWTBtazRJNWhDWEhxVkxBdFFBZEVCQQ?oc=5",
-   "time": "2026-11-23T23:05:00+00:00"
-  },
-  {
-   "cat": "germany",
-   "title": "ألمانيا تحذر من التسرع بشأن سلاح نووي فضائي روسي جديد",
-   "summary": "",
-   "title_orig": "ألمانيا تحذر من التسرع بشأن سلاح نووي فضائي روسي جديد",
-   "source": "سكاي نيوز عربية",
-   "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQZVRmNmYzRDVYLW5VaHdMeXBNQTJDenNjX0VhSWV2amN3LXJiM1VXUXNzSkp5ZEZyVXZ2eEVoc2JsZEw1N0R6ZmJLQXVzcmlSaFJOZElGRW40akhWeW0xYnZXQmwyZWxsWERKQ3VSTkt6SHFhVjNjUG13UFhkX2ZXaGFoazEtRWRBT1lReVdXLXRxVXQ2MWdaRVFQVmxaZ0x3WUNJUUlpc0ZJOFlteDFySWc3aVM3QXkydkotdGg4VzhaOVRUMmdIeVllbWNUV2RJMk1ZemFRTnJHRjZFNEc2NHRQMFJyRDJyd29CZHB2NW81a1cxMjFGdFpCbDVMNFVXRU1UNXhYTGZYcmlkVVpOQTdhcHd6WlZVOERndzRLeXZyZnlESnpBQjh4azNFdFpDNzB5WFlzSzFPbUJwaXRoZnV0eEJpc1pVZkdMaU92N0tUOHdtM1RpY1JPdDdCcExsRUxuckFoQjVCWDZ2a1VDN213cmpvMzQySGxuZEpCbERnTDZVN1VwcHlCbTBkR2FYbjM0UC0yNHVEcUVTcXN3OThGWExnRTZLWWYwU3FhUUVEd9IBtwNBVV95cUxQMFlJQVdrcVk1eWRvRWttSjV3WWVFem9LSG8wY2tZRDZZdDJrQWFEODV0aFFGbzZVVk5CZlZkbDZJZE5QOUFzcnR0bEtaS0F2bVdpT2lRcklKNk90N2tVQnRWU0lVeGV0NlJUd3JZOWNNb19RSG1RbHdtLUhrTTE1WVcweTRKOE96UFVRYW9pa3c2OGM4Yng1YXFWWmNNSm1UeEZEeXdVemhrUDUzYllzOXhHSk01RHJWSEQ2UWtVU2tTdC1UZnNwcmlVc0x5OTR2WmdfUjlBQ2JHTEtsSEtuSGFyZ1FqRVlhQ2NUWl9hQ2hjZDU1LUZWTVNTNTJwaGdDdkpsWThOekc2OWEyQk56OFlHMWZ2eUdPcy1WOGd4ZDgta1pjSXVFb2JWY1pzQXRialR3TjVmYjk5MWdZbEg5SENJWHNlVTh2TFVQOVBnTzEyNnRnYWNQNWROUUE4OFdiTlNEakhydG85MmVZWXQ5VzlfZy00T1A0djFqVUZfWnp1RlBxMmtGMlFpclQxRFFlN25kQ0pIQ3dQQUZ3MDZ6Uy0wWFNtZ1hzWHY2dERTZjRGZlhXZnlR?oc=5",
-   "time": "2026-11-23T22:28:43+00:00"
+   "title_orig": "Kalte Progression: Was von der Lohnerhöhung wirklich übrigbleibt",
+   "source": "BR",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXVWY2tXWE1OYld1elFXS2lNQzJ4OFpUUm9jMEZ6VkQ2dk5EaDlrUXVlV196Y3RHTVZ2TW5ZUm5fY0dyRk45MXBYRHpQeWdHaTY4ZHBzNll6d0g3cWotMzVialZydlJFTm1rX3VVYVdvcWxSQm9QOTRWaThmQXdWRWpmc0Fpa3pDWkZ3MjVjLWNBNGVvNW5rY05RTXg2Q2xnRW9uUExWV09EYjVQbWV5dENCRXM?oc=5",
+   "time": "2026-11-24T04:13:08+00:00"
   },
   {
    "cat": "community",
@@ -1319,6 +1324,70 @@
    "time": "2026-11-23T22:10:54+00:00"
   },
   {
+   "cat": "germany",
+   "title": "تم تحذير دول الناتو: روسيا سترسل قريباً سلاحاً نووياً إلى الفضاء - سياسة - SZ.de",
+   "summary": "",
+   "title_orig": "Nato-Staaten sind vorgewarnt: Russland will wohl bald Atomwaffe ins All schicken - Politik - SZ.de",
+   "source": "SZ.de",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDRqbkxRYjUxdFNMV2pqNGROUmZDVnNCMGVPaVhHcFMtT19qQ3pxSXJkVVc5SmtrdDVVTVRTeFJuanF5d2tVTHdXOVFaMEMyNVd5R3ZlUXcyZ2VkbDBZTU91UlRfYlAyeDdscWlHN3pqcTNmTFB0SWlwelJnSEpoZEFPaTVEMk1MMXNFZFpkTVoyS3hWVnRNNFdjQkVxZlZlcEtycy1HaUNnOFhPM19GRm54YmdlclpmdHdqOUxpYTI?oc=5",
+   "time": "2026-11-23T16:00:00+00:00"
+  },
+  {
+   "cat": "security",
+   "title": "من المحتمل أن يكون سبب انقطاع الإشارة على خط السكة الحديد في آخن هو التخريب",
+   "summary": "",
+   "title_orig": "Signalstörung auf Aachener Bahnstrecke wohl durch Sabotage ausgelöst",
+   "source": "Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQelBta3FvWUctREh3Z1d6OENlNmxtRG96OHZPWlNoanZMX2RsWENQcjVmOTlkSVlsTzN2X2tYRnVlUlNYbXh6TjBjeHhVUkxDc0ViWHIyZVZydnZvVF84Y0gwdXh2RzZsVFRuNEk3TGpJaWV4VFhPNzNpYzlzY1llQ0llam9hRHgtV2hQUW5NXy05RHBnT3FuNkplYWFJQVc1cnAyY05ienBTYmZBcmVmWUJXX0xmY1Z1RHRhT1RERXNyVlJtTHZMR3lPVzY3VFBfT3JZSUw3bE1aclVHa0hV?oc=5",
+   "time": "2026-11-23T14:22:00+00:00"
+  },
+  {
+   "cat": "security",
+   "title": "مكالمات صادمة في آخن: الشرطة تحذر من المحتالين",
+   "summary": "",
+   "title_orig": "Schockanrufe in Aachen: Polizei warnt vor Betrügern",
+   "source": "Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWUVVTU9lTDA2THltVVRjNkdDaGhCZTN4dnk3UXRxbTNsbFpKZ3BLS2xMenhFT0VkOVk4cnZocktPamtDbjRQTE1sR2NsSFZuZTJscWJxX0RuNGZEeFpJTFBTME82RGNwQmpCRTZlZnFoZHJDR1Qya3N0T0VhaW8ybVJBd3NEdThlVjFZV0pKTEY4VUFZMzBlbkNmclFjM0hBcVFrcFA4UlJST2RtVjJCdEZHU3k?oc=5",
+   "time": "2026-11-23T14:05:00+00:00"
+  },
+  {
+   "cat": "germany",
+   "title": "\"عملية نموذجية\" ضد آلة الحرب الروسية",
+   "summary": "",
+   "title_orig": "„Exemplarische Operation“ gegen Russlands Kriegsmaschine",
+   "source": "taz.de",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqOW9iazZ6cndNczJQZ2RVT0dvLXRXb2l5a0U3OGFveHNCV19oRGJ4WVNRakxnZkpvRFpnenUwRGV5bjRuY3RMUzF4OEgwbWg4SWRSb2pIM3lLTXNIQWdDSTJ6cEFvN2VPaVYw?oc=5",
+   "time": "2026-11-23T14:03:11+00:00"
+  },
+  {
+   "cat": "security",
+   "title": "التهديدات بالقنابل في المدارس: منطقة المدينة ومقاطعتي دورين وهاينزبيرج لم تتأثر",
+   "summary": "",
+   "title_orig": "Bombendrohungen an Schulen: Städteregion sowie Kreise Düren und Heinsberg nicht betroffen",
+   "source": "Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNLVhjQkhUV2ctSkNBRS1HR2ZsR2pQcDBwZldkOFFuQVRXU0tiRGRTSWZBTGh2UTFQbDhta3g5M1ZTVUx3OWNlTnFZbnFfcmlSWXp5ekRUbDhvS2ZoWW12ZGZ4R3M1QkRiVV85ano1cHFCUElOYTdPN2laQTE2YnJ4ZFF5bktTLVNJMk9PaGo0NWpuZWdoejQ1X0ZfNHNfUWdzdE5BNHQ4YlpLYTliVEpELXE2Si1YdnVlcENRaXREU3VHempaRlF2X3dBZUxPeldrZnVvVmRPclM1MWxudDRJMnFfNEpvRWNEZmt1X2lwaVFiVE1EaHNMYlNR?oc=5",
+   "time": "2026-11-23T13:25:00+00:00",
+   "more": 1
+  },
+  {
+   "cat": "security",
+   "title": "تيار الضوء الأزرق: عمليات الشرطة والحوادث وعمليات فرق الإطفاء في المنطقة في لمحة",
+   "summary": "",
+   "title_orig": "Blaulicht aktuell: Polizeieinsätze, Unfälle und Feuerwehreinsätze in der Region auf einen Blick",
+   "source": "Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ0JRQmJRRzJCSDVFS3pocTRrQUU5ZnkySlRzS2pMRDZKcUp3aXJJWnhEckduRWFlZ0FTdVAyU29PWjBxVTZ6alRmT1BWRW5jM2tGd05KQUNPUmt4YmtqaEx4T3h3TUxVUjJWU1diZFJNN2s1WHJXcXFLVU1vT0JEeHZ1cXJTQUl1empwTWd2cHllZTFUM2tpTTRxT3NIYWZaN1Q1RXRxMUxERkZIRWNDWVZPaUV1bmZocHhvdkMtczJXWG5rRVBubHJyUWlENXg5S2NmUkkxVW5HMzVieEVlUThwdEdnUQ?oc=5",
+   "time": "2026-11-23T12:13:00+00:00"
+  },
+  {
+   "cat": "germany",
+   "title": "النموذج الاسكندنافي: رئيس الشرطة يدعو إلى معاقبة جون في ألمانيا أيضًا",
+   "summary": "",
+   "title_orig": "Nordisches Modell: Polizeipräsidentin fordert, auch in Deutschland den Freier zu bestrafen",
+   "source": "RP Online",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHMyd2dRRjM5UlNvYm5hZDdrcjJwZnJwVF9pbldsWGM1aGdpUmF5a2VhQnlKTk8zWHlTQWFkRjVYcmlRU3Z4Ym5pX25NUjhjWTlHNENfWEVlSEFIN2dqcHdwb0ZuSjQwVHpZRmNtRHlsdGlkYmMyVXk0QklhVUw5Yk93Skl0TVpZQVhyLWU1VUpqempuY184OXdSTUwtTGR0alhuSktzMEp1Mm1YdTlHXzNvbWMzd1h1eFNtWnUwSVQ?oc=5",
+   "time": "2026-11-23T10:17:00+00:00"
+  },
+  {
    "cat": "security",
    "title": "POL-AC: سطو مسلح على محطة وقود",
    "summary": "Baesweiler (ots) - مساء يوم السبت (21 نوفمبر 2026) حدثت عملية سطو على محطة وقود في شارع Aachener Straße في Baesweiler. وفقًا للنتائج الحالية، دخل رجل غير معروف سابقًا إلى غرفة المبيعات حوالي الساعة 8:30 مساءً.",
@@ -1326,7 +1395,25 @@
    "source": "Polizei Aachen",
    "url": "https://www.presseportal.de/blaulicht/pm/11559/6395810",
    "time": "2026-11-23T09:28:08+00:00",
-   "more": 1
+   "more": 2
+  },
+  {
+   "cat": "city",
+   "title": "بداية حملة صندوق عيد الميلاد 2026",
+   "summary": "",
+   "title_orig": "Start der Weihnachtskistenaktion 2026",
+   "source": "WDR",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdE5hTXJ4T1pGRlYwN0trQkRHZG8zbUYtZGV4YTVyNi1feDlGelotRFB3M0dPZHNadTZsVWhNalo1VEgzLVhtV3pCbnItM0JGSjIyeDloN2NBSXpGS3lFNmppMTNNU05kaGw1bVREVU5SMVFEOVhKX2N3TjlFWklBaS1qaW0wNXo2Z3fSAYoBQVVfeXFMTnROYU1yeE9aRkZWMDdLa0JER2RvM21GLWRleGE1cjYtX3g5RnpaLURQdzNHT2RzWnU2bFVoTWpaNVRIMy1YbVd6Qm5yLTNCRkoyMng5aDdjQUl6Rkt5RTZqaTEzTVNOZGhsNW1URFVOUjFRRDlYSl9jd045RVpJQWktamltMDV6Nmd3?oc=5",
+   "time": "2026-11-23T06:35:47+00:00"
+  },
+  {
+   "cat": "security",
+   "title": "أصيب ثلاثة أشخاص بعد حادث على B221 بالقرب من Wegberg-Arsbeck",
+   "summary": "",
+   "title_orig": "Drei Verletzte nach Unfall auf B221 bei Wegberg-Arsbeck",
+   "source": "Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT2VBaTNRaFlQMHVLTlJ6UnczVFhwaUtQQ04ybHRxWFVQT2toVWpSV09NWWtnODJQOUdKelZSZXlYM3BiQmFTZS1iT3c3djdrU042c1I5cWZtWWQtM1FnVWdtRTZ5cHNvMktqYnZoN2lnQXE1QTI3QVlxZGwwSEt0U1Y3dGZjTUw3YUpQc3lJVDdxNHYxV1FiZVlfRXpqb2ZSbUtiZzR5bEZRWm5Fc2M1V3ExN0h1U1d3enFlQnhFUmNBdldKcXFwRHUyN0VlZncx?oc=5",
+   "time": "2026-11-22T19:50:00+00:00"
   },
   {
    "cat": "community",
@@ -1347,13 +1434,22 @@
    "time": "2026-11-22T15:43:28+00:00"
   },
   {
-   "cat": "city",
-   "title": "الطقس ستولبرغ: اتجاه 16 يوما",
+   "cat": "security",
+   "title": "بعد تعرضه لحادث في سيرك عيد الميلاد: لا يزال الفنان آلان أليجريا يفكر كثيرًا في مدينة آخن",
    "summary": "",
-   "title_orig": "Wetter Stolberg: 16 Tage Trend",
-   "source": "wetter.com",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbUZyVGNESUJsVTVBUzJQVUhldTdBT0NpMGJLTXU4Sl9PRFYxUnZMSU5zQ0ZCZElXUjVuUUtiOXJOd1BNZ3JrQWxSSS1MYWUzSHVWSVlERnpDdmp2QVd5R2FQU29tbXBFQ1Q3ek9Wb1VZbXJkeGVoLWRxTHNqZll1MmNoU2lJbVQ2bUVzTHFXcUlpYmdEZDk1dEItSzhfcFR6anpxaTJocw?oc=5",
-   "time": "2026-11-22T09:41:48+00:00"
+   "title_orig": "Nach Unfall beim Weihnachtscircus: Artist Alain Alegria denkt noch oft an Aachen",
+   "source": "Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQi1saGJOdlBpMEpsR2pqSHNwbVBtWlJJN1NYU3BuQXZNeVIyZDAtZW0wR2tJdVJoS21UQkZmMU9OQk1XRUQyb0VvaHg0eHNEc0phRkNPNkp2RjNjc2xPYWE5UGk1dUw2eGpMeVcwcVNXZW9CcUJFWi0wcklnSTlJbEFPdHdWa0hFM2l5bjktcXBZbExUT0prSFBjY01TLUViLWlyWVBLMTdGUi11REliM2p1MEd2amMwczdUbk81VUxoSGQyLUhMV3BHN3JCR1RKVFFub3NacklrTGZmazFfVzJNaHNyTktWbWZn?oc=5",
+   "time": "2026-11-22T09:00:00+00:00"
+  },
+  {
+   "cat": "security",
+   "title": "الاشتباه في القتل: الشرطة تقوم بتفتيش منطقة الغابات في هارين",
+   "summary": "",
+   "title_orig": "Mordverdacht: Polizei durchsucht Waldstück in Haaren",
+   "source": "Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZFFGWTFwc0swLXR0QnNOZk5pTEwyenducUpPTEFITVh3NVhSOXY2NnVuRGNYcVV5Y1F4a2hGRHAzdEhTVFlIT0RkSmFuT0JvV0s2OW9uWHBPUlVjVGZsRExEYlJnN1JZNV9EOEEtUmFkN1h6VnZseG10Smp5ZGptZjRZejFhY3BMNWhGbzJlc1R2elA3c3NsRWUzb0doZEdpM3ZNVXRnTUhoWFgtM19JbnZQOG1HUElUUmwxRTlDdHQyOTNQeEJFYXZDUG44Wjdr?oc=5",
+   "time": "2026-11-22T09:00:00+00:00"
   },
   {
    "cat": "city",
@@ -1365,13 +1461,33 @@
    "time": "2026-11-22T07:07:42+00:00"
   },
   {
-   "cat": "city",
+   "cat": "security",
+   "title": "\"لا يزال بإمكاني رؤية وجهه اليوم\": كيف يؤدي خطأ صغير في B57 إلى مأساة",
+   "summary": "",
+   "title_orig": "„Ich sehe bis heute sein Gesicht“: Wie ein kleiner Fehler auf der B57 in eine Tragödie mündet",
+   "source": "Aachener Zeitung",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaFBRNFZWRzdubWwxWG1LdkU0NHhUSXVOdktDUEdZejdWTXh4VGtVMkFEY0RMOEpYOWtPV3lHZmJpdmFSV2NvQlQ1SHRmZzdGRjNLY3p5SlZHNEZsTUs1Wmo5Mm9nUUJTeHQwcDI0UDEzaXlBSllHOURFZzZQWlBpa1RwaXlTM3JZWFIwRGVqN19iQzUxSllrYUFDc1RGS18wSlUxYlZxekZEaWRPaS1BT1hScWcxVDJtTVZfYWkzS3NCUlB2RFQzZzZ5OVBDSHRzRVlBT0t5VjNKQU92d0FWMHR4LTRMV3BCcTNhYlBfQ0dvbUg2TlFXOHlObUEwdnNz?oc=5",
+   "time": "2026-11-22T05:59:00+00:00"
+  },
+  {
+   "cat": "security",
    "title": "حريق في محطة فايسفايلر للطاقة: انتهت عملية فرقة الإطفاء التي تضم حوالي 60 خدمة طوارئ",
    "summary": "",
    "title_orig": "Brand im Kraftwerk Weisweiler: Feuerwehreinsatz mit rund 60 Einsatzkräften beendet",
    "source": "WDR",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT3pOcjJkeEw4aEdHVHpFN2Zwa19VZ3ZFd3dTcDB4cjR0ZEdQQjJfTjlLQWd0Mm9LMm5iY0xpeG5jT0ljLW1PZkc1bl9sNm55TVVwNTh4ckdfZ2RVYzh2blpUd3BPWUVhaV9xT2V6RGVZaGFKN19mcHg1ZEEzN05adVQtemxfbHdtYWtRclVKYTJiZENRdU1hYjJEMWRrdFI0S1BESG9VMVQ1eHIydFFtVmF3?oc=5",
-   "time": "2026-11-21T14:42:54+00:00"
+   "time": "2026-11-21T14:42:54+00:00",
+   "more": 2
+  },
+  {
+   "cat": "security",
+   "title": "بيدرمان ومشعلو الحرائق - مسرح آخن",
+   "summary": "",
+   "title_orig": "Biedermann und die Brandstifter - Theater Aachen",
+   "source": "Nachtkritik.de",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQU1pSVTJFVDBJcFVEQm9HUGp1M0RIdEVnS1VFTlgtbHJsYUdjOXlSMGhmblEyWWk4RjFvSWIxRy10U0JwZl9IMUJRQzhXcjFsZDkzemtqUGpkNmV1dGpfMlkzUGRyNDJ3bUtqU1gybHJ0ZU1iNksyMEx5OXB1WTRfYzR5Vk1vMm9sVU5mZFlrT0YtdzV3UTM1NmhMTUpSdi1FOFBFNS1Mc0NzOTNqN2FIMldyS3B3ZDBWbHVud0tBNWFJNHJRSXo3Uk91M0ZMZmZMTmw2Mk9KZGx1QlljcG0td00wV2RnZTliQjNRa1g1Szl4NzRsb0V1RTNQX1dqSXJQSk9LYk85S3haNlZtTm5jQUVmWGdzM19YU2xIeUZ4b0NoNjJ4WEI3Wl9kZC1JMVJBUzJv?oc=5",
+   "time": "2026-11-21T07:44:32+00:00",
+   "more": 1
   }
  ]
 }
