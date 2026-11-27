@@ -163,10 +163,18 @@ def norm_title(t):
 
 def read_feed(cat, fixed_source, url):
     items = []
-    try:
-        root = ET.fromstring(fetch(url))
-    except Exception as e:
-        print(f"feed failed {url}: {e}", file=sys.stderr)
+    root = None
+    for attempt in range(3):
+        try:
+            root = ET.fromstring(fetch(url))
+            break
+        except Exception as e:
+            print(f"feed failed {url}: {e}", file=sys.stderr)
+            if attempt < 2 and "news.google.com" in url:
+                time.sleep(6 * (attempt + 1))
+            else:
+                break
+    if root is None:
         return items
     for it in root.iter("item"):
         title = clean(it.findtext("title"))
@@ -239,6 +247,10 @@ def main():
             r["title"] = tr.get(r["title"], r["title"])
             r["summary"] = tr.get(r["summary"], r["summary"]) if r["summary"] else ""
 
+    # إن فشلت مصادر قسم كاملاً (مثلاً 503 من Google) نُبقي أخباره السابقة بدل محوه
+    for u, o in old.items():
+        if counts.get(o.get("cat"), 0) == 0 and u not in seen_urls:
+            result.append(o)
     result.sort(key=lambda i: i["time"] or "", reverse=True)
     if not result and old:
         print("no items fetched — keeping old file", file=sys.stderr)
