@@ -29,9 +29,13 @@ FEEDS = [
     ("city", None, gnews('Aachen')),
     ("city", None, gnews('"Städteregion Aachen" OR Alsdorf OR Würselen OR Herzogenrath OR Eschweiler OR Stolberg')),
     # ألمانيا: أهم العناوين الألمانية (تُترجم) + أخبار عربية عن ألمانيا
+    ("germany", "DW عربية", "https://rss.dw.com/xml/rss-ar-all"),
+    ("germany", "Tagesschau", "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml"),
     ("germany", None, "https://news.google.com/rss?hl=de&gl=DE&ceid=DE:de"),
     ("germany", None, gnews("ألمانيا", "ar")),
     # التقنية والذكاء الاصطناعي
+    ("tech", "Golem", "https://rss.golem.de/rss.php?feed=RSS2.0"),
+    ("tech", "t3n", "https://t3n.de/rss.xml"),
     ("tech", None, gnews('"الذكاء الاصطناعي" OR ChatGPT OR OpenAI OR Claude OR Gemini', "ar")),
     ("tech", None, gnews('"künstliche Intelligenz" OR KI-Modell OR OpenAI OR Anthropic OR "Google Gemini" OR ChatGPT')),
     ("tech", None, gnews('iPhone OR Apple OR Android OR Samsung OR Smartphone OR Tech')),
@@ -44,6 +48,8 @@ FEEDS = [
     ("papers", "WELT", "https://www.welt.de/feeds/topnews.rss"),
     ("papers", "n-tv", "https://www.n-tv.de/rss"),
     # لبنان: أهم العناوين في لبنان بالعربية
+    ("lebanon", "النهار", "https://www.annahar.com/rss"),
+    ("lebanon", "الجزيرة", "https://www.aljazeera.net/rss"),
     ("lebanon", None, "https://news.google.com/rss?hl=ar&gl=LB&ceid=LB:ar"),
     ("lebanon", None, gnews("لبنان", "ar", "LB")),
 ]
