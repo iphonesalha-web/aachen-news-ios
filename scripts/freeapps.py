@@ -87,7 +87,13 @@ def main():
         if a.get("supportedDevices") and "iphone" not in devs:
             continue
         genres = [g.lower() for g in a.get("genres", [])]
-        if "games" in genres:
+        gids = {str(x) for x in a.get("genreIds", [])} | {str(a.get("primaryGenreId", ""))}
+        # الألعاب: المعرف 6014 وتصنيفاتها الفرعية 7001-7019 (الاسم يتغير حسب اللغة: Games/Spiele)
+        if "6014" in gids or any(7001 <= int(g) <= 7019 for g in gids if g.isdigit()):
+            continue
+        if any(g in ("games", "spiele") for g in genres):
+            continue
+        if re.search(r"\b(spiel|game|games|rpg|puzzle|spiele)\b", title, re.I):
             continue
         if not a.get("trackName") or a.get("kind") != "software":
             continue
